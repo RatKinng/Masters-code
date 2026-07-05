@@ -1,0 +1,35 @@
+========== Summary ==========
+Telemetry lines : 6436
+Flip events     : 1872
+Affected bytes  : 387
+Warnings        : 15
+Unknown lines   : 9
+Heatmap saved   : results\fault_injection_20260616_200622_heatmap.png
+
+========== Warnings ==========
+Line 16: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 272: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 1167: FLIP occurred after 2 telemetry lines (expected 3-4).
+Line 5793: FLIP occurred after 2 telemetry lines (expected 3-4).
+Line 5869: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 7180: FLIP occurred after 2 telemetry lines (expected 3-4).
+Line 7444: FLIP occurred after 2 telemetry lines (expected 3-4).
+Line 7712: FLIP occurred after 2 telemetry lines (expected 3-4).
+Line 7976: FLIP occurred after 2 telemetry lines (expected 3-4).
+Line 8054: FLIP occurred after 2 telemetry lines (expected 3-4).
+Line 8241: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 8274: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 8506: FLIP occurred after 2 telemetry lines (expected 3-4).
+Line 8535: FLIP occurred after 2 telemetry lines (expected 3-4).
+Line 8771: FLIP occurred after 1 telemetry lines (expected 3-4).
+
+====== Unrecognized Lines ======
+Line 884: [2026-06-16 20:09:55] ERROR: HANG
+Line 885: [2026-06-16 20:09:55] HANG DETECTED AT ADDRESS 0x011E
+Line 886: [2026-06-16 20:09:55] ARDUINO RESET VIA DTR
+Line 888: [2026-06-16 20:10:02] ADVANCING TO ADDRESS 0x0128
+Line 889: [2026-06-16 20:10:02] ADDRESS 0x0128 CAUSED HANG
+Line 891: [2026-06-16 20:10:04] ADVANCING TO ADDRESS 0x0132
+Line 6858: [2026-06-16 20:33:39] -..-.-.-...-..-.-.-...-..-.-.-...
+Line 7297: [2026-06-16 20:35:20] -..-.-.-...-..-.-.-...-..-.-.-...
+Line 7740: [2026-06-16 20:37:03] -..-.-.-...-..-.-.-...-..-.-.-...-..-.-.-...

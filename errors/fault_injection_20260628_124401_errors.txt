@@ -1,0 +1,1473 @@
+========== Summary ==========
+Telemetry lines : 76170
+Flip events     : 22353
+Affected bytes  : 7726
+Warnings        : 470
+Unknown lines   : 996
+Heatmap saved   : results\fault_injection_20260628_124401_heatmap.png
+
+========== Warnings ==========
+Line 1059: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 1321: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 1583: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 1845: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 2107: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 2369: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 2631: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 2893: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 3155: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 3417: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 3688: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 3946: FLIP occurred after 2 telemetry lines (expected 3-4).
+Line 4137: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 4172: FLIP occurred after 2 telemetry lines (expected 3-4).
+Line 4276: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4281: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4285: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4289: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4294: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4298: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4303: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4307: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4312: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4316: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4321: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4325: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4329: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4334: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4338: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4343: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4347: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4352: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4356: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4361: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4365: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4369: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4374: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4378: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4383: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4387: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4392: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4396: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4401: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4405: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4409: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4414: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4418: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4423: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4427: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4432: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4446: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4456: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4461: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4465: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4470: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4474: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4479: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4483: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4487: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4492: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4496: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4501: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4505: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4510: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4514: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4519: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4523: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4527: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4532: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4536: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4541: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4545: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4550: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4554: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4559: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4563: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4567: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4572: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4576: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4581: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4585: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4590: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4594: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4599: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4603: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4607: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4612: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4616: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4621: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4625: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4630: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4634: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4638: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4643: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4647: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4651: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4655: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4660: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4664: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4668: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4673: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4677: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4681: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4685: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4689: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4693: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4705: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4715: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4720: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4724: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4729: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4733: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4738: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4742: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4746: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4751: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4755: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4760: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4764: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4769: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4773: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4778: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4782: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4786: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4791: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4795: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4800: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4804: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4809: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4813: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4818: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4822: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4826: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4831: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4835: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4840: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4844: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4849: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4853: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4858: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4862: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4866: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4871: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4875: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4880: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4884: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4889: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4893: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4898: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4902: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4906: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4911: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4915: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4920: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4924: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4929: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4933: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4938: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4942: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4946: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4951: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4955: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 4968: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 5230: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 5493: FLIP occurred after 39 telemetry lines (expected 3-4).
+Line 5755: FLIP occurred after 106 telemetry lines (expected 3-4).
+Line 6082: FLIP occurred after 176 telemetry lines (expected 3-4).
+Line 6466: FLIP occurred after 193 telemetry lines (expected 3-4).
+Line 6728: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 6991: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 7253: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 7516: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 7778: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 8041: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 8303: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 11360: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 11419: FLIP occurred after 2 telemetry lines (expected 3-4).
+Line 11541: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 11684: FLIP occurred after 2 telemetry lines (expected 3-4).
+Line 11717: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 11949: FLIP occurred after 2 telemetry lines (expected 3-4).
+Line 12047: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 12230: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 12250: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 12524: FLIP occurred after 2 telemetry lines (expected 3-4).
+Line 12787: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 13046: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 13138: FLIP occurred after 5 telemetry lines (expected 3-4).
+Line 13396: FLIP occurred after 2 telemetry lines (expected 3-4).
+Line 13733: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 13766: FLIP occurred after 5 telemetry lines (expected 3-4).
+Line 14040: FLIP occurred after 2 telemetry lines (expected 3-4).
+Line 14302: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 14565: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 14776: FLIP occurred after 2 telemetry lines (expected 3-4).
+Line 14830: FLIP occurred after 2 telemetry lines (expected 3-4).
+Line 14948: FLIP occurred after 2 telemetry lines (expected 3-4).
+Line 15099: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 15128: FLIP occurred after 2 telemetry lines (expected 3-4).
+Line 15364: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 15491: FLIP occurred after 2 telemetry lines (expected 3-4).
+Line 15630: FLIP occurred after 2 telemetry lines (expected 3-4).
+Line 15668: FLIP occurred after 2 telemetry lines (expected 3-4).
+Line 15895: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 16040: FLIP occurred after 2 telemetry lines (expected 3-4).
+Line 16161: FLIP occurred after 2 telemetry lines (expected 3-4).
+Line 16217: FLIP occurred after 2 telemetry lines (expected 3-4).
+Line 16427: FLIP occurred after 2 telemetry lines (expected 3-4).
+Line 16483: FLIP occurred after 2 telemetry lines (expected 3-4).
+Line 16696: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 16965: FLIP occurred after 2 telemetry lines (expected 3-4).
+Line 17046: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 17263: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 17500: FLIP occurred after 2 telemetry lines (expected 3-4).
+Line 17520: FLIP occurred after 2 telemetry lines (expected 3-4).
+Line 17765: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 18028: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 18291: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 18554: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 18817: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 19080: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 19343: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 19606: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 19869: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 20132: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 20395: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 20657: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 20667: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 20837: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 21013: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 21201: FLIP occurred after 2 telemetry lines (expected 3-4).
+Line 21220: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 21792: FLIP occurred after 2 telemetry lines (expected 3-4).
+Line 22055: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 22318: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 22581: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 22844: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 23107: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 23370: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 23633: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 23896: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 24159: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 24422: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 24691: FLIP occurred after 2 telemetry lines (expected 3-4).
+Line 24960: FLIP occurred after 2 telemetry lines (expected 3-4).
+Line 25229: FLIP occurred after 2 telemetry lines (expected 3-4).
+Line 25254: FLIP occurred after 5 telemetry lines (expected 3-4).
+Line 25528: FLIP occurred after 2 telemetry lines (expected 3-4).
+Line 25791: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 26054: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 26317: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 26580: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 26843: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 27106: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 27369: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 27632: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 27895: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 28158: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 28421: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 28684: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 28947: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 29210: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 29473: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 29736: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 29999: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 30262: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 30525: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 30788: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 31051: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 31314: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 31577: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 31840: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 32103: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 32366: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 32629: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 32880: FLIP occurred after 2 telemetry lines (expected 3-4).
+Line 32898: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 33060: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 33163: FLIP occurred after 2 telemetry lines (expected 3-4).
+Line 33334: FLIP occurred after 2 telemetry lines (expected 3-4).
+Line 33432: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 33510: FLIP occurred after 2 telemetry lines (expected 3-4).
+Line 33769: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 34032: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 34451: FLIP occurred after 2 telemetry lines (expected 3-4).
+Line 34745: FLIP occurred after 2 telemetry lines (expected 3-4).
+Line 34998: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 35261: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 35524: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 35787: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 36050: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 36313: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 36576: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 36839: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 37102: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 37365: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 37628: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 37891: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 38154: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 38417: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 38680: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 38943: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 39206: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 39469: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 39732: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 39995: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 40258: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 40521: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 40784: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 40985: FLIP occurred after 2 telemetry lines (expected 3-4).
+Line 41016: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 41192: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 41368: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 41691: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 41867: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 42141: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 42636: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 42899: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 43162: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 43424: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 43687: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 43950: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 44212: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 44475: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 44738: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 45000: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 45271: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 45441: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 45652: FLIP occurred after 2 telemetry lines (expected 3-4).
+Line 45676: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 45950: FLIP occurred after 2 telemetry lines (expected 3-4).
+Line 46213: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 46475: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 46738: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 47001: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 47263: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 47526: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 47749: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 47900: FLIP occurred after 1 telemetry lines (expected 3-4).
+Line 48441: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 48703: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 48965: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 49227: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 49489: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 49751: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 50013: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 50275: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 50537: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 50799: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 51061: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 51323: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 51585: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 51847: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 52109: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 52371: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 52633: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 52895: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 53157: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 53419: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 53681: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 53943: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 54205: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 54467: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 54729: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 54991: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 55253: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 55515: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 55777: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 56039: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 56301: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 56563: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 57086: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 57348: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 57871: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 58133: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 58395: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 58657: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 59180: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 59703: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 60487: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 61532: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 62577: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 63622: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 64406: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 65190: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 65713: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 66497: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 67542: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 69109: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 69632: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 69894: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 70156: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 70418: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 70680: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 70942: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 71204: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 71466: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 71728: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 72251: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 72513: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 72775: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 73298: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 73821: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 74605: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 74867: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 75129: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 75391: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 75653: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 75915: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 76438: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 76961: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 77484: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 78007: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 79052: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 79575: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 80620: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 81143: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 81666: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 82189: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 82712: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 84540: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 89761: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 90023: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 90285: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 90547: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 90809: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 91071: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 91594: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 91856: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 92118: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 92380: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 92642: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 92904: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 93166: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 93428: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 93690: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 93952: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 94214: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 94737: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 94999: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 95261: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 95523: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 95785: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 96308: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 96570: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 96832: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 97355: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 97617: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 98140: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 98402: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 98925: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 99187: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 99710: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 99972: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 100495: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 100757: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 101280: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 101542: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 102065: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 102588: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 103111: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 103373: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 103635: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 103897: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 104159: FLIP occurred after 0 telemetry lines (expected 3-4).
+Line 104421: FLIP occurred after 0 telemetry lines (expected 3-4).
+
+====== Unrecognized Lines ======
+Line 3667: [2026-06-28 12:58:30] F
+Line 3849: [2026-06-28 12:59:13] -..-.-.-...-..-.-.-...-..-.-.-...-..-.-.-...
+Line 3850: [2026-06-28 12:59:18] ERROR: HANG
+Line 3851: [2026-06-28 12:59:18] HANG DETECTED AT ADDRESS 0x0218
+Line 3852: [2026-06-28 12:59:18] ARDUINO RESET VIA DTR
+Line 3854: [2026-06-28 12:59:24] ADVANCING TO ADDRESS 0x022C
+Line 3855: [2026-06-28 12:59:24] ADDRESS 0x022C CAUSED HANG
+Line 3857: [2026-06-28 12:59:26] ADVANCING TO ADDRESS 0x0240
+Line 4163: [2026-06-28 13:00:38] ERROR: HANG
+Line 4164: [2026-06-28 13:00:38] HANG DETECTED AT ADDRESS 0x0254
+Line 4165: [2026-06-28 13:00:38] ARDUINO RESET VIA DTR
+Line 4167: [2026-06-28 13:00:44] ADVANCING TO ADDRESS 0x0268
+Line 4168: [2026-06-28 13:00:44] ADDRESS 0x0268 CAUSED HANG
+Line 4170: [2026-06-28 13:00:46] ADVANCING TO ADDRESS 0x027C
+Line 4273: [2026-06-28 13:01:07] Eptime: 22944 | Analog: 509 | Accel: -2.186,1.346,-9.591 | Gyro: -0.030,-0.040,0.013 | Temp: 19.24
+Line 4274: [2026-06-28 13:01:07] Eptime: 23232 | Analog: 502 | Accel: -2.239,1.267,-9.601 | Gyro: -0.021,-0.039,0.013 | Temp: 19.25
+Line 4275: [2026-06-28 13:01:07] Eptime: 23520 | Analog: 498 | Accel: -2.239,1.267,-9.601 | Gyro: -0.021,-0.039,0.013 | Temp: 19.25
+Line 4277: [2026-06-28 13:01:07] Ertime: 23808 | Analog: 506 | Accel: -2.234,1.281,-9.574 | Gyro: -0.033,-0.037,0.016 | Temp: 19.24
+Line 4278: [2026-06-28 13:01:08] Ertime: 24096 | Analog: 498 | Accel: -2.234,1.281,-9.574 | Gyro: -0.033,-0.037,0.016 | Temp: 19.24
+Line 4279: [2026-06-28 13:01:08] Ertime: 24384 | Analog: 498 | Accel: -2.207,1.290,-9.565 | Gyro: -0.026,-0.047,0.003 | Temp: 19.23
+Line 4280: [2026-06-28 13:01:08] Ertime: 24672 | Analog: 498 | Accel: -2.207,1.290,-9.565 | Gyro: -0.026,-0.047,0.003 | Temp: 19.23
+Line 4282: [2026-06-28 13:01:09] Ervime: 24960 | Analog: 501 | Accel: -2.222,1.329,-9.548 | Gyro: -0.041,-0.035,0.025 | Temp: 19.25
+Line 4283: [2026-06-28 13:01:09] Ervime: 25248 | Analog: 507 | Accel: -2.253,1.300,-9.574 | Gyro: -0.014,-0.042,0.012 | Temp: 19.24
+Line 4284: [2026-06-28 13:01:09] Ervime: 25536 | Analog: 513 | Accel: -2.253,1.300,-9.574 | Gyro: -0.014,-0.042,0.012 | Temp: 19.24
+Line 4286: [2026-06-28 13:01:10] Ervame: 25824 | Analog: 512 | Accel: -2.188,1.319,-9.574 | Gyro: -0.031,-0.038,0.011 | Temp: 19.22
+Line 4287: [2026-06-28 13:01:10] Ervame: 26112 | Analog: 507 | Accel: -2.188,1.319,-9.574 | Gyro: -0.031,-0.038,0.011 | Temp: 19.22
+Line 4288: [2026-06-28 13:01:10] Ervame: 26400 | Analog: 500 | Accel: -2.212,1.288,-9.572 | Gyro: -0.022,-0.039,0.014 | Temp: 19.25
+Line 4290: [2026-06-28 13:01:11] Ervae: 26688 | Analog: 498 | Accel: -2.234,1.283,-9.567 | Gyro: -0.031,-0.038,0.013 | Temp: 19.24
+Line 4291: [2026-06-28 13:01:11] Ervae: 26976 | Analog: 497 | Accel: -2.234,1.283,-9.567 | Gyro: -0.031,-0.038,0.013 | Temp: 19.24
+Line 4292: [2026-06-28 13:01:11] Ervae: 27264 | Analog: 498 | Accel: -2.184,1.295,-9.591 | Gyro: -0.015,-0.042,0.008 | Temp: 19.22
+Line 4293: [2026-06-28 13:01:12] Ervae: 27552 | Analog: 498 | Accel: -2.184,1.295,-9.591 | Gyro: -0.015,-0.042,0.008 | Temp: 19.22
+Line 4295: [2026-06-28 13:01:12] Ervag: 27840 | Analog: 499 | Accel: -2.241,1.271,-9.558 | Gyro: -0.021,-0.038,0.015 | Temp: 19.24
+Line 4296: [2026-06-28 13:01:12] Ervag: 28128 | Analog: 502 | Accel: -2.241,1.271,-9.558 | Gyro: -0.021,-0.038,0.015 | Temp: 19.24
+Line 4297: [2026-06-28 13:01:13] Ervag: 28416 | Analog: 508 | Accel: -2.179,1.348,-9.620 | Gyro: -0.030,-0.041,0.012 | Temp: 19.26
+Line 4299: [2026-06-28 13:01:13] Ervag> 28704 | Analog: 512 | Accel: -2.248,1.149,-9.536 | Gyro: -0.019,-0.035,0.026 | Temp: 19.24
+Line 4300: [2026-06-28 13:01:13] Ervag> 28992 | Analog: 511 | Accel: -2.248,1.149,-9.536 | Gyro: -0.019,-0.035,0.026 | Temp: 19.24
+Line 4301: [2026-06-28 13:01:13] Ervag> 29280 | Analog: 507 | Accel: -2.207,1.367,-9.627 | Gyro: -0.023,-0.045,-0.028 | Temp: 19.23
+Line 4302: [2026-06-28 13:01:14] Ervag> 29568 | Analog: 500 | Accel: -2.207,1.367,-9.627 | Gyro: -0.023,-0.045,-0.028 | Temp: 19.23
+Line 4304: [2026-06-28 13:01:14] Ervag>029856 | Analog: 497 | Accel: -2.241,1.290,-9.577 | Gyro: -0.033,-0.037,0.014 | Temp: 19.23
+Line 4305: [2026-06-28 13:01:14] Ervag>030144 | Analog: 498 | Accel: -2.241,1.290,-9.577 | Gyro: -0.033,-0.037,0.014 | Temp: 19.23
+Line 4306: [2026-06-28 13:01:15] Ervag>030432 | Analog: 498 | Accel: -2.172,1.283,-9.606 | Gyro: -0.019,-0.041,0.013 | Temp: 19.21
+Line 4308: [2026-06-28 13:01:15] Ervag>0 | Analog: 30720 | Analog: 498 | Accel: -2.239,1.274,-9.546 | Gyro: -0.015,-0.039,0.025 | Temp: 19.22
+Line 4309: [2026-06-28 13:01:15] Ervag>0 | Analog: 31008 | Analog: 499 | Accel: -2.239,1.274,-9.546 | Gyro: -0.015,-0.039,0.025 | Temp: 19.22
+Line 4310: [2026-06-28 13:01:16] Ervag>0 | Analog: 31296 | Analog: 502 | Accel: -2.184,1.271,-9.584 | Gyro: -0.030,-0.041,0.013 | Temp: 19.24
+Line 4311: [2026-06-28 13:01:16] Ervag>0 | Analog: 31584 | Analog: 510 | Accel: -2.184,1.271,-9.584 | Gyro: -0.030,-0.041,0.013 | Temp: 19.24
+Line 4313: [2026-06-28 13:01:16] Ervag>031872513 | Accel: -2.217,1.293,-9.553 | Gyro: -0.026,-0.039,0.013 | Temp: 19.22
+Line 4314: [2026-06-28 13:01:17] Ervag>032160511 | Accel: -2.217,1.302,-9.572 | Gyro: -0.025,-0.039,0.014 | Temp: 19.22
+Line 4315: [2026-06-28 13:01:17] Ervag>032448505 | Accel: -2.217,1.302,-9.572 | Gyro: -0.025,-0.039,0.014 | Temp: 19.22
+Line 4317: [2026-06-28 13:01:17] Ervag>032736511 | Accel: -2.210,1.271,-9.574 | Gyro: -0.026,-0.038,0.013 | Temp: 19.22
+Line 4318: [2026-06-28 13:01:18] Ervag>033024497 | Accel: -2.210,1.271,-9.574 | Gyro: -0.026,-0.038,0.013 | Temp: 19.22
+Line 4319: [2026-06-28 13:01:18] Ervag>033312497 | Accel: -2.227,1.322,-9.543 | Gyro: -0.025,-0.039,0.013 | Temp: 19.24
+Line 4320: [2026-06-28 13:01:18] Ervag>033600497 | Accel: -2.227,1.322,-9.543 | Gyro: -0.025,-0.039,0.013 | Temp: 19.24
+Line 4322: [2026-06-28 13:01:19] Ervag>033888497 | Accel: -2.227,1.305,-9.577 | Gyro: -0.024,-0.040,0.013 | Temp: 19.23
+Line 4323: [2026-06-28 13:01:19] Ervag>034176499 | Accel: -2.219,1.290,-9.550 | Gyro: -0.024,-0.040,0.013 | Temp: 19.22
+Line 4324: [2026-06-28 13:01:19] Ervag>034464504 | Accel: -2.219,1.290,-9.550 | Gyro: -0.024,-0.040,0.013 | Temp: 19.22
+Line 4326: [2026-06-28 13:01:19] Ervag>034752510 | Accel: -2.234,1.295,-9.582 | Gyro: -0.035,-0.036,0.018 | Temp: 19.24
+Line 4327: [2026-06-28 13:01:20] Ervag>035040512 | Accel: -2.234,1.295,-9.582 | Gyro: -0.035,-0.036,0.018 | Temp: 19.24
+Line 4328: [2026-06-28 13:01:20] Ervag>035328508 | Accel: -2.136,1.403,-9.582 | Gyro: -0.038,-0.037,0.004 | Temp: 19.23
+Line 4330: [2026-06-28 13:01:20] Ervag>035616502 | Accel: -2.243,1.233,-9.610 | Gyro: -0.017,-0.031,0.019 | Temp: 19.23
+Line 4331: [2026-06-28 13:01:21] Ervag>035904497 | Accel: -2.243,1.233,-9.610 | Gyro: -0.017,-0.031,0.019 | Temp: 19.23
+Line 4332: [2026-06-28 13:01:21] Ervag>036192497 | Accel: -2.186,1.317,-9.622 | Gyro: -0.026,-0.050,-0.014 | Temp: 19.25
+Line 4333: [2026-06-28 13:01:21] Ervag>036480497 | Accel: -2.186,1.317,-9.622 | Gyro: -0.026,-0.050,-0.014 | Temp: 19.25
+Line 4335: [2026-06-28 13:01:22] Ervag>036768497 | Accel: -2.251,1.247,-9.567 | Gyro: -0.035,-0.037,0.017 | Temp: 19.23
+Line 4336: [2026-06-28 13:01:22] Ervag>037056497 | Accel: -2.251,1.247,-9.567 | Gyro: -0.035,-0.037,0.017 | Temp: 19.23
+Line 4337: [2026-06-28 13:01:22] Ervag>037344500 | Accel: -2.215,1.286,-9.613 | Gyro: -0.013,-0.041,0.011 | Temp: 19.22
+Line 4339: [2026-06-28 13:01:23] Ervag>037632506 | Accel: -2.210,1.326,-9.591 | Gyro: -0.029,-0.038,0.012 | Temp: 19.22
+Line 4340: [2026-06-28 13:01:23] Ervag>037920512 | Accel: -2.210,1.326,-9.591 | Gyro: -0.029,-0.038,0.012 | Temp: 19.22
+Line 4341: [2026-06-28 13:01:23] Ervag>038208512 | Accel: -2.236,1.281,-9.577 | Gyro: -0.022,-0.039,0.013 | Temp: 19.24
+Line 4342: [2026-06-28 13:01:24] Ervag>038496507 | Accel: -2.236,1.281,-9.577 | Gyro: -0.022,-0.039,0.013 | Temp: 19.24
+Line 4344: [2026-06-28 13:01:24] Ervag>038784500 | Accel: -2.186,1.369,-9.567 | Gyro: -0.035,-0.038,0.012 | Temp: 19.22
+Line 4345: [2026-06-28 13:01:24] Ervag>039072497 | Accel: -2.186,1.369,-9.567 | Gyro: -0.035,-0.038,0.012 | Temp: 19.22
+Line 4346: [2026-06-28 13:01:24] Ervag>039360497 | Accel: -2.258,1.298,-9.538 | Gyro: -0.018,-0.037,0.013 | Temp: 19.22
+Line 4348: [2026-06-28 13:01:25] Ervag>039648497 | Accel: -2.145,1.374,-9.584 | Gyro: -0.028,-0.039,0.010 | Temp: 19.24
+Line 4349: [2026-06-28 13:01:25] Ervag>039936496 | Accel: -2.145,1.374,-9.584 | Gyro: -0.028,-0.039,0.010 | Temp: 19.24
+Line 4350: [2026-06-28 13:01:25] Ervag>040224498 | Accel: -2.274,1.142,-9.665 | Gyro: -0.014,-0.065,0.025 | Temp: 19.23
+Line 4351: [2026-06-28 13:01:26] Ervag>040512501 | Accel: -2.274,1.142,-9.665 | Gyro: -0.014,-0.065,0.025 | Temp: 19.23
+Line 4353: [2026-06-28 13:01:26] Ervag>040800508 | Accel: -2.253,1.312,-9.572 | Gyro: -0.022,-0.039,0.013 | Temp: 19.23
+Line 4354: [2026-06-28 13:01:26] Ervag>041088512 | Accel: -2.222,1.324,-9.572 | Gyro: -0.028,-0.040,0.013 | Temp: 19.24
+Line 4355: [2026-06-28 13:01:27] Ervag>041376510 | Accel: -2.222,1.324,-9.572 | Gyro: -0.028,-0.040,0.013 | Temp: 19.24
+Line 4357: [2026-06-28 13:01:27] Ervag>041664511 | Accel: -2.217,1.274,-9.579 | Gyro: -0.024,-0.039,0.014 | Temp: 19.24
+Line 4358: [2026-06-28 13:01:27] Ervag>041952498 | Accel: -2.217,1.274,-9.579 | Gyro: -0.024,-0.039,0.014 | Temp: 19.24
+Line 4359: [2026-06-28 13:01:28] Ervag>042240496 | Accel: -2.251,1.286,-9.591 | Gyro: -0.018,-0.041,0.012 | Temp: 19.26
+Line 4360: [2026-06-28 13:01:28] Ervag>042528496 | Accel: -2.251,1.286,-9.591 | Gyro: -0.018,-0.041,0.012 | Temp: 19.26
+Line 4362: [2026-06-28 13:01:28] Ervag>042816497 | Accel: -2.200,1.322,-9.562 | Gyro: -0.034,-0.039,0.013 | Temp: 19.24
+Line 4363: [2026-06-28 13:01:29] Ervag>043104497 | Accel: -2.219,1.312,-9.591 | Gyro: -0.026,-0.040,0.014 | Temp: 19.23
+Line 4364: [2026-06-28 13:01:29] Ervag>043392498 | Accel: -2.219,1.312,-9.591 | Gyro: -0.026,-0.040,0.014 | Temp: 19.23
+Line 4366: [2026-06-28 13:01:29] Ervag>043680503!| Accel: -2.169,1.360,-9.536 | Gyro: -0.026,-0.044,-0.013 | Temp: 19.23
+Line 4367: [2026-06-28 13:01:30] Ervag>043968510!| Accel: -2.169,1.360,-9.536 | Gyro: -0.026,-0.044,-0.013 | Temp: 19.23
+Line 4368: [2026-06-28 13:01:30] Ervag>044256511!| Accel: -2.219,1.240,-9.565 | Gyro: -0.031,-0.038,0.014 | Temp: 19.24
+Line 4370: [2026-06-28 13:01:30] Ervag>044544508!< Accel: -2.215,1.250,-9.586 | Gyro: -0.016,-0.042,0.011 | Temp: 19.24
+Line 4371: [2026-06-28 13:01:30] Ervag>044832501!< Accel: -2.215,1.250,-9.586 | Gyro: -0.016,-0.042,0.011 | Temp: 19.24
+Line 4372: [2026-06-28 13:01:31] Ervag>045120496!< Accel: -2.212,1.417,-9.565 | Gyro: -0.031,-0.039,0.010 | Temp: 19.23
+Line 4373: [2026-06-28 13:01:31] Ervag>045408496!< Accel: -2.212,1.417,-9.565 | Gyro: -0.031,-0.039,0.010 | Temp: 19.23
+Line 4375: [2026-06-28 13:01:31] Ervag>045696497!<"Accel: -2.231,1.199,-9.577 | Gyro: -0.016,-0.043,0.013 | Temp: 19.22
+Line 4376: [2026-06-28 13:01:32] Ervag>045984497!<"Accel: -2.231,1.199,-9.577 | Gyro: -0.016,-0.043,0.013 | Temp: 19.22
+Line 4377: [2026-06-28 13:01:32] Ervag>046272498!<"Accel: -2.229,1.274,-9.584 | Gyro: -0.017,-0.041,0.011 | Temp: 19.22
+Line 4379: [2026-06-28 13:01:32] Ervag>046560503!<"Qccel: -2.198,1.343,-9.594 | Gyro: -0.030,-0.039,0.013 | Temp: 19.24
+Line 4380: [2026-06-28 13:01:33] Ervag>046848509!<"Qccel: -2.198,1.343,-9.594 | Gyro: -0.030,-0.039,0.013 | Temp: 19.24
+Line 4381: [2026-06-28 13:01:33] Ervag>047136511!<"Qccel: -2.219,1.326,-9.553 | Gyro: -0.026,-0.039,0.013 | Temp: 19.24
+Line 4382: [2026-06-28 13:01:33] Ervag>047424509!<"Qccel: -2.219,1.326,-9.553 | Gyro: -0.026,-0.039,0.013 | Temp: 19.24
+Line 4384: [2026-06-28 13:01:34] Ervag>047712502!<"QCcel: -2.207,1.288,-9.584 | Gyro: -0.027,-0.038,0.014 | Temp: 19.23
+Line 4385: [2026-06-28 13:01:34] Ervag>048000498!<"QCcel: -2.207,1.288,-9.584 | Gyro: -0.027,-0.038,0.014 | Temp: 19.23
+Line 4386: [2026-06-28 13:01:34] Ervag>048288498!<"QCcel: -2.198,1.288,-9.589 | Gyro: -0.028,-0.038,0.013 | Temp: 19.23
+Line 4388: [2026-06-28 13:01:35] Ervag>048576498!<"QCbel: -2.210,1.279,-9.598 | Gyro: -0.025,-0.039,0.013 | Temp: 19.21
+Line 4389: [2026-06-28 13:01:35] Ervag>048864498!<"QCbel: -2.210,1.279,-9.598 | Gyro: -0.025,-0.039,0.013 | Temp: 19.21
+Line 4390: [2026-06-28 13:01:35] Ervag>049152499!<"QCbel: -2.205,1.317,-9.582 | Gyro: -0.026,-0.038,0.013 | Temp: 19.22
+Line 4391: [2026-06-28 13:01:36] Ervag>049440503!<"QCbel: -2.205,1.317,-9.582 | Gyro: -0.026,-0.038,0.013 | Temp: 19.22
+Line 4393: [2026-06-28 13:01:36] Ervag>049728510!<"QCbml: -2.215,1.293,-9.574 | Gyro: -0.025,-0.040,0.012 | Temp: 19.21
+Line 4394: [2026-06-28 13:01:36] Ervag>050016511!<"QCbml: -2.198,1.334,-9.558 | Gyro: -0.027,-0.039,0.013 | Temp: 19.21
+Line 4395: [2026-06-28 13:01:36] Ervag>050304507!<"QCbml: -2.198,1.334,-9.558 | Gyro: -0.027,-0.039,0.013 | Temp: 19.21
+Line 4397: [2026-06-28 13:01:37] Ervag>050592511!<"QCbmd: -2.215,1.310,-9.567 | Gyro: -0.026,-0.039,0.013 | Temp: 19.21
+Line 4398: [2026-06-28 13:01:37] Ervag>050880498!<"QCbmd: -2.215,1.310,-9.567 | Gyro: -0.026,-0.039,0.013 | Temp: 19.21
+Line 4399: [2026-06-28 13:01:37] Ervag>051168498!<"QCbmd: -2.207,1.276,-9.560 | Gyro: -0.027,-0.038,0.014 | Temp: 19.20
+Line 4400: [2026-06-28 13:01:38] Ervag>051456498!<"QCbmd: -2.207,1.276,-9.560 | Gyro: -0.027,-0.038,0.014 | Temp: 19.20
+Line 4402: [2026-06-28 13:01:38] Ervag>051744499!<"QCbmd> -2.222,1.300,-9.555 | Gyro: -0.029,-0.039,0.013 | Temp: 19.19
+Line 4403: [2026-06-28 13:01:38] Ervag>052032500!<"QCbmd> -2.215,1.290,-9.577 | Gyro: -0.012,-0.042,0.010 | Temp: 19.21
+Line 4404: [2026-06-28 13:01:39] Ervag>052320507!<"QCbmd> -2.215,1.290,-9.577 | Gyro: -0.012,-0.042,0.010 | Temp: 19.21
+Line 4406: [2026-06-28 13:01:39] Ervag>052608511!<"QCbmd>$-2.219,1.295,-9.589 | Gyro: -0.027,-0.039,0.014 | Temp: 19.18
+Line 4407: [2026-06-28 13:01:39] Ervag>052896510!<"QCbmd>$-2.219,1.295,-9.589 | Gyro: -0.027,-0.039,0.014 | Temp: 19.18
+Line 4408: [2026-06-28 13:01:40] Ervag>053184504!<"QCbmd>$-2.200,1.269,-9.510 | Gyro: -0.032,-0.039,0.014 | Temp: 19.19
+Line 4410: [2026-06-28 13:01:40] Ervag>053472499!<"QCbmd>$,-2.207,1.310,-9.579 | Gyro: -0.030,-0.039,0.015 | Temp: 19.20
+Line 4411: [2026-06-28 13:01:40] Ervag>053760499!<"QCbmd>$,-2.207,1.310,-9.579 | Gyro: -0.030,-0.039,0.015 | Temp: 19.20
+Line 4412: [2026-06-28 13:01:41] Ervag>054048499!<"QCbmd>$,-2.212,1.302,-9.577 | Gyro: -0.024,-0.040,0.013 | Temp: 19.20
+Line 4413: [2026-06-28 13:01:41] Ervag>054336499!<"QCbmd>$,-2.212,1.302,-9.577 | Gyro: -0.024,-0.040,0.013 | Temp: 19.20
+Line 4415: [2026-06-28 13:01:41] Ervag>054624499!<"QCbmd>$l-2.234l1.286l-9.680 | Gyro: -0.017l-0.041l0.012 | Temp: 19.20
+Line 4416: [2026-06-28 13:01:41] Ervag>054912505!<"QCbmd>$l-2.234l1.286l-9.680 | Gyro: -0.017l-0.041l0.012 | Temp: 19.20
+Line 4417: [2026-06-28 13:01:42] Ervag>055200511!<"QCbmd>$l-2.231l1.317l-9.527 | Gyro: -0.024l-0.040l0.014 | Temp: 19.18
+Line 4419: [2026-06-28 13:01:42] Ervag>055488510!<"QCbmd>$l | Gyro: -2.212l | Gyro: 1.288l | Gyro: -9.541 | Gyro: -0.026l | Gyro: -0.040l | Gyro: 0.013 | Temp: 19.19
+Line 4420: [2026-06-28 13:01:42] Ervag>055776506!<"QCbmd>$l | Gyro: -2.212l | Gyro: 1.288l | Gyro: -9.541 | Gyro: -0.026l | Gyro: -0.040l | Gyro: 0.013 | Temp: 19.19
+Line 4421: [2026-06-28 13:01:43] Ervag>056064499!<"QCbmd>$l | Gyro: -2.248l | Gyro: 1.310l | Gyro: -9.567 | Gyro: -0.023l | Gyro: -0.040l | Gyro: 0.021 | Temp: 19.19
+Line 4422: [2026-06-28 13:01:43] Ervag>056352498!<"QCbmd>$l | Gyro: -2.248l | Gyro: 1.310l | Gyro: -9.567 | Gyro: -0.023l | Gyro: -0.040l | Gyro: 0.021 | Temp: 19.19
+Line 4424: [2026-06-28 13:01:43] Ervag>056640498!<"QCbmd>$l!| Gyro: -2.215l!| Gyro: 1.307l!| Gyro: -9.579!| Gyro: -0.026l!| Gyro: -0.038l!| Gyro: 0.014 | Temp: 19.20
+Line 4425: [2026-06-28 13:01:44] Ervag>056928498!<"QCbmd>$l!| Gyro: -2.215l!| Gyro: 1.307l!| Gyro: -9.579!| Gyro: -0.026l!| Gyro: -0.038l!| Gyro: 0.014 | Temp: 19.20
+Line 4426: [2026-06-28 13:01:44] Ervag>057216499!<"QCbmd>$l!| Gyro: -2.236l!| Gyro: 1.302l!| Gyro: -9.598!| Gyro: -0.025l!| Gyro: -0.040l!| Gyro: 0.012 | Temp: 19.19
+Line 4428: [2026-06-28 13:01:44] Ervag>057504502!<"QCbmd>$l!~ Gyro: -2.215l!~ Gyro: 1.310l!~ Gyro: -9.531!~ Gyro: -0.026l!~ Gyro: -0.039l!~ Gyro: 0.013 | Temp: 19.18
+Line 4429: [2026-06-28 13:01:45] Ervag>057792507!<"QCbmd>$l!~ Gyro: -2.215l!~ Gyro: 1.310l!~ Gyro: -9.531!~ Gyro: -0.026l!~ Gyro: -0.039l!~ Gyro: 0.013 | Temp: 19.18
+Line 4430: [2026-06-28 13:01:45] Ervag>058080511!<"QCbmd>$l!~ Gyro: -2.222l!~ Gyro: 1.269l!~ Gyro: -9.586!~ Gyro: -0.026l!~ Gyro: -0.038l!~ Gyro: 0.012 | Temp: 19.18
+Line 4431: [2026-06-28 13:01:45] Ervag>058368510!<"QCbmd>$l!~ Gyro: -2.222l!~ Gyro: 1.269l!~ Gyro: -9.586!~ Gyro: -0.026l!~ Gyro: -0.038l!~ Gyro: 0.012 | Temp: 19.18
+Line 4433: [2026-06-28 13:01:46] Ervag>058656505!<"QCbmd>$l!~-2.210l!~1.281l!~-9.567!~-0.026l!~-0.041l!~0.013 | Temp: 19.17
+Line 4434: [2026-06-28 13:01:46] Ervag>058944499!<"QCbmd>$l!~-2.229l!~1.290l!~-9.582!~-0.026l!~-0.040l!~0.012 | Temp: 19.16
+Line 4453: [2026-06-28 13:01:49] Upvime: 1056 | Analog: 476 | Accel: -2.186,1.324,-9.567 | Gyro: -0.027,-0.039,0.013 | Temp: 19.14
+Line 4454: [2026-06-28 13:01:49] Upvime: 1344 | Analog: 480 | Accel: -2.186,1.324,-9.567 | Gyro: -0.027,-0.039,0.013 | Temp: 19.14
+Line 4455: [2026-06-28 13:01:49] Upvime: 1632 | Analog: 483 | Accel: -2.203,1.326,-9.589 | Gyro: -0.025,-0.036,0.014 | Temp: 19.13
+Line 4457: [2026-06-28 13:01:50] Upvhme: 1920 | Analog: 486 | Accel: -2.215,1.324,-9.546 | Gyro: -0.025,-0.040,0.013 | Temp: 19.13
+Line 4458: [2026-06-28 13:01:50] Upvhme: 2208 | Analog: 489 | Accel: -2.215,1.324,-9.546 | Gyro: -0.025,-0.040,0.013 | Temp: 19.13
+Line 4459: [2026-06-28 13:01:50] Upvhme: 2496 | Analog: 495 | Accel: -2.227,1.324,-9.512 | Gyro: -0.023,-0.040,0.012 | Temp: 19.13
+Line 4460: [2026-06-28 13:01:51] Upvhme: 2784 | Analog: 501 | Accel: -2.227,1.324,-9.512 | Gyro: -0.023,-0.040,0.012 | Temp: 19.13
+Line 4462: [2026-06-28 13:01:51] Upvhle: 3072 | Analog: 504 | Accel: -2.191,1.283,-9.586 | Gyro: -0.024,-0.042,0.013 | Temp: 19.14
+Line 4463: [2026-06-28 13:01:51] Upvhle: 3360 | Analog: 503 | Accel: -2.191,1.283,-9.586 | Gyro: -0.024,-0.042,0.013 | Temp: 19.14
+Line 4464: [2026-06-28 13:01:51] Upvhle: 3648 | Analog: 499 | Accel: -2.217,1.329,-9.534 | Gyro: -0.026,-0.039,0.012 | Temp: 19.14
+Line 4466: [2026-06-28 13:01:52] Upvhld: 3936 | Analog: 494 | Accel: -2.217,1.302,-9.565 | Gyro: -0.025,-0.039,0.012 | Temp: 19.12
+Line 4467: [2026-06-28 13:01:52] Upvhld: 4224 | Analog: 494 | Accel: -2.217,1.302,-9.565 | Gyro: -0.025,-0.039,0.012 | Temp: 19.12
+Line 4468: [2026-06-28 13:01:52] Upvhld: 4512 | Analog: 494 | Accel: -2.227,1.305,-9.570 | Gyro: -0.025,-0.033,0.014 | Temp: 19.13
+Line 4469: [2026-06-28 13:01:53] Upvhld: 4800 | Analog: 495 | Accel: -2.227,1.305,-9.570 | Gyro: -0.025,-0.033,0.014 | Temp: 19.13
+Line 4471: [2026-06-28 13:01:53] Upvhldz 5088 | Analog: 495 | Accel: -2.239,1.331,-9.550 | Gyro: -0.022,-0.037,0.013 | Temp: 19.14
+Line 4472: [2026-06-28 13:01:53] Upvhldz 5376 | Analog: 497 | Accel: -2.210,1.245,-9.613 | Gyro: -0.025,-0.038,0.013 | Temp: 19.13
+Line 4473: [2026-06-28 13:01:54] Upvhldz 5664 | Analog: 503 | Accel: -2.210,1.245,-9.613 | Gyro: -0.025,-0.038,0.013 | Temp: 19.13
+Line 4475: [2026-06-28 13:01:54] Upvhldz05952 | Analog: 496 | Accel: -2.231,1.314,-9.558 | Gyro: -0.027,-0.041,0.013 | Temp: 19.14
+Line 4476: [2026-06-28 13:01:54] Upvhldz06240 | Analog: 507 | Accel: -2.231,1.314,-9.558 | Gyro: -0.027,-0.041,0.013 | Temp: 19.14
+Line 4477: [2026-06-28 13:01:55] Upvhldz06528 | Analog: 503 | Accel: -2.203,1.276,-9.582 | Gyro: -0.025,-0.038,0.012 | Temp: 19.13
+Line 4478: [2026-06-28 13:01:55] Upvhldz06816 | Analog: 496 | Accel: -2.203,1.276,-9.582 | Gyro: -0.025,-0.038,0.012 | Temp: 19.13
+Line 4480: [2026-06-28 13:01:55] Upvhldz0 | Analog: 7104 | Analog: 495 | Accel: -2.203,1.338,-9.529 | Gyro: -0.026,-0.040,0.012 | Temp: 19.14
+Line 4481: [2026-06-28 13:01:56] Upvhldz0 | Analog: 7392 | Analog: 495 | Accel: -2.210,1.307,-9.591 | Gyro: -0.027,-0.040,0.014 | Temp: 19.12
+Line 4482: [2026-06-28 13:01:56] Upvhldz0 | Analog: 7680 | Analog: 496 | Accel: -2.210,1.307,-9.591 | Gyro: -0.027,-0.040,0.014 | Temp: 19.12
+Line 4484: [2026-06-28 13:01:56] Upvhldz0"| Analog: 7968"| Analog: 496 | Accel: -2.229,1.300,-9.553 | Gyro: -0.025,-0.040,0.013 | Temp: 19.13
+Line 4485: [2026-06-28 13:01:57] Upvhldz0"| Analog: 8256"| Analog: 499 | Accel: -2.229,1.300,-9.553 | Gyro: -0.025,-0.040,0.013 | Temp: 19.13
+Line 4486: [2026-06-28 13:01:57] Upvhldz0"| Analog: 8544"| Analog: 505 | Accel: -2.186,1.269,-9.574 | Gyro: -0.025,-0.040,0.012 | Temp: 19.12
+Line 4488: [2026-06-28 13:01:57] Upvhldz0"~ Analog: 8832"~ Analog: 509 | Accel: -2.203,1.262,-9.579 | Gyro: -0.023,-0.042,0.013 | Temp: 19.12
+Line 4489: [2026-06-28 13:01:57] Upvhldz0"~ Analog: 9120"~ Analog: 507 | Accel: -2.203,1.262,-9.579 | Gyro: -0.023,-0.042,0.013 | Temp: 19.12
+Line 4490: [2026-06-28 13:01:58] Upvhldz0"~ Analog: 9408"~ Analog: 499 | Accel: -2.205,1.279,-9.613 | Gyro: -0.025,-0.034,0.014 | Temp: 19.12
+Line 4491: [2026-06-28 13:01:58] Upvhldz0"~ Analog: 9696"~ Analog: 496 | Accel: -2.205,1.279,-9.613 | Gyro: -0.025,-0.034,0.014 | Temp: 19.12
+Line 4493: [2026-06-28 13:01:58] Upvhldz0"~`Analog: 9984"~`Analog: 496 | Accel: -2.241,1.319,-9.603 | Gyro: -0.025,-0.039,0.012 | Temp: 19.13
+Line 4494: [2026-06-28 13:01:59] Upvhldz0"~`Analog: 10272"~`Analog: 496 | Accel: -2.241,1.319,-9.603 | Gyro: -0.025,-0.039,0.012 | Temp: 19.13
+Line 4495: [2026-06-28 13:01:59] Upvhldz0"~`Analog: 10560"~`Analog: 496 | Accel: -2.217,1.314,-9.543 | Gyro: -0.022,-0.039,0.012 | Temp: 19.13
+Line 4497: [2026-06-28 13:01:59] Upvhldz0"~`analog: 10848"~`analog: 499 | Accel: -2.248,1.329,-9.610 | Gyro: -0.019,-0.039,0.011 | Temp: 19.10
+Line 4498: [2026-06-28 13:02:00] Upvhldz0"~`analog: 11136"~`analog: 506 | Accel: -2.248,1.329,-9.610 | Gyro: -0.019,-0.039,0.011 | Temp: 19.10
+Line 4499: [2026-06-28 13:02:00] Upvhldz0"~`analog: 11424"~`analog: 509 | Accel: -2.205,1.307,-9.560 | Gyro: -0.025,-0.038,0.014 | Temp: 19.12
+Line 4500: [2026-06-28 13:02:00] Upvhldz0"~`analog: 11712"~`analog: 505 | Accel: -2.205,1.307,-9.560 | Gyro: -0.025,-0.038,0.014 | Temp: 19.12
+Line 4502: [2026-06-28 13:02:01] Upvhldz0"~`afalog: 12000"~`afalog: 498 | Accel: -2.222,1.298,-9.558 | Gyro: -0.024,-0.040,0.011 | Temp: 19.12
+Line 4503: [2026-06-28 13:02:01] Upvhldz0"~`afalog: 12288"~`afalog: 496 | Accel: -2.222,1.298,-9.558 | Gyro: -0.024,-0.040,0.011 | Temp: 19.12
+Line 4504: [2026-06-28 13:02:01] Upvhldz0"~`afalog: 12576"~`afalog: 496 | Accel: -2.198,1.346,-9.562 | Gyro: -0.027,-0.039,0.013 | Temp: 19.12
+Line 4506: [2026-06-28 13:02:02] Upvhldz0"~`af`log: 12864"~`af`log: 497 | Accel: -2.217,1.314,-9.558 | Gyro: -0.027,-0.039,0.014 | Temp: 19.12
+Line 4507: [2026-06-28 13:02:02] Upvhldz0"~`af`log: 13152"~`af`log: 497 | Accel: -2.217,1.314,-9.558 | Gyro: -0.027,-0.039,0.014 | Temp: 19.12
+Line 4508: [2026-06-28 13:02:02] Upvhldz0"~`af`log: 13440"~`af`log: 503 | Accel: -2.236,1.281,-9.553 | Gyro: -0.025,-0.038,0.014 | Temp: 19.11
+Line 4509: [2026-06-28 13:02:03] Upvhldz0"~`af`log: 13728"~`af`log: 509 | Accel: -2.236,1.281,-9.553 | Gyro: -0.025,-0.038,0.014 | Temp: 19.11
+Line 4511: [2026-06-28 13:02:03] Upvhldz0"~`af`hog: 14016"~`af`hog: 508 | Accel: -2.200,1.259,-9.577 | Gyro: -0.030,-0.038,0.013 | Temp: 19.13
+Line 4512: [2026-06-28 13:02:03] Upvhldz0"~`af`hog: 14304"~`af`hog: 501 | Accel: -2.207,1.281,-9.589 | Gyro: -0.033,-0.039,0.013 | Temp: 19.13
+Line 4513: [2026-06-28 13:02:03] Upvhldz0"~`af`hog: 14592"~`af`hog: 496 | Accel: -2.207,1.281,-9.589 | Gyro: -0.033,-0.039,0.013 | Temp: 19.13
+Line 4515: [2026-06-28 13:02:04] Upvhldz0"~`af`hg: 14880"~`af`hg: 501 | Accel: -2.219,1.324,-9.570 | Gyro: -0.021,-0.040,0.013 | Temp: 19.13
+Line 4516: [2026-06-28 13:02:04] Upvhldz0"~`af`hg: 15168"~`af`hg: 497 | Accel: -2.219,1.324,-9.570 | Gyro: -0.021,-0.040,0.013 | Temp: 19.13
+Line 4517: [2026-06-28 13:02:04] Upvhldz0"~`af`hg: 15456"~`af`hg: 497 | Accel: -2.186,1.281,-9.591 | Gyro: -0.029,-0.039,0.015 | Temp: 19.13
+Line 4518: [2026-06-28 13:02:05] Upvhldz0"~`af`hg: 15744"~`af`hg: 500 | Accel: -2.186,1.281,-9.591 | Gyro: -0.029,-0.039,0.015 | Temp: 19.13
+Line 4520: [2026-06-28 13:02:05] Upvhldz0"~`af`he: 16032"~`af`he: 506 | Accel: -2.207,1.283,-9.567 | Gyro: -0.023,-0.040,0.011 | Temp: 19.13
+Line 4521: [2026-06-28 13:02:05] Upvhldz0"~`af`he: 16320"~`af`he: 509 | Accel: -2.186,1.319,-9.572 | Gyro: -0.024,-0.040,0.013 | Temp: 19.14
+Line 4522: [2026-06-28 13:02:06] Upvhldz0"~`af`he: 16608"~`af`he: 506 | Accel: -2.186,1.319,-9.572 | Gyro: -0.024,-0.040,0.013 | Temp: 19.14
+Line 4524: [2026-06-28 13:02:06] Upvhldz0"~`af`he* 16896"~`af`he* 499 | Accel: -2.239,1.326,-9.594 | Gyro: -0.019,-0.040,0.013 | Temp: 19.17
+Line 4525: [2026-06-28 13:02:06] Upvhldz0"~`af`he* 17184"~`af`he* 497 | Accel: -2.239,1.326,-9.594 | Gyro: -0.019,-0.040,0.013 | Temp: 19.17
+Line 4526: [2026-06-28 13:02:07] Upvhldz0"~`af`he* 17472"~`af`he* 496 | Accel: -2.231,1.326,-9.560 | Gyro: -0.025,-0.039,0.013 | Temp: 19.13
+Line 4528: [2026-06-28 13:02:07] Upvhldz0"~`af`he*`17760"~`af`he*`497 | Accel: -2.207,1.310,-9.584 | Gyro: -0.025,-0.039,0.012 | Temp: 19.15
+Line 4529: [2026-06-28 13:02:07] Upvhldz0"~`af`he*`18048"~`af`he*`497 | Accel: -2.207,1.310,-9.584 | Gyro: -0.025,-0.039,0.012 | Temp: 19.15
+Line 4530: [2026-06-28 13:02:08] Upvhldz0"~`af`he*`18336"~`af`he*`500 | Accel: -2.203,1.283,-9.589 | Gyro: -0.027,-0.039,0.013 | Temp: 19.14
+Line 4531: [2026-06-28 13:02:08] Upvhldz0"~`af`he*`18624"~`af`he*`506 | Accel: -2.203,1.283,-9.589 | Gyro: -0.027,-0.039,0.013 | Temp: 19.14
+Line 4533: [2026-06-28 13:02:08] Upvhldz0"~`af`he*` | Accel: 18912"~`af`he*` | Accel: 510 | Accel: -2.219,1.312,-9.584 | Gyro: -0.025,-0.039,0.013 | Temp: 19.16
+Line 4534: [2026-06-28 13:02:08] Upvhldz0"~`af`he*` | Accel: 19200"~`af`he*` | Accel: 507 | Accel: -2.219,1.312,-9.584 | Gyro: -0.025,-0.039,0.013 | Temp: 19.16
+Line 4535: [2026-06-28 13:02:09] Upvhldz0"~`af`he*` | Accel: 19488"~`af`he*` | Accel: 501 | Accel: -2.241,1.307,-9.579 | Gyro: -0.024,-0.039,0.013 | Temp: 19.16
+Line 4537: [2026-06-28 13:02:09] Upvhldz0"~`af`he*`(| Accel: 19776"~`af`he*`(| Accel: 497(| Accel: -2.219,1.288,-9.622 | Gyro: -0.027,-0.039,0.013 | Temp: 19.16
+Line 4538: [2026-06-28 13:02:09] Upvhldz0"~`af`he*`(| Accel: 20064"~`af`he*`(| Accel: 497(| Accel: -2.219,1.288,-9.622 | Gyro: -0.027,-0.039,0.013 | Temp: 19.16
+Line 4539: [2026-06-28 13:02:10] Upvhldz0"~`af`he*`(| Accel: 20352"~`af`he*`(| Accel: 497(| Accel: -2.210,1.334,-9.538 | Gyro: -0.027,-0.040,0.013 | Temp: 19.16
+Line 4540: [2026-06-28 13:02:10] Upvhldz0"~`af`he*`(| Accel: 20640"~`af`he*`(| Accel: 497(| Accel: -2.210,1.334,-9.538 | Gyro: -0.027,-0.040,0.013 | Temp: 19.16
+Line 4542: [2026-06-28 13:02:10] Upvhldz0"~`af`he*`(x Accel: 20928"~`af`he*`(x Accel: 498(x Accel: -2.217,1.288,-9.515 | Gyro: -0.021,-0.040,0.012 | Temp: 19.17
+Line 4543: [2026-06-28 13:02:11] Upvhldz0"~`af`he*`(x Accel: 21216"~`af`he*`(x Accel: 504(x Accel: -2.217,1.288,-9.515 | Gyro: -0.021,-0.040,0.012 | Temp: 19.17
+Line 4544: [2026-06-28 13:02:11] Upvhldz0"~`af`he*`(x Accel: 21504"~`af`he*`(x Accel: 510(x Accel: -2.198,1.348,-9.562 | Gyro: -0.026,-0.040,0.013 | Temp: 19.17
+Line 4546: [2026-06-28 13:02:11] Upvhldz0"~`af`he*`(x0Accel: 21792"~`af`he*`(x0Accel: 509(x0Accel: -2.243,1.310,-9.601 | Gyro: -0.025,-0.038,0.014 | Temp: 19.18
+Line 4547: [2026-06-28 13:02:12] Upvhldz0"~`af`he*`(x0Accel: 22080"~`af`he*`(x0Accel: 505(x0Accel: -2.243,1.310,-9.601 | Gyro: -0.025,-0.038,0.014 | Temp: 19.18
+Line 4548: [2026-06-28 13:02:12] Upvhldz0"~`af`he*`(x0Accel: 22368"~`af`he*`(x0Accel: 498(x0Accel: -2.227,1.298,-9.570 | Gyro: -0.025,-0.039,0.012 | Temp: 19.19
+Line 4549: [2026-06-28 13:02:12] Upvhldz0"~`af`he*`(x0Accel: 22656"~`af`he*`(x0Accel: 496(x0Accel: -2.227,1.298,-9.570 | Gyro: -0.025,-0.039,0.012 | Temp: 19.19
+Line 4551: [2026-06-28 13:02:13] Upvhldz0"~`af`he*`(x0ccel: 22944"~`af`he*`(x0ccel: 497(x0ccel: -2.224,1.319,-9.596 | Gyro: -0.024,-0.039,0.013 | Temp: 19.18
+Line 4552: [2026-06-28 13:02:13] Upvhldz0"~`af`he*`(x0ccel: 23232"~`af`he*`(x0ccel: 497(x0ccel: -2.200,1.322,-9.577 | Gyro: -0.027,-0.039,0.014 | Temp: 19.16
+Line 4553: [2026-06-28 13:02:13] Upvhldz0"~`af`he*`(x0ccel: 23520"~`af`he*`(x0ccel: 497(x0ccel: -2.200,1.322,-9.577 | Gyro: -0.027,-0.039,0.014 | Temp: 19.16
+Line 4555: [2026-06-28 13:02:14] Upvhldz0"~`af`he*`(x0#cel: 23808"~`af`he*`(x0#cel: 497(x0#cel: -2.227,1.286,-9.591 | Gyro: -0.025,-0.039,0.014 | Temp: 19.17
+Line 4556: [2026-06-28 13:02:14] Upvhldz0"~`af`he*`(x0#cel: 24096"~`af`he*`(x0#cel: 506(x0#cel: -2.227,1.286,-9.591 | Gyro: -0.025,-0.039,0.014 | Temp: 19.17
+Line 4557: [2026-06-28 13:02:14] Upvhldz0"~`af`he*`(x0#cel: 24384"~`af`he*`(x0#cel: 510(x0#cel: -2.210,1.290,-9.582 | Gyro: -0.025,-0.040,0.013 | Temp: 19.18
+Line 4558: [2026-06-28 13:02:14] Upvhldz0"~`af`he*`(x0#cel: 24672"~`af`he*`(x0#cel: 508(x0#cel: -2.210,1.290,-9.582 | Gyro: -0.025,-0.040,0.013 | Temp: 19.18
+Line 4560: [2026-06-28 13:02:15] Upvhldz0"~`af`he*`(x0#ael: 24960"~`af`he*`(x0#ael: 502(x0#ael: -2.203,1.310,-9.558 | Gyro: -0.026,-0.040,0.013 | Temp: 19.18
+Line 4561: [2026-06-28 13:02:15] Upvhldz0"~`af`he*`(x0#ael: 25248"~`af`he*`(x0#ael: 497(x0#ael: -2.212,1.290,-9.553 | Gyro: -0.027,-0.039,0.013 | Temp: 19.20
+Line 4562: [2026-06-28 13:02:15] Upvhldz0"~`af`he*`(x0#ael: 25536"~`af`he*`(x0#ael: 496(x0#ael: -2.212,1.290,-9.553 | Gyro: -0.027,-0.039,0.013 | Temp: 19.20
+Line 4564: [2026-06-28 13:02:16] Upvhldz0"~`af`he*`(x0#aal: 25824"~`af`he*`(x0#aal: 497(x0#aal: -2.217,1.310,-9.562 | Gyro: -0.014,-0.042,0.010 | Temp: 19.19
+Line 4565: [2026-06-28 13:02:16] Upvhldz0"~`af`he*`(x0#aal: 26112"~`af`he*`(x0#aal: 497(x0#aal: -2.217,1.310,-9.562 | Gyro: -0.014,-0.042,0.010 | Temp: 19.19
+Line 4566: [2026-06-28 13:02:16] Upvhldz0"~`af`he*`(x0#aal: 26400"~`af`he*`(x0#aal: 497(x0#aal: -2.191,1.334,-9.570 | Gyro: -0.025,-0.040,0.011 | Temp: 19.18
+Line 4568: [2026-06-28 13:02:17] Upvhldz0"~`af`he*`(x0#aan: 26688"~`af`he*`(x0#aan: 501(x0#aan: -2.227,1.310,-9.582 | Gyro: -0.023,-0.038,0.014 | Temp: 19.19
+Line 4569: [2026-06-28 13:02:17] Upvhldz0"~`af`he*`(x0#aan: 26976"~`af`he*`(x0#aan: 507(x0#aan: -2.227,1.310,-9.582 | Gyro: -0.023,-0.038,0.014 | Temp: 19.19
+Line 4570: [2026-06-28 13:02:17] Upvhldz0"~`af`he*`(x0#aan: 27264"~`af`he*`(x0#aan: 509(x0#aan: -2.224,1.267,-9.596 | Gyro: -0.019,-0.041,0.010 | Temp: 19.20
+Line 4571: [2026-06-28 13:02:18] Upvhldz0"~`af`he*`(x0#aan: 27552"~`af`he*`(x0#aan: 508(x0#aan: -2.224,1.267,-9.596 | Gyro: -0.019,-0.041,0.010 | Temp: 19.20
+Line 4573: [2026-06-28 13:02:18] Upvhldz0"~`af`he*`(x0#aan* 27840"~`af`he*`(x0#aan* 501(x0#aan* -2.212,1.353,-9.536 | Gyro: -0.025,-0.040,0.013 | Temp: 19.18
+Line 4574: [2026-06-28 13:02:18] Upvhldz0"~`af`he*`(x0#aan* 28128"~`af`he*`(x0#aan* 496(x0#aan* -2.212,1.353,-9.536 | Gyro: -0.025,-0.040,0.013 | Temp: 19.18
+Line 4575: [2026-06-28 13:02:19] Upvhldz0"~`af`he*`(x0#aan* 28416"~`af`he*`(x0#aan* 497(x0#aan* -2.217,1.298,-9.584 | Gyro: -0.027,-0.038,0.014 | Temp: 19.22
+Line 4577: [2026-06-28 13:02:19] Upvhldz0"~`af`he*`(x0#aan*`28704"~`af`he*`(x0#aan*`497(x0#aan*`-2.212,1.293,-9.584 | Gyro: -0.025,-0.039,0.013 | Temp: 19.20
+Line 4578: [2026-06-28 13:02:19] Upvhldz0"~`af`he*`(x0#aan*`28992"~`af`he*`(x0#aan*`497(x0#aan*`-2.212,1.293,-9.584 | Gyro: -0.025,-0.039,0.013 | Temp: 19.20
+Line 4579: [2026-06-28 13:02:20] Upvhldz0"~`af`he*`(x0#aan*`29280"~`af`he*`(x0#aan*`497(x0#aan*`-2.229,1.305,-9.584 | Gyro: -0.018,-0.041,0.010 | Temp: 19.22
+Line 4580: [2026-06-28 13:02:20] Upvhldz0"~`af`he*`(x0#aan*`29568"~`af`he*`(x0#aan*`501(x0#aan*`-2.229,1.305,-9.584 | Gyro: -0.018,-0.041,0.010 | Temp: 19.22
+Line 4582: [2026-06-28 13:02:20] Upvhldz0"~`af`he*`(x0#aan*`,29856"~`af`he*`(x0#aan*`,506(x0#aan*`,-2.217,1.293,-9.548 | Gyro: -0.021,-0.039,0.013 | Temp: 19.24
+Line 4583: [2026-06-28 13:02:20] Upvhldz0"~`af`he*`(x0#aan*`,30144"~`af`he*`(x0#aan*`,510(x0#aan*`,-2.217,1.293,-9.548 | Gyro: -0.021,-0.039,0.013 | Temp: 19.24
+Line 4584: [2026-06-28 13:02:21] Upvhldz0"~`af`he*`(x0#aan*`,30432"~`af`he*`(x0#aan*`,509(x0#aan*`,-2.243,1.324,-9.574 | Gyro: -0.025,-0.039,0.012 | Temp: 19.25
+Line 4586: [2026-06-28 13:02:21] Upvhldz0"~`af`he*`(x0#aan*`<30720"~`af`he*`(x0#aan*`<505(x0#aan*`<-2.205<1.295<-9.565 | Gyro: -0.026<-0.040<0.013 | Temp: 19.24
+Line 4587: [2026-06-28 13:02:21] Upvhldz0"~`af`he*`(x0#aan*`<31008"~`af`he*`(x0#aan*`<498(x0#aan*`<-2.205<1.295<-9.565 | Gyro: -0.026<-0.040<0.013 | Temp: 19.24
+Line 4588: [2026-06-28 13:02:22] Upvhldz0"~`af`he*`(x0#aan*`<31296"~`af`he*`(x0#aan*`<497(x0#aan*`<-2.215<1.288<-9.555 | Gyro: -0.023<-0.039<0.013 | Temp: 19.24
+Line 4589: [2026-06-28 13:02:22] Upvhldz0"~`af`he*`(x0#aan*`<31584"~`af`he*`(x0#aan*`<497(x0#aan*`<-2.215<1.288<-9.555 | Gyro: -0.023<-0.039<0.013 | Temp: 19.24
+Line 4591: [2026-06-28 13:02:22] Upvhldz0"~`af`he*`(x0#aan*`< | Gyro: 31872"~`af`he*`(x0#aan*`< | Gyro: 497(x0#aan*`< | Gyro: -2.253< | Gyro: 1.319< | Gyro: -9.541 | Gyro: -0.028< | Gyro: -0.039< | Gyro: 0.014 | Temp: 19.27
+Line 4592: [2026-06-28 13:02:23] Upvhldz0"~`af`he*`(x0#aan*`< | Gyro: 32160"~`af`he*`(x0#aan*`< | Gyro: 497(x0#aan*`< | Gyro: -2.205< | Gyro: 1.293< | Gyro: -9.555 | Gyro: -0.039< | Gyro: -0.038< | Gyro: 0.017 | Temp: 19.28
+Line 4593: [2026-06-28 13:02:23] Upvhldz0"~`af`he*`(x0#aan*`< | Gyro: 32448"~`af`he*`(x0#aan*`< | Gyro: 497(x0#aan*`< | Gyro: -2.205< | Gyro: 1.293< | Gyro: -9.555 | Gyro: -0.039< | Gyro: -0.038< | Gyro: 0.017 | Temp: 19.28
+Line 4595: [2026-06-28 13:02:23] Upvhldz0"~`af`he*`(x0#aan*`<| Gyro: 32736"~`af`he*`(x0#aan*`<| Gyro: 497(x0#aan*`<| Gyro: -2.210<| Gyro: 1.279<| Gyro: -9.560| Gyro: -0.025<| Gyro: -0.039<| Gyro: 0.012 | Temp: 19.31
+Line 4596: [2026-06-28 13:02:24] Upvhldz0"~`af`he*`(x0#aan*`<| Gyro: 33024"~`af`he*`(x0#aan*`<| Gyro: 507(x0#aan*`<| Gyro: -2.210<| Gyro: 1.279<| Gyro: -9.560| Gyro: -0.025<| Gyro: -0.039<| Gyro: 0.012 | Temp: 19.31
+Line 4597: [2026-06-28 13:02:24] Upvhldz0"~`af`he*`(x0#aan*`<| Gyro: 33312"~`af`he*`(x0#aan*`<| Gyro: 510(x0#aan*`<| Gyro: -2.219<| Gyro: 1.298<| Gyro: -9.577| Gyro: -0.026<| Gyro: -0.039<| Gyro: 0.012 | Temp: 19.30
+Line 4598: [2026-06-28 13:02:24] Upvhldz0"~`af`he*`(x0#aan*`<| Gyro: 33600"~`af`he*`(x0#aan*`<| Gyro: 508(x0#aan*`<| Gyro: -2.219<| Gyro: 1.298<| Gyro: -9.577| Gyro: -0.026<| Gyro: -0.039<| Gyro: 0.012 | Temp: 19.30
+Line 4600: [2026-06-28 13:02:25] Upvhldz0"~`af`he*`(x0#aan*`<} Gyro: 33888"~`af`he*`(x0#aan*`<} Gyro: 505(x0#aan*`<} Gyro: -2.222<} Gyro: 1.300<} Gyro: -9.572} Gyro: -0.028<} Gyro: -0.038<} Gyro: 0.013 | Temp: 19.31
+Line 4601: [2026-06-28 13:02:25] Upvhldz0"~`af`he*`(x0#aan*`<} Gyro: 34176"~`af`he*`(x0#aan*`<} Gyro: 498(x0#aan*`<} Gyro: -2.219<} Gyro: 1.312<} Gyro: -9.591} Gyro: -0.024<} Gyro: -0.040<} Gyro: 0.013 | Temp: 19.32
+Line 4602: [2026-06-28 13:02:25] Upvhldz0"~`af`he*`(x0#aan*`<} Gyro: 34464"~`af`he*`(x0#aan*`<} Gyro: 497(x0#aan*`<} Gyro: -2.219<} Gyro: 1.312<} Gyro: -9.591} Gyro: -0.024<} Gyro: -0.040<} Gyro: 0.013 | Temp: 19.32
+Line 4604: [2026-06-28 13:02:25] Upvhldz0"~`af`he*`(x0#aan*`<}Gyro: 34752"~`af`he*`(x0#aan*`<}Gyro: 497(x0#aan*`<}Gyro: -2.251<}Gyro: 1.427<}Gyro: -9.445}Gyro: -0.031<}Gyro: -0.030<}Gyro: 0.015 | Temp: 19.31
+Line 4605: [2026-06-28 13:02:26] Upvhldz0"~`af`he*`(x0#aan*`<}Gyro: 35040"~`af`he*`(x0#aan*`<}Gyro: 497(x0#aan*`<}Gyro: -2.251<}Gyro: 1.427<}Gyro: -9.445}Gyro: -0.031<}Gyro: -0.030<}Gyro: 0.015 | Temp: 19.31
+Line 4606: [2026-06-28 13:02:26] Upvhldz0"~`af`he*`(x0#aan*`<}Gyro: 35328"~`af`he*`(x0#aan*`<}Gyro: 497(x0#aan*`<}Gyro: -2.227<}Gyro: 1.324<}Gyro: -9.498}Gyro: -0.036<}Gyro: -0.038<}Gyro: 0.016 | Temp: 19.34
+Line 4608: [2026-06-28 13:02:26] Upvhldz0"~`af`he*`(x0#aan*`<}Wyro: 35616"~`af`he*`(x0#aan*`<}Wyro: 498(x0#aan*`<}Wyro: -2.215<}Wyro: 1.295<}Wyro: -9.548}Wyro: -0.028<}Wyro: -0.039<}Wyro: 0.013 | Temp: 19.33
+Line 4609: [2026-06-28 13:02:27] Upvhldz0"~`af`he*`(x0#aan*`<}Wyro: 35920"~`af`he*`(x0#aan*`<}Wyro: 499(x0#aan*`<}Wyro: -2.215<}Wyro: 1.295<}Wyro: -9.548}Wyro: -0.028<}Wyro: -0.039<}Wyro: 0.013 | Temp: 19.33
+Line 4610: [2026-06-28 13:02:27] Upvhldz0"~`af`he*`(x0#aan*`<}Wyro: 36208"~`af`he*`(x0#aan*`<}Wyro: 497(x0#aan*`<}Wyro: -2.219<}Wyro: 1.336<}Wyro: -9.579}Wyro: -0.024<}Wyro: -0.040<}Wyro: 0.013 | Temp: 19.34
+Line 4611: [2026-06-28 13:02:27] Upvhldz0"~`af`he*`(x0#aan*`<}Wyro: 36496"~`af`he*`(x0#aan*`<}Wyro: 510(x0#aan*`<}Wyro: -2.219<}Wyro: 1.336<}Wyro: -9.579}Wyro: -0.024<}Wyro: -0.040<}Wyro: 0.013 | Temp: 19.34
+Line 4613: [2026-06-28 13:02:28] Upvhldz0"~`af`he*`(x0#aan*`<}Wiro: 36784"~`af`he*`(x0#aan*`<}Wiro: 509(x0#aan*`<}Wiro: -2.246<}Wiro: 1.324<}Wiro: -9.591}Wiro: -0.029<}Wiro: -0.040<}Wiro: 0.014 | Temp: 19.34
+Line 4614: [2026-06-28 13:02:28] Upvhldz0"~`af`he*`(x0#aan*`<}Wiro: 37072"~`af`he*`(x0#aan*`<}Wiro: 506(x0#aan*`<}Wiro: -2.246<}Wiro: 1.324<}Wiro: -9.591}Wiro: -0.029<}Wiro: -0.040<}Wiro: 0.014 | Temp: 19.34
+Line 4615: [2026-06-28 13:02:28] Upvhldz0"~`af`he*`(x0#aan*`<}Wiro: 37360"~`af`he*`(x0#aan*`<}Wiro: 500(x0#aan*`<}Wiro: -2.222<}Wiro: 1.293<}Wiro: -9.562}Wiro: -0.027<}Wiro: -0.039<}Wiro: 0.015 | Temp: 19.34
+Line 4617: [2026-06-28 13:02:29] Upvhldz0"~`af`he*`(x0#aan*`<}Wiso: 37648"~`af`he*`(x0#aan*`<}Wiso: 497(x0#aan*`<}Wiso: -2.236<}Wiso: 1.346<}Wiso: -9.608}Wiso: -0.026<}Wiso: -0.039<}Wiso: 0.013 | Temp: 19.37
+Line 4618: [2026-06-28 13:02:29] Upvhldz0"~`af`he*`(x0#aan*`<}Wiso: 37936"~`af`he*`(x0#aan*`<}Wiso: 497(x0#aan*`<}Wiso: -2.236<}Wiso: 1.346<}Wiso: -9.608}Wiso: -0.026<}Wiso: -0.039<}Wiso: 0.013 | Temp: 19.37
+Line 4619: [2026-06-28 13:02:29] Upvhldz0"~`af`he*`(x0#aan*`<}Wiso: 38224"~`af`he*`(x0#aan*`<}Wiso: 497(x0#aan*`<}Wiso: -2.224<}Wiso: 1.305<}Wiso: -9.562}Wiso: -0.026<}Wiso: -0.039<}Wiso: 0.012 | Temp: 19.37
+Line 4620: [2026-06-28 13:02:30] Upvhldz0"~`af`he*`(x0#aan*`<}Wiso: 38512"~`af`he*`(x0#aan*`<}Wiso: 497(x0#aan*`<}Wiso: -2.224<}Wiso: 1.305<}Wiso: -9.562}Wiso: -0.026<}Wiso: -0.039<}Wiso: 0.012 | Temp: 19.37
+Line 4622: [2026-06-28 13:02:30] Upvhldz0"~`af`he*`(x0#aan*`<}Wisg: 38800"~`af`he*`(x0#aan*`<}Wisg: 497(x0#aan*`<}Wisg: -2.219<}Wisg: 1.295<}Wisg: -9.586}Wisg: -0.026<}Wisg: -0.039<}Wisg: 0.013 | Temp: 19.36
+Line 4623: [2026-06-28 13:02:30] Upvhldz0"~`af`he*`(x0#aan*`<}Wisg: 39088"~`af`he*`(x0#aan*`<}Wisg: 500(x0#aan*`<}Wisg: -2.219<}Wisg: 1.295<}Wisg: -9.586}Wisg: -0.026<}Wisg: -0.039<}Wisg: 0.013 | Temp: 19.36
+Line 4624: [2026-06-28 13:02:31] Upvhldz0"~`af`he*`(x0#aan*`<}Wisg: 39376"~`af`he*`(x0#aan*`<}Wisg: 506(x0#aan*`<}Wisg: -2.193<}Wisg: 1.288<}Wisg: -9.562}Wisg: -0.026<}Wisg: -0.038<}Wisg: 0.013 | Temp: 19.36
+Line 4626: [2026-06-28 13:02:31] Upvhldz0"~`af`he*`(x0#aan*`<}Wisg8 39664"~`af`he*`(x0#aan*`<}Wisg8 510(x0#aan*`<}Wisg8 -2.231<}Wisg8 1.300<}Wisg8 -9.577}Wisg8 -0.025<}Wisg8 -0.041<}Wisg8 0.013 | Temp: 19.36
+Line 4627: [2026-06-28 13:02:31] Upvhldz0"~`af`he*`(x0#aan*`<}Wisg8 39952"~`af`he*`(x0#aan*`<}Wisg8 508(x0#aan*`<}Wisg8 -2.231<}Wisg8 1.300<}Wisg8 -9.577}Wisg8 -0.025<}Wisg8 -0.041<}Wisg8 0.013 | Temp: 19.36
+Line 4628: [2026-06-28 13:02:31] Upvhldz0"~`af`he*`(x0#aan*`<}Wisg8 40240"~`af`he*`(x0#aan*`<}Wisg8 504(x0#aan*`<}Wisg8 -2.193<}Wisg8 1.307<}Wisg8 -9.603}Wisg8 -0.028<}Wisg8 -0.040<}Wisg8 0.014 | Temp: 19.36
+Line 4629: [2026-06-28 13:02:32] Upvhldz0"~`af`he*`(x0#aan*`<}Wisg8 40528"~`af`he*`(x0#aan*`<}Wisg8 498(x0#aan*`<}Wisg8 -2.193<}Wisg8 1.307<}Wisg8 -9.603}Wisg8 -0.028<}Wisg8 -0.040<}Wisg8 0.014 | Temp: 19.36
+Line 4631: [2026-06-28 13:02:32] Upvhldz0"~`af`he*`(x0#aan*`<}Wisg8"40816"~`af`he*`(x0#aan*`<}Wisg8"496(x0#aan*`<}Wisg8"-2.210<}Wisg8"1.310<}Wisg8"-9.574}Wisg8"-0.026<}Wisg8"-0.041<}Wisg8"0.013 | Temp: 19.38
+Line 4632: [2026-06-28 13:02:32] Upvhldz0"~`af`he*`(x0#aan*`<}Wisg8"41104"~`af`he*`(x0#aan*`<}Wisg8"496(x0#aan*`<}Wisg8"-2.224<}Wisg8"1.290<}Wisg8"-9.567}Wisg8"-0.025<}Wisg8"-0.041<}Wisg8"0.013 | Temp: 19.37
+Line 4633: [2026-06-28 13:02:33] Upvhldz0"~`af`he*`(x0#aan*`<}Wisg8"41392"~`af`he*`(x0#aan*`<}Wisg8"496(x0#aan*`<}Wisg8"-2.224<}Wisg8"1.290<}Wisg8"-9.567}Wisg8"-0.025<}Wisg8"-0.041<}Wisg8"0.013 | Temp: 19.37
+Line 4635: [2026-06-28 13:02:33] Upvhldz0"~`af`he*`(x0#aan*`<}Wisg8" | Temp: 41680"~`af`he*`(x0#aan*`<}Wisg8" | Temp: 496(x0#aan*`<}Wisg8" | Temp: -2.222<}Wisg8" | Temp: 1.310<}Wisg8" | Temp: -9.618}Wisg8" | Temp: -0.020<}Wisg8" | Temp: -0.041<}Wisg8" | Temp: 0.011 | Temp: 19.37
+Line 4636: [2026-06-28 13:02:33] Upvhldz0"~`af`he*`(x0#aan*`<}Wisg8" | Temp: 41968"~`af`he*`(x0#aan*`<}Wisg8" | Temp: 497(x0#aan*`<}Wisg8" | Temp: -2.222<}Wisg8" | Temp: 1.310<}Wisg8" | Temp: -9.618}Wisg8" | Temp: -0.020<}Wisg8" | Temp: -0.041<}Wisg8" | Temp: 0.011 | Temp: 19.37
+Line 4637: [2026-06-28 13:02:34] Upvhldz0"~`af`he*`(x0#aan*`<}Wisg8" | Temp: 42272"~`af`he*`(x0#aan*`<}Wisg8" | Temp: 499(x0#aan*`<}Wisg8" | Temp: -2.212<}Wisg8" | Temp: 1.317<}Wisg8" | Temp: -9.596}Wisg8" | Temp: -0.028<}Wisg8" | Temp: -0.039<}Wisg8" | Temp: 0.013 | Temp: 19.36
+Line 4639: [2026-06-28 13:02:34] Upvhldz0"~`af`he*`(x0#aan*`<}Wisg8"`| Temp: 42576"~`af`he*`(x0#aan*`<}Wisg8"`| Temp: 500(x0#aan*`<}Wisg8"`| Temp: -2.219<}Wisg8"`| Temp: 1.334<}Wisg8"`| Temp: -9.570}Wisg8"`| Temp: -0.023<}Wisg8"`| Temp: -0.038<}Wisg8"`| Temp: 0.015`| Temp: 19.37
+Line 4640: [2026-06-28 13:02:34] Upvhldz0"~`af`he*`(x0#aan*`<}Wisg8"`| Temp: 42880"~`af`he*`(x0#aan*`<}Wisg8"`| Temp: 503(x0#aan*`<}Wisg8"`| Temp: -2.219<}Wisg8"`| Temp: 1.334<}Wisg8"`| Temp: -9.570}Wisg8"`| Temp: -0.023<}Wisg8"`| Temp: -0.038<}Wisg8"`| Temp: 0.015`| Temp: 19.37
+Line 4641: [2026-06-28 13:02:35] Upvhldz0"~`af`he*`(x0#aan*`<}Wisg8"`| Temp: 43184"~`af`he*`(x0#aan*`<}Wisg8"`| Temp: 506(x0#aan*`<}Wisg8"`| Temp: -2.215<}Wisg8"`| Temp: 1.314<}Wisg8"`| Temp: -9.582}Wisg8"`| Temp: -0.025<}Wisg8"`| Temp: -0.039<}Wisg8"`| Temp: 0.014`| Temp: 19.37
+Line 4642: [2026-06-28 13:02:35] Upvhldz0"~`af`he*`(x0#aan*`<}Wisg8"`| Temp: 43488"~`af`he*`(x0#aan*`<}Wisg8"`| Temp: 508(x0#aan*`<}Wisg8"`| Temp: -2.215<}Wisg8"`| Temp: 1.314<}Wisg8"`| Temp: -9.582}Wisg8"`| Temp: -0.025<}Wisg8"`| Temp: -0.039<}Wisg8"`| Temp: 0.014`| Temp: 19.37
+Line 4644: [2026-06-28 13:02:35] Upvhldz0"~`af`he*`(x0#aan*`<}Wisg8"` Temp: 43792"~`af`he*`(x0#aan*`<}Wisg8"` Temp: 510(x0#aan*`<}Wisg8"` Temp: -2.219<}Wisg8"` Temp: 1.298<}Wisg8"` Temp: -9.555}Wisg8"` Temp: -0.028<}Wisg8"` Temp: -0.039<}Wisg8"` Temp: 0.013` Temp: 19.35
+Line 4645: [2026-06-28 13:02:36] Upvhldz0"~`af`he*`(x0#aan*`<}Wisg8"` Temp: 44096"~`af`he*`(x0#aan*`<}Wisg8"` Temp: 509(x0#aan*`<}Wisg8"` Temp: -2.212<}Wisg8"` Temp: 1.314<}Wisg8"` Temp: -9.579}Wisg8"` Temp: -0.024<}Wisg8"` Temp: -0.039<}Wisg8"` Temp: 0.013` Temp: 19.34
+Line 4646: [2026-06-28 13:02:36] Upvhldz0"~`af`he*`(x0#aan*`<}Wisg8"` Temp: 44400"~`af`he*`(x0#aan*`<}Wisg8"` Temp: 508(x0#aan*`<}Wisg8"` Temp: -2.212<}Wisg8"` Temp: 1.314<}Wisg8"` Temp: -9.579}Wisg8"` Temp: -0.024<}Wisg8"` Temp: -0.039<}Wisg8"` Temp: 0.013` Temp: 19.34
+Line 4648: [2026-06-28 13:02:36] Upvhldz0"~`af`he*`(x0#aan*`<}Wisg8"`!Temp: 44704"~`af`he*`(x0#aan*`<}Wisg8"`!Temp: 507(x0#aan*`<}Wisg8"`!Temp: -2.231<}Wisg8"`!Temp: 1.329<}Wisg8"`!Temp: -9.565}Wisg8"`!Temp: -0.026<}Wisg8"`!Temp: -0.039<}Wisg8"`!Temp: 0.012`!Temp: 19.36
+Line 4649: [2026-06-28 13:02:37] Upvhldz0"~`af`he*`(x0#aan*`<}Wisg8"`!Temp: 45008"~`af`he*`(x0#aan*`<}Wisg8"`!Temp: 505(x0#aan*`<}Wisg8"`!Temp: -2.231<}Wisg8"`!Temp: 1.329<}Wisg8"`!Temp: -9.565}Wisg8"`!Temp: -0.026<}Wisg8"`!Temp: -0.039<}Wisg8"`!Temp: 0.012`!Temp: 19.36
+Line 4650: [2026-06-28 13:02:37] Upvhldz0"~`af`he*`(x0#aan*`<}Wisg8"`!Temp: 45312"~`af`he*`(x0#aan*`<}Wisg8"`!Temp: 503(x0#aan*`<}Wisg8"`!Temp: -2.234<}Wisg8"`!Temp: 1.288<}Wisg8"`!Temp: -9.574}Wisg8"`!Temp: -0.022<}Wisg8"`!Temp: -0.039<}Wisg8"`!Temp: 0.013`!Temp: 19.35
+Line 4652: [2026-06-28 13:02:37] Upvhldz0"~`af`he*`(x0#aan*`<}Wisg8"`!temp: 45616"~`af`he*`(x0#aan*`<}Wisg8"`!temp: 499(x0#aan*`<}Wisg8"`!temp: -2.241<}Wisg8"`!temp: 1.255<}Wisg8"`!temp: -9.598}Wisg8"`!temp: -0.027<}Wisg8"`!temp: -0.038<}Wisg8"`!temp: 0.017`!temp: 19.35
+Line 4653: [2026-06-28 13:02:38] Upvhldz0"~`af`he*`(x0#aan*`<}Wisg8"`!temp: 45920"~`af`he*`(x0#aan*`<}Wisg8"`!temp: 497(x0#aan*`<}Wisg8"`!temp: -2.241<}Wisg8"`!temp: 1.255<}Wisg8"`!temp: -9.598}Wisg8"`!temp: -0.027<}Wisg8"`!temp: -0.038<}Wisg8"`!temp: 0.017`!temp: 19.35
+Line 4654: [2026-06-28 13:02:38] Upvhldz0"~`af`he*`(x0#aan*`<}Wisg8"`!temp: 46224"~`af`he*`(x0#aan*`<}Wisg8"`!temp: 496(x0#aan*`<}Wisg8"`!temp: -2.222<}Wisg8"`!temp: 1.310<}Wisg8"`!temp: -9.562}Wisg8"`!temp: -0.026<}Wisg8"`!temp: -0.039<}Wisg8"`!temp: 0.012`!temp: 19.32
+Line 4656: [2026-06-28 13:02:38] Upvhldz0"~`af`he*`(x0#aan*`<}Wisg8"`!tamp: 46528"~`af`he*`(x0#aan*`<}Wisg8"`!tamp: 496(x0#aan*`<}Wisg8"`!tamp: -2.246<}Wisg8"`!tamp: 1.324<}Wisg8"`!tamp: -9.577}Wisg8"`!tamp: -0.023<}Wisg8"`!tamp: -0.040<}Wisg8"`!tamp: 0.013`!tamp: 19.34
+Line 4657: [2026-06-28 13:02:39] Upvhldz0"~`af`he*`(x0#aan*`<}Wisg8"`!tamp: 46832"~`af`he*`(x0#aan*`<}Wisg8"`!tamp: 496(x0#aan*`<}Wisg8"`!tamp: -2.246<}Wisg8"`!tamp: 1.324<}Wisg8"`!tamp: -9.577}Wisg8"`!tamp: -0.023<}Wisg8"`!tamp: -0.040<}Wisg8"`!tamp: 0.013`!tamp: 19.34
+Line 4658: [2026-06-28 13:02:39] Upvhldz0"~`af`he*`(x0#aan*`<}Wisg8"`!tamp: 47136"~`af`he*`(x0#aan*`<}Wisg8"`!tamp: 496(x0#aan*`<}Wisg8"`!tamp: -2.217<}Wisg8"`!tamp: 1.267<}Wisg8"`!tamp: -9.574}Wisg8"`!tamp: -0.025<}Wisg8"`!tamp: -0.039<}Wisg8"`!tamp: 0.014`!tamp: 19.33
+Line 4659: [2026-06-28 13:02:39] Upvhldz0"~`af`he*`(x0#aan*`<}Wisg8"`!tamp: 47440"~`af`he*`(x0#aan*`<}Wisg8"`!tamp: 496(x0#aan*`<}Wisg8"`!tamp: -2.217<}Wisg8"`!tamp: 1.267<}Wisg8"`!tamp: -9.574}Wisg8"`!tamp: -0.025<}Wisg8"`!tamp: -0.039<}Wisg8"`!tamp: 0.014`!tamp: 19.33
+Line 4661: [2026-06-28 13:02:40] Upvhldz0"~`af`he*`(x0#aan*`<}Wisg8"`!talp: 47744"~`af`he*`(x0#aan*`<}Wisg8"`!talp: 496(x0#aan*`<}Wisg8"`!talp: -2.210<}Wisg8"`!talp: 1.281<}Wisg8"`!talp: -9.598}Wisg8"`!talp: -0.025<}Wisg8"`!talp: -0.041<}Wisg8"`!talp: 0.013`!talp: 19.32
+Line 4662: [2026-06-28 13:02:40] Upvhldz0"~`af`he*`(x0#aan*`<}Wisg8"`!talp: 48048"~`af`he*`(x0#aan*`<}Wisg8"`!talp: 496(x0#aan*`<}Wisg8"`!talp: -2.219<}Wisg8"`!talp: 1.334<}Wisg8"`!talp: -9.558}Wisg8"`!talp: -0.024<}Wisg8"`!talp: -0.040<}Wisg8"`!talp: 0.013`!talp: 19.32
+Line 4663: [2026-06-28 13:02:40] Upvhldz0"~`af`he*`(x0#aan*`<}Wisg8"`!talp: 48352"~`af`he*`(x0#aan*`<}Wisg8"`!talp: 496(x0#aan*`<}Wisg8"`!talp: -2.219<}Wisg8"`!talp: 1.334<}Wisg8"`!talp: -9.558}Wisg8"`!talp: -0.024<}Wisg8"`!talp: -0.040<}Wisg8"`!talp: 0.013`!talp: 19.32
+Line 4665: [2026-06-28 13:02:41] Upvhldz0"~`af`he*`(x0#aan*`<}Wisg8"`!talr: 48656"~`af`he*`(x0#aan*`<}Wisg8"`!talr: 497(x0#aan*`<}Wisg8"`!talr: -2.210<}Wisg8"`!talr: 1.276<}Wisg8"`!talr: -9.603}Wisg8"`!talr: -0.020<}Wisg8"`!talr: -0.040<}Wisg8"`!talr: 0.011`!talr: 19.32
+Line 4666: [2026-06-28 13:02:41] Upvhldz0"~`af`he*`(x0#aan*`<}Wisg8"`!talr: 48960"~`af`he*`(x0#aan*`<}Wisg8"`!talr: 499(x0#aan*`<}Wisg8"`!talr: -2.210<}Wisg8"`!talr: 1.276<}Wisg8"`!talr: -9.603}Wisg8"`!talr: -0.020<}Wisg8"`!talr: -0.040<}Wisg8"`!talr: 0.011`!talr: 19.32
+Line 4667: [2026-06-28 13:02:41] Upvhldz0"~`af`he*`(x0#aan*`<}Wisg8"`!talr: 49264"~`af`he*`(x0#aan*`<}Wisg8"`!talr: 502(x0#aan*`<}Wisg8"`!talr: -2.212<}Wisg8"`!talr: 1.319<}Wisg8"`!talr: -9.591}Wisg8"`!talr: -0.029<}Wisg8"`!talr: -0.039<}Wisg8"`!talr: 0.014`!talr: 19.31
+Line 4669: [2026-06-28 13:02:42] Upvhldz0"~`af`he*`(x0#aan*`<}Wisg8"`!talr* 49568"~`af`he*`(x0#aan*`<}Wisg8"`!talr* 506(x0#aan*`<}Wisg8"`!talr* -2.231<}Wisg8"`!talr* 1.319<}Wisg8"`!talr* -9.562}Wisg8"`!talr* -0.032<}Wisg8"`!talr* -0.038<}Wisg8"`!talr* 0.015`!talr* 19.32
+Line 4670: [2026-06-28 13:02:42] Upvhldz0"~`af`he*`(x0#aan*`<}Wisg8"`!talr* 49872"~`af`he*`(x0#aan*`<}Wisg8"`!talr* 509(x0#aan*`<}Wisg8"`!talr* -2.231<}Wisg8"`!talr* 1.319<}Wisg8"`!talr* -9.562}Wisg8"`!talr* -0.032<}Wisg8"`!talr* -0.038<}Wisg8"`!talr* 0.015`!talr* 19.32
+Line 4671: [2026-06-28 13:02:42] Upvhldz0"~`af`he*`(x0#aan*`<}Wisg8"`!talr* 50176"~`af`he*`(x0#aan*`<}Wisg8"`!talr* 510(x0#aan*`<}Wisg8"`!talr* -2.205<}Wisg8"`!talr* 1.295<}Wisg8"`!talr* -9.594}Wisg8"`!talr* -0.023<}Wisg8"`!talr* -0.040<}Wisg8"`!talr* 0.012`!talr* 19.29
+Line 4672: [2026-06-28 13:02:43] Upvhldz0"~`af`he*`(x0#aan*`<}Wisg8"`!talr* 50480"~`af`he*`(x0#aan*`<}Wisg8"`!talr* 510(x0#aan*`<}Wisg8"`!talr* -2.205<}Wisg8"`!talr* 1.295<}Wisg8"`!talr* -9.594}Wisg8"`!talr* -0.023<}Wisg8"`!talr* -0.040<}Wisg8"`!talr* 0.012`!talr*19.29
+Line 4674: [2026-06-28 13:02:43] Upvhldz0"~`af`he*`(x0#aan*`<}Wisg8"`!talr*50784"~`af`he*`(x0#aan*`<}Wisg8"`!talr*508(x0#aan*`<}Wisg8"`!talr*-2.191<}Wisg8"`!talr*1.302<}Wisg8"`!talr*-9.574}Wisg8"`!talr*-0.021<}Wisg8"`!talr*-0.040<}Wisg8"`!talr*0.013`!talr*19.31
+Line 4675: [2026-06-28 13:02:43] Upvhldz0"~`af`he*`(x0#aan*`<}Wisg8"`!talr*51088"~`af`he*`(x0#aan*`<}Wisg8"`!talr*510(x0#aan*`<}Wisg8"`!talr*-2.195<}Wisg8"`!talr*1.279<}Wisg8"`!talr*-9.543}Wisg8"`!talr*-0.031<}Wisg8"`!talr*-0.038<}Wisg8"`!talr*0.015`!talr*19.30
+Line 4676: [2026-06-28 13:02:44] Upvhldz0"~`af`he*`(x0#aan*`<}Wisg8"`!talr*51392"~`af`he*`(x0#aan*`<}Wisg8"`!talr*501(x0#aan*`<}Wisg8"`!talr*-2.195<}Wisg8"`!talr*1.279<}Wisg8"`!talr*-9.543}Wisg8"`!talr*-0.031<}Wisg8"`!talr*-0.038<}Wisg8"`!talr*0.015`!talr*19.30
+Line 4678: [2026-06-28 13:02:44] Upvhldz0"~`af`he*`(x0#aan*`<}Wisg8"`!talr*Software restart requested...51696"~`af`he*`(x0#aan*`<}Wisg8"`!talr*Software restart requested...499(x0#aan*`<}Wisg8"`!talr*Software restart requested...-2.239<}Wisg8"`!talr*Software restart requested...1.302<}Wisg8"`!talr*Software restart requested...-9.591}Wisg8"`!talr*Software restart requested...-0.025<}Wisg8"`!talr*Software restart requested...-0.040<}Wisg8"`!talr*Software restart requested...0.011`!talr*Software restart requested...19.30
+Line 4679: [2026-06-28 13:02:44] Upvhldz0"~`af`he*`(x0#aan*`<}Wisg8"`!talr*Software restart requested...52096"~`af`he*`(x0#aan*`<}Wisg8"`!talr*Software restart requested...510(x0#aan*`<}Wisg8"`!talr*Software restart requested...-2.231<}Wisg8"`!talr*Software restart requested...1.302<}Wisg8"`!talr*Software restart requested...-9.555}Wisg8"`!talr*Software restart requested...-0.016<}Wisg8"`!talr*Software restart requested...-0.040<}Wisg8"`!talr*Software restart requested...0.010`!talr*Software restart requested...19.28
+Line 4680: [2026-06-28 13:02:45] Upvhldz0"~`af`he*`(x0#aan*`<}Wisg8"`!talr*Software restart requested...52384"~`af`he*`(x0#aan*`<}Wisg8"`!talr*Software restart requested...506(x0#aan*`<}Wisg8"`!talr*Software restart requested...-2.231<}Wisg8"`!talr*Software restart requested...1.302<}Wisg8"`!talr*Software restart requested...-9.555}Wisg8"`!talr*Software restart requested...-0.016<}Wisg8"`!talr*Software restart requested...-0.040<}Wisg8"`!talr*Software restart requested...0.010`!talr*Software restart requested...19.28
+Line 4682: [2026-06-28 13:02:45] Upvhldz0"~`af`he*`(x0#aan*`<}Wisg8"`!talr*oftware restart requested...52672"~`af`he*`(x0#aan*`<}Wisg8"`!talr*oftware restart requested...499(x0#aan*`<}Wisg8"`!talr*oftware restart requested...-2.210<}Wisg8"`!talr*oftware restart requested...1.305<}Wisg8"`!talr*oftware restart requested...-9.558}Wisg8"`!talr*oftware restart requested...-0.024<}Wisg8"`!talr*oftware restart requested...-0.039<}Wisg8"`!talr*oftware restart requested...0.012`!talr*oftware restart requested...19.27
+Line 4683: [2026-06-28 13:02:45] Upvhldz0"~`af`he*`(x0#aan*`<}Wisg8"`!talr*oftware restart requested...53056"~`af`he*`(x0#aan*`<}Wisg8"`!talr*oftware restart requested...508(x0#aan*`<}Wisg8"`!talr*oftware restart requested...-2.219<}Wisg8"`!talr*oftware restart requested...1.317<}Wisg8"`!talr*oftware restart requested...-9.579}Wisg8"`!talr*oftware restart requested...-0.026<}Wisg8"`!talr*oftware restart requested...-0.039<}Wisg8"`!talr*oftware restart requested...0.013`!talr*oftware restart requested...19.30
+Line 4684: [2026-06-28 13:02:46] Upvhldz0"~`af`he*`(x0#aan*`<}Wisg8"`!talr*oftware restart requested...53344"~`af`he*`(x0#aan*`<}Wisg8"`!talr*oftware restart requested...504(x0#aan*`<}Wisg8"`!talr*oftware restart requested...-2.219<}Wisg8"`!talr*oftware restart requested...1.317<}Wisg8"`!talr*oftware restart requested...-9.579}Wisg8"`!talr*oftware restart requested...-0.026<}Wisg8"`!talr*oftware restart requested...-0.039<}Wisg8"`!talr*oftware restart requested...0.013`!talr*oftware restart requested...19.30
+Line 4686: [2026-06-28 13:02:46] Upvhldz0"~`af`he*`(x0#aan*`<}Wisg8"`!talr*ftware restart requested...53632"~`af`he*`(x0#aan*`<}Wisg8"`!talr*ftware restart requested...497(x0#aan*`<}Wisg8"`!talr*ftware restart requested...-2.205<}Wisg8"`!talr*ftware restart requested...1.293<}Wisg8"`!talr*ftware restart requested...-9.572}Wisg8"`!talr*ftware restart requested...-0.028<}Wisg8"`!talr*ftware restart requested...-0.038<}Wisg8"`!talr*ftware restart requested...0.013`!talr*ftware restart requested...19.28
+Line 4687: [2026-06-28 13:02:47] Upvhldz0"~`af`he*`(x0#aan*`<}Wisg8"`!talr*ftware restart requested...54016"~`af`he*`(x0#aan*`<}Wisg8"`!talr*ftware restart requested...507(x0#aan*`<}Wisg8"`!talr*ftware restart requested...-2.205<}Wisg8"`!talr*ftware restart requested...1.293<}Wisg8"`!talr*ftware restart requested...-9.572}Wisg8"`!talr*ftware restart requested...-0.028<}Wisg8"`!talr*ftware restart requested...-0.038<}Wisg8"`!talr*ftware restart requested...0.013`!talr*ftware restart requested...19.28
+Line 4688: [2026-06-28 13:02:47] Upvhldz0"~`af`he*`(x0#aan*`<}Wisg8"`!talr*ftware restart requested...54304"~`af`he*`(x0#aan*`<}Wisg8"`!talr*ftware restart requested...500(x0#aan*`<}Wisg8"`!talr*ftware restart requested...-2.217<}Wisg8"`!talr*ftware restart requested...1.305<}Wisg8"`!talr*ftware restart requested...-9.577}Wisg8"`!talr*ftware restart requested...-0.025<}Wisg8"`!talr*ftware restart requested...-0.041<}Wisg8"`!talr*ftware restart requested...0.013`!talr*ftware restart requested...19.27
+Line 4690: [2026-06-28 13:02:47] Upvhldz0"~`af`he*`(x0#aan*`<}Wisg8"`!talr*btware restart requested...54592"~`af`he*`(x0#aan*`<}Wisg8"`!talr*btware restart requested...496(x0#aan*`<}Wisg8"`!talr*btware restart requested...-2.227<}Wisg8"`!talr*btware restart requested...1.290<}Wisg8"`!talr*btware restart requested...-9.582}Wisg8"`!talr*btware restart requested...-0.020<}Wisg8"`!talr*btware restart requested...-0.041<}Wisg8"`!talr*btware restart requested...0.012`!talr*btware restart requested...19.25
+Line 4691: [2026-06-28 13:02:48] Upvhldz0"~`af`he*`(x0#aan*`<}Wisg8"`!talr*btware restart requested...54976"~`af`he*`(x0#aan*`<}Wisg8"`!talr*btware restart requested...504(x0#aan*`<}Wisg8"`!talr*btware restart requested...-2.227<}Wisg8"`!talr*btware restart requested...1.290<}Wisg8"`!talr*btware restart requested...-9.582}Wisg8"`!talr*btware restart requested...-0.020<}Wisg8"`!talr*btware restart requested...-0.041<}Wisg8"`!talr*btware restart requested...0.012`!talr*btware restart requested...19.25
+Line 4692: [2026-06-28 13:02:48] Upvhldz0"~`af`he*`(x0#aan*`<}Wisg8"`!talr*btware restart requested...55264"~`af`he*`(x0#aan*`<}Wisg8"`!talr*btware restart requested...498(x0#aan*`<}Wisg8"`!talr*btware restart requested...-2.224<}Wisg8"`!talr*btware restart requested...1.317<}Wisg8"`!talr*btware restart requested...-9.579}Wisg8"`!talr*btware restart requested...-0.026<}Wisg8"`!talr*btware restart requested...-0.040<}Wisg8"`!talr*btware restart requested...0.013`!talr*btware restart requested...19.25
+Line 4697: [2026-06-28 13:02:50] b4ware restart requested...
+Line 4712: [2026-06-28 13:02:51] Uptime: 1056 | Analog: 476 t Accel: -2.253,1.271,-9.711 | Gyro: -0.034,-0.038,0.015 | Temp: 19.23
+Line 4713: [2026-06-28 13:02:51] Uptime: 1344 | Analog: 480 t Accel: -2.253,1.271,-9.711 | Gyro: -0.034,-0.038,0.015 | Temp: 19.23
+Line 4714: [2026-06-28 13:02:51] Uptime: 1632 | Analog: 486 t Accel: -2.217,1.312,-9.512 | Gyro: -0.019,-0.040,0.012 | Temp: 19.24
+Line 4716: [2026-06-28 13:02:52] Uptime: 1920 | Analog: 496 t"Accel: -2.234,1.286,-9.594 | Gyro: -0.025,-0.039,0.013 | Temp: 19.25
+Line 4717: [2026-06-28 13:02:52] Uptime: 2208 | Analog: 500 t"Accel: -2.234,1.286,-9.594 | Gyro: -0.025,-0.039,0.013 | Temp: 19.25
+Line 4718: [2026-06-28 13:02:52] Uptime: 2496 | Analog: 497 t"Accel: -2.205,1.305,-9.553 | Gyro: -0.025,-0.039,0.011 | Temp: 19.25
+Line 4719: [2026-06-28 13:02:53] Uptime: 2784 | Analog: 492 t"Accel: -2.205,1.305,-9.553 | Gyro: -0.025,-0.039,0.011 | Temp: 19.25
+Line 4721: [2026-06-28 13:02:53] Uptime: 3072 | Analog: 492 t"Iccel: -2.219,1.324,-9.584 | Gyro: -0.027,-0.040,0.013 | Temp: 19.22
+Line 4722: [2026-06-28 13:02:53] Uptime: 3360 | Analog: 493 t"Iccel: -2.219,1.324,-9.584 | Gyro: -0.027,-0.040,0.013 | Temp: 19.22
+Line 4723: [2026-06-28 13:02:54] Uptime: 3648 | Analog: 494 t"Iccel: -2.227,1.329,-9.582 | Gyro: -0.027,-0.039,0.013 | Temp: 19.24
+Line 4725: [2026-06-28 13:02:54] Uptime: 3936 | Analog: 496 t"Ikcel: -2.219,1.317,-9.560 | Gyro: -0.026,-0.039,0.014 | Temp: 19.24
+Line 4726: [2026-06-28 13:02:54] Uptime: 4224 | Analog: 504 t"Ikcel: -2.219,1.317,-9.560 | Gyro: -0.026,-0.039,0.014 | Temp: 19.24
+Line 4727: [2026-06-28 13:02:54] Uptime: 4512 | Analog: 508 t"Ikcel: -2.241,1.271,-9.615 | Gyro: -0.032,-0.038,0.014 | Temp: 19.27
+Line 4728: [2026-06-28 13:02:55] Uptime: 4800 | Analog: 504 t"Ikcel: -2.241,1.271,-9.615 | Gyro: -0.032,-0.038,0.014 | Temp: 19.27
+Line 4730: [2026-06-28 13:02:55] Uptime: 5088 | Analog: 498 t"Ikel: -2.210,1.293,-9.584 | Gyro: -0.026,-0.041,0.013 | Temp: 19.24
+Line 4731: [2026-06-28 13:02:55] Uptime: 5376 | Analog: 496 t"Ikel: -2.219,1.322,-9.570 | Gyro: -0.023,-0.039,0.013 | Temp: 19.23
+Line 4732: [2026-06-28 13:02:56] Uptime: 5664 | Analog: 497 t"Ikel: -2.219,1.322,-9.570 | Gyro: -0.023,-0.039,0.013 | Temp: 19.23
+Line 4734: [2026-06-28 13:02:56] Uptime: 5952 | Analog: 497 t"Ikul: -2.236,1.235,-9.577 | Gyro: -0.021,-0.041,0.012 | Temp: 19.28
+Line 4735: [2026-06-28 13:02:56] Uptime: 6240 | Analog: 500 t"Ikul: -2.236,1.235,-9.577 | Gyro: -0.021,-0.041,0.012 | Temp: 19.28
+Line 4736: [2026-06-28 13:02:57] Uptime: 6528 | Analog: 507 t"Ikul: -2.205,1.341,-9.570 | Gyro: -0.029,-0.039,0.013 | Temp: 19.24
+Line 4737: [2026-06-28 13:02:57] Uptime: 6816 | Analog: 511 t"Ikul: -2.205,1.341,-9.570 | Gyro: -0.029,-0.039,0.013 | Temp: 19.24
+Line 4739: [2026-06-28 13:02:57] Uptime: 7104 | Analog: 507 t"Ikuh: -2.231,1.329,-9.625 | Gyro: -0.028,-0.040,0.014 | Temp: 19.26
+Line 4740: [2026-06-28 13:02:58] Uptime: 7392 | Analog: 500 t"Ikuh: -2.193,1.290,-9.562 | Gyro: -0.025,-0.039,0.013 | Temp: 19.26
+Line 4741: [2026-06-28 13:02:58] Uptime: 7680 | Analog: 498 t"Ikuh: -2.193,1.290,-9.562 | Gyro: -0.025,-0.039,0.013 | Temp: 19.26
+Line 4743: [2026-06-28 13:02:58] Uptime: 7968 | Analog: 498 t"Ikuh* -2.251,1.324,-9.562 | Gyro: -0.028,-0.040,0.014 | Temp: 19.26
+Line 4744: [2026-06-28 13:02:59] Uptime: 8256 | Analog: 499 t"Ikuh* -2.251,1.324,-9.562 | Gyro: -0.028,-0.040,0.014 | Temp: 19.26
+Line 4745: [2026-06-28 13:02:59] Uptime: 8544 | Analog: 500 t"Ikuh* -2.219,1.276,-9.577 | Gyro: -0.031,-0.038,0.016 | Temp: 19.27
+Line 4747: [2026-06-28 13:02:59] Uptime: 8832 | Analog: 507 t"Ikuh*-2.231,1.290,-9.560 | Gyro: -0.027,-0.040,0.013 | Temp: 19.27
+Line 4748: [2026-06-28 13:02:59] Uptime: 9120 | Analog: 511 t"Ikuh*-2.231,1.290,-9.560 | Gyro: -0.027,-0.040,0.013 | Temp: 19.27
+Line 4749: [2026-06-28 13:03:00] Uptime: 9408 | Analog: 508 t"Ikuh*-2.227,1.300,-9.574 | Gyro: -0.029,-0.038,0.015 | Temp: 19.27
+Line 4750: [2026-06-28 13:03:00] Uptime: 9696 | Analog: 500 t"Ikuh*-2.227,1.300,-9.574 | Gyro: -0.029,-0.038,0.015 | Temp: 19.27
+Line 4752: [2026-06-28 13:03:00] Uptime: 9984 | Analog: 498 t"Ikuh*@,-2.212,1.286,-9.596 | Gyro: -0.023,-0.041,0.012 | Temp: 19.25
+Line 4753: [2026-06-28 13:03:01] Uptime: 10272 | Analog: 498 t"Ikuh*@,-2.212,1.286,-9.596 | Gyro: -0.023,-0.041,0.012 | Temp: 19.25
+Line 4754: [2026-06-28 13:03:01] Uptime: 10560 | Analog: 498 t"Ikuh*@,-2.253,1.331,-9.613 | Gyro: -0.018,-0.040,0.012 | Temp: 19.26
+Line 4756: [2026-06-28 13:03:01] Uptime: 10848 | Analog: 498 t"Ikuh*@$-2.184$1.300$-9.565 | Gyro: -0.036$-0.038$0.015 | Temp: 19.27
+Line 4757: [2026-06-28 13:03:02] Uptime: 11136 | Analog: 502 t"Ikuh*@$-2.184$1.300$-9.565 | Gyro: -0.036$-0.038$0.015 | Temp: 19.27
+Line 4758: [2026-06-28 13:03:02] Uptime: 11424 | Analog: 509 t"Ikuh*@$-2.224$1.334$-9.589 | Gyro: -0.022$-0.042$0.010 | Temp: 19.28
+Line 4759: [2026-06-28 13:03:02] Uptime: 11712 | Analog: 509 t"Ikuh*@$-2.224$1.334$-9.589 | Gyro: -0.022$-0.042$0.010 | Temp: 19.28
+Line 4761: [2026-06-28 13:03:03] Uptime: 12000 | Analog: 505 t"Ikuh*@$ | Gyro: -2.231$ | Gyro: 1.286$ | Gyro: -9.570 | Gyro: -0.026$ | Gyro: -0.040$ | Gyro: 0.013 | Temp: 19.27
+Line 4762: [2026-06-28 13:03:03] Uptime: 12288 | Analog: 498 t"Ikuh*@$ | Gyro: -2.231$ | Gyro: 1.286$ | Gyro: -9.570 | Gyro: -0.026$ | Gyro: -0.040$ | Gyro: 0.013 | Temp: 19.27
+Line 4763: [2026-06-28 13:03:03] Uptime: 12576 | Analog: 497 t"Ikuh*@$ | Gyro: -2.241$ | Gyro: 1.302$ | Gyro: -9.694 | Gyro: -0.027$ | Gyro: -0.040$ | Gyro: 0.014 | Temp: 19.29
+Line 4765: [2026-06-28 13:03:04] Uptime: 12864 | Analog: 497 t"Ikuh*@$(| Gyro: -2.229$(| Gyro: 1.302$(| Gyro: -9.606(| Gyro: -0.025$(| Gyro: -0.039$(| Gyro: 0.013 | Temp: 19.28
+Line 4766: [2026-06-28 13:03:04] Uptime: 13152 | Analog: 497 t"Ikuh*@$(| Gyro: -2.229$(| Gyro: 1.302$(| Gyro: -9.606(| Gyro: -0.025$(| Gyro: -0.039$(| Gyro: 0.013 | Temp: 19.28
+Line 4767: [2026-06-28 13:03:04] Uptime: 13440 | Analog: 498 t"Ikuh*@$(| Gyro: -2.222$(| Gyro: 1.305$(| Gyro: -9.558(| Gyro: -0.025$(| Gyro: -0.039$(| Gyro: 0.013 | Temp: 19.27
+Line 4768: [2026-06-28 13:03:05] Uptime: 13728 | Analog: 504 t"Ikuh*@$(| Gyro: -2.222$(| Gyro: 1.305$(| Gyro: -9.558(| Gyro: -0.025$(| Gyro: -0.039$(| Gyro: 0.013 | Temp: 19.27
+Line 4770: [2026-06-28 13:03:05] Uptime: 14016 | Analog: 510 t"Ikuh*@$(\ Gyro: -2.217$(\ Gyro: 1.286$(\ Gyro: -9.603(\ Gyro: -0.026$(\ Gyro: -0.040$(\ Gyro: 0.013 | Temp: 19.29
+Line 4771: [2026-06-28 13:03:05] Uptime: 14304 | Analog: 509 t"Ikuh*@$(\ Gyro: -2.219$(\ Gyro: 1.317$(\ Gyro: -9.603(\ Gyro: -0.025$(\ Gyro: -0.040$(\ Gyro: 0.013 | Temp: 19.28
+Line 4772: [2026-06-28 13:03:05] Uptime: 14592 | Analog: 505 t"Ikuh*@$(\ Gyro: -2.219$(\ Gyro: 1.317$(\ Gyro: -9.603(\ Gyro: -0.025$(\ Gyro: -0.040$(\ Gyro: 0.013 | Temp: 19.28
+Line 4774: [2026-06-28 13:03:06] Uptime: 14880 | Analog: 510 t"Ikuh*@$(\(Gyro: -2.227$(\(Gyro: 1.312$(\(Gyro: -9.560(\(Gyro: -0.026$(\(Gyro: -0.039$(\(Gyro: 0.013 | Temp: 19.29
+Line 4775: [2026-06-28 13:03:06] Uptime: 15168 | Analog: 498 t"Ikuh*@$(\(Gyro: -2.227$(\(Gyro: 1.312$(\(Gyro: -9.560(\(Gyro: -0.026$(\(Gyro: -0.039$(\(Gyro: 0.013 | Temp: 19.29
+Line 4776: [2026-06-28 13:03:06] Uptime: 15456 | Analog: 498 t"Ikuh*@$(\(Gyro: -2.224$(\(Gyro: 1.288$(\(Gyro: -9.596(\(Gyro: -0.024$(\(Gyro: -0.040$(\(Gyro: 0.013 | Temp: 19.28
+Line 4777: [2026-06-28 13:03:07] Uptime: 15744 | Analog: 498 t"Ikuh*@$(\(Gyro: -2.224$(\(Gyro: 1.288$(\(Gyro: -9.596(\(Gyro: -0.024$(\(Gyro: -0.040$(\(Gyro: 0.013 | Temp: 19.28
+Line 4779: [2026-06-28 13:03:07] Uptime: 16032 | Analog: 498 t"Ikuh*@$(\(Eyro: -2.222$(\(Eyro: 1.310$(\(Eyro: -9.570(\(Eyro: -0.026$(\(Eyro: -0.039$(\(Eyro: 0.013 | Temp: 19.29
+Line 4780: [2026-06-28 13:03:07] Uptime: 16320 | Analog: 501 t"Ikuh*@$(\(Eyro: -2.243$(\(Eyro: 1.305$(\(Eyro: -9.567(\(Eyro: -0.025$(\(Eyro: -0.040$(\(Eyro: 0.012 | Temp: 19.28
+Line 4781: [2026-06-28 13:03:08] Uptime: 16608 | Analog: 506 t"Ikuh*@$(\(Eyro: -2.243$(\(Eyro: 1.305$(\(Eyro: -9.567(\(Eyro: -0.025$(\(Eyro: -0.040$(\(Eyro: 0.012 | Temp: 19.28
+Line 4783: [2026-06-28 13:03:08] Uptime: 16896 | Analog: 510 t"Ikuh*@$(\(EYro: -2.205$(\(EYro: 1.312$(\(EYro: -9.567(\(EYro: -0.029$(\(EYro: -0.038$(\(EYro: 0.014 | Temp: 19.27
+Line 4784: [2026-06-28 13:03:08] Uptime: 17184 | Analog: 509 t"Ikuh*@$(\(EYro: -2.205$(\(EYro: 1.312$(\(EYro: -9.567(\(EYro: -0.029$(\(EYro: -0.038$(\(EYro: 0.014 | Temp: 19.27
+Line 4785: [2026-06-28 13:03:09] Uptime: 17472 | Analog: 505 t"Ikuh*@$(\(EYro: -2.227$(\(EYro: 1.324$(\(EYro: -9.589(\(EYro: -0.029$(\(EYro: -0.038$(\(EYro: 0.014 | Temp: 19.27
+Line 4787: [2026-06-28 13:03:09] Uptime: 17760 | Analog: 499 t"Ikuh*@$(\(EY2o: -2.234$(\(EY2o: 1.305$(\(EY2o: -9.567(\(EY2o: -0.025$(\(EY2o: -0.039$(\(EY2o: 0.014 | Temp: 19.29
+Line 4788: [2026-06-28 13:03:09] Uptime: 18048 | Analog: 498 t"Ikuh*@$(\(EY2o: -2.234$(\(EY2o: 1.305$(\(EY2o: -9.567(\(EY2o: -0.025$(\(EY2o: -0.039$(\(EY2o: 0.014 | Temp: 19.29
+Line 4789: [2026-06-28 13:03:10] Uptime: 18336 | Analog: 498 t"Ikuh*@$(\(EY2o: -2.260$(\(EY2o: 1.358$(\(EY2o: -9.677(\(EY2o: -0.019$(\(EY2o: -0.040$(\(EY2o: 0.012 | Temp: 19.31
+Line 4790: [2026-06-28 13:03:10] Uptime: 18624 | Analog: 498 t"Ikuh*@$(\(EY2o: -2.260$(\(EY2o: 1.358$(\(EY2o: -9.677(\(EY2o: -0.019$(\(EY2o: -0.040$(\(EY2o: 0.012 | Temp: 19.31
+Line 4792: [2026-06-28 13:03:10] Uptime: 18912 | Analog: 498 t"Ikuh*@$(\(EY2O: -2.239$(\(EY2O: 1.314$(\(EY2O: -9.620(\(EY2O: -0.025$(\(EY2O: -0.040$(\(EY2O: 0.013 | Temp: 19.33
+Line 4793: [2026-06-28 13:03:11] Uptime: 19200 | Analog: 499 t"Ikuh*@$(\(EY2O: -2.239$(\(EY2O: 1.314$(\(EY2O: -9.620(\(EY2O: -0.025$(\(EY2O: -0.040$(\(EY2O: 0.013 | Temp: 19.33
+Line 4794: [2026-06-28 13:03:11] Uptime: 19488 | Analog: 503 t"Ikuh*@$(\(EY2O: -2.227$(\(EY2O: 1.295$(\(EY2O: -9.562(\(EY2O: -0.027$(\(EY2O: -0.040$(\(EY2O: 0.013 | Temp: 19.33
+Line 4796: [2026-06-28 13:03:11] Uptime: 19776 | Analog: 508 t"Ikuh*@$(\(EY2O2 -2.224$(\(EY2O2 1.319$(\(EY2O2 -9.567(\(EY2O2 -0.025$(\(EY2O2 -0.040$(\(EY2O2 0.013 | Temp: 19.34
+Line 4797: [2026-06-28 13:03:11] Uptime: 20064 | Analog: 510 t"Ikuh*@$(\(EY2O2 -2.224$(\(EY2O2 1.319$(\(EY2O2 -9.567(\(EY2O2 -0.025$(\(EY2O2 -0.040$(\(EY2O2 0.013 | Temp: 19.34
+Line 4798: [2026-06-28 13:03:12] Uptime: 20352 | Analog: 509 t"Ikuh*@$(\(EY2O2 -2.181$(\(EY2O2 1.295$(\(EY2O2 -9.503(\(EY2O2 -0.027$(\(EY2O2 -0.039$(\(EY2O2 0.014 | Temp: 19.32
+Line 4799: [2026-06-28 13:03:12] Uptime: 20640 | Analog: 504 t"Ikuh*@$(\(EY2O2 -2.181$(\(EY2O2 1.295$(\(EY2O2 -9.503(\(EY2O2 -0.027$(\(EY2O2 -0.039$(\(EY2O2 0.014 | Temp: 19.32
+Line 4801: [2026-06-28 13:03:12] Uptime: 20928 | Analog: 499 t"Ikuh*@$(\(EY2O20-2.234$(\(EY2O201.312$(\(EY2O20-9.548(\(EY2O20-0.025$(\(EY2O20-0.040$(\(EY2O200.012 | Temp: 19.32
+Line 4802: [2026-06-28 13:03:13] Uptime: 21216 | Analog: 498 t"Ikuh*@$(\(EY2O20-2.234$(\(EY2O201.312$(\(EY2O20-9.548(\(EY2O20-0.025$(\(EY2O20-0.040$(\(EY2O200.012 | Temp: 19.32
+Line 4803: [2026-06-28 13:03:13] Uptime: 21504 | Analog: 498 t"Ikuh*@$(\(EY2O20-2.207$(\(EY2O201.317$(\(EY2O20-9.594(\(EY2O20-0.026$(\(EY2O20-0.039$(\(EY2O200.014 | Temp: 19.33
+Line 4805: [2026-06-28 13:03:13] Uptime: 21792 | Analog: 497 t"Ikuh*@$(\(EY2O20 | Temp: -2.234$(\(EY2O20 | Temp: 1.286$(\(EY2O20 | Temp: -9.596(\(EY2O20 | Temp: -0.025$(\(EY2O20 | Temp: -0.040$(\(EY2O20 | Temp: 0.013 | Temp: 19.32
+Line 4806: [2026-06-28 13:03:14] Uptime: 22080 | Analog: 498 t"Ikuh*@$(\(EY2O20 | Temp: -2.234$(\(EY2O20 | Temp: 1.286$(\(EY2O20 | Temp: -9.596(\(EY2O20 | Temp: -0.025$(\(EY2O20 | Temp: -0.040$(\(EY2O20 | Temp: 0.013 | Temp: 19.32
+Line 4807: [2026-06-28 13:03:14] Uptime: 22368 | Analog: 499 t"Ikuh*@$(\(EY2O20 | Temp: -2.200$(\(EY2O20 | Temp: 1.329$(\(EY2O20 | Temp: -9.577(\(EY2O20 | Temp: -0.026$(\(EY2O20 | Temp: -0.040$(\(EY2O20 | Temp: 0.013 | Temp: 19.32
+Line 4808: [2026-06-28 13:03:14] Uptime: 22656 | Analog: 505 t"Ikuh*@$(\(EY2O20 | Temp: -2.200$(\(EY2O20 | Temp: 1.329$(\(EY2O20 | Temp: -9.577(\(EY2O20 | Temp: -0.026$(\(EY2O20 | Temp: -0.040$(\(EY2O20 | Temp: 0.013 | Temp: 19.32
+Line 4810: [2026-06-28 13:03:15] Uptime: 22944 | Analog: 510 t"Ikuh*@$(\(EY2O20-2.210$(\(EY2O201.307$(\(EY2O20-9.579(\(EY2O20-0.025$(\(EY2O20-0.038$(\(EY2O200.01319.34
+Line 4811: [2026-06-28 13:03:15] Uptime: 23232 | Analog: 510 t"Ikuh*@$(\(EY2O20-2.215$(\(EY2O201.307$(\(EY2O20-9.589(\(EY2O20-0.025$(\(EY2O20-0.039$(\(EY2O200.01419.32
+Line 4812: [2026-06-28 13:03:15] Uptime: 23520 | Analog: 506 t"Ikuh*@$(\(EY2O20-2.215$(\(EY2O201.307$(\(EY2O20-9.589(\(EY2O20-0.025$(\(EY2O20-0.039$(\(EY2O200.01419.32
+Line 4814: [2026-06-28 13:03:16] Uptime: 23808 | Analog: 510 t"Ikuh*@$(\(EY2O20-2.222$(\(EY2O201.324$(\(EY2O20-9.570(\(EY2O20-0.028$(\(EY2O20-0.039$(\(EY2O200.01419.34
+Line 4815: [2026-06-28 13:03:16] Uptime: 24096 | Analog: 498 t"Ikuh*@$(\(EY2O20-2.222$(\(EY2O201.324$(\(EY2O20-9.570(\(EY2O20-0.028$(\(EY2O20-0.039$(\(EY2O200.01419.34
+Line 4816: [2026-06-28 13:03:16] Uptime: 24384 | Analog: 498 t"Ikuh*@$(\(EY2O20-2.205$(\(EY2O201.310$(\(EY2O20-9.555(\(EY2O20-0.025$(\(EY2O20-0.040$(\(EY2O200.01319.32
+Line 4817: [2026-06-28 13:03:16] Uptime: 24672 | Analog: 498 t"Ikuh*@$(\(EY2O20-2.205$(\(EY2O201.310$(\(EY2O20-9.555(\(EY2O20-0.025$(\(EY2O20-0.040$(\(EY2O200.01319.32
+Line 4819: [2026-06-28 13:03:17] Uptime: 24960 | Analog: 498 t"Ikuh*@$(\(EY2O20-2.229$(\(EY2O201.295$(\(EY2O20-9.570(\(EY2O20-0.027$(\(EY2O20-0.038$(\(EY2O200.01319.34
+Line 4820: [2026-06-28 13:03:17] Uptime: 25248 | Analog: 500 t"Ikuh*@$(\(EY2O20-2.207$(\(EY2O201.276$(\(EY2O20-9.594(\(EY2O20-0.033$(\(EY2O20-0.039$(\(EY2O200.01519.34
+Line 4821: [2026-06-28 13:03:17] Uptime: 25536 | Analog: 506 t"Ikuh*@$(\(EY2O20-2.207$(\(EY2O201.276$(\(EY2O20-9.594(\(EY2O20-0.033$(\(EY2O20-0.039$(\(EY2O200.01519.34
+Line 4823: [2026-06-28 13:03:18] Uptime: 25824 | Analog: 510 t"Ikuh*@$(\(EY2O20-2.205$(\(EY2O201.307$(\(EY2O20-9.625(\(EY2O20-0.023$(\(EY2O20-0.041$(\(EY2O200.01119.34
+Line 4824: [2026-06-28 13:03:18] Uptime: 26112 | Analog: 509 t"Ikuh*@$(\(EY2O20-2.205$(\(EY2O201.307$(\(EY2O20-9.625(\(EY2O20-0.023$(\(EY2O20-0.041$(\(EY2O200.01119.34
+Line 4825: [2026-06-28 13:03:18] Uptime: 26400 | Analog: 503 t"Ikuh*@$(\(EY2O20-2.217$(\(EY2O201.341$(\(EY2O20-9.558(\(EY2O20-0.026$(\(EY2O20-0.039$(\(EY2O200.01319.34
+Line 4827: [2026-06-28 13:03:19] Uptime: 26688 | Analog: 497 t"Ikuh*@$(\(EY2O20-2.239$(\(EY2O201.314$(\(EY2O20-9.632(\(EY2O20-0.030$(\(EY2O20-0.039$(\(EY2O200.01519.33
+Line 4828: [2026-06-28 13:03:19] Uptime: 26976 | Analog: 497 t"Ikuh*@$(\(EY2O20-2.239$(\(EY2O201.314$(\(EY2O20-9.632(\(EY2O20-0.030$(\(EY2O20-0.039$(\(EY2O200.01519.33
+Line 4829: [2026-06-28 13:03:19] Uptime: 27264 | Analog: 497 t"Ikuh*@$(\(EY2O20-2.215$(\(EY2O201.312$(\(EY2O20-9.577(\(EY2O20-0.026$(\(EY2O20-0.039$(\(EY2O200.01319.33
+Line 4830: [2026-06-28 13:03:20] Uptime: 27552 | Analog: 498 t"Ikuh*@$(\(EY2O20-2.215$(\(EY2O201.312$(\(EY2O20-9.577(\(EY2O20-0.026$(\(EY2O20-0.039$(\(EY2O200.01319.33
+Line 4832: [2026-06-28 13:03:20] Uptime: 27840 | Analog: 499 t"Ikuh*@$(\(EY2O20-2.231$(\(EY2O201.314$(\(EY2O20-9.589(\(EY2O20-0.027$(\(EY2O20-0.039$(\(EY2O200.01319.33
+Line 4833: [2026-06-28 13:03:20] Uptime: 28128 | Analog: 505 t"Ikuh*@$(\(EY2O20-2.231$(\(EY2O201.314$(\(EY2O20-9.589(\(EY2O20-0.027$(\(EY2O20-0.039$(\(EY2O200.01319.33
+Line 4834: [2026-06-28 13:03:21] Uptime: 28416 | Analog: 511 t"Ikuh*@$(\(EY2O20-2.174$(\(EY2O201.298$(\(EY2O20-9.462(\(EY2O20-0.031$(\(EY2O20-0.039$(\(EY2O200.01519.33
+Line 4836: [2026-06-28 13:03:21] Uptime: 28704 | Analog: 509 t"Ikuh*@$(\(EY2O20-2.219$(\(EY2O201.269$(\(EY2O20-9.598(\(EY2O20-0.025$(\(EY2O20-0.039$(\(EY2O200.01319.32
+Line 4837: [2026-06-28 13:03:21] Uptime: 28992 | Analog: 504 t"Ikuh*@$(\(EY2O20-2.219$(\(EY2O201.269$(\(EY2O20-9.598(\(EY2O20-0.025$(\(EY2O20-0.039$(\(EY2O200.01319.32
+Line 4838: [2026-06-28 13:03:22] Uptime: 29280 | Analog: 498 t"Ikuh*@$(\(EY2O20-2.239$(\(EY2O201.307$(\(EY2O20-9.570(\(EY2O20-0.023$(\(EY2O20-0.039$(\(EY2O200.01119.31
+Line 4839: [2026-06-28 13:03:22] Uptime: 29568 | Analog: 497 t"Ikuh*@$(\(EY2O20-2.239$(\(EY2O201.307$(\(EY2O20-9.570(\(EY2O20-0.023$(\(EY2O20-0.039$(\(EY2O200.01119.31
+Line 4841: [2026-06-28 13:03:22] Uptime: 29856 | Analog: 498 t"Ikuh*@$(\(EY2O20-2.234$(\(EY2O201.310$(\(EY2O20-9.553(\(EY2O20-0.027$(\(EY2O20-0.039$(\(EY2O200.01319.31
+Line 4842: [2026-06-28 13:03:22] Uptime: 30144 | Analog: 498 t"Ikuh*@$(\(EY2O20-2.234$(\(EY2O201.310$(\(EY2O20-9.553(\(EY2O20-0.027$(\(EY2O20-0.039$(\(EY2O200.01319.31
+Line 4843: [2026-06-28 13:03:23] Uptime: 30432 | Analog: 499 t"Ikuh*@$(\(EY2O20-2.227$(\(EY2O201.312$(\(EY2O20-9.589(\(EY2O20-0.025$(\(EY2O20-0.040$(\(EY2O200.01319.32
+Line 4845: [2026-06-28 13:03:23] Uptime: 30720 | Analog: 505 t"Ikuh*@$(\(EY2O20-2.241$(\(EY2O201.324$(\(EY2O20-9.603(\(EY2O20-0.026$(\(EY2O20-0.039$(\(EY2O200.01319.30
+Line 4846: [2026-06-28 13:03:23] Uptime: 31008 | Analog: 511 t"Ikuh*@$(\(EY2O20-2.241$(\(EY2O201.324$(\(EY2O20-9.603(\(EY2O20-0.026$(\(EY2O20-0.039$(\(EY2O200.01319.30
+Line 4847: [2026-06-28 13:03:24] Uptime: 31296 | Analog: 510 t"Ikuh*@$(\(EY2O20-2.219$(\(EY2O201.300$(\(EY2O20-9.606(\(EY2O20-0.026$(\(EY2O20-0.039$(\(EY2O200.01419.31
+Line 4848: [2026-06-28 13:03:24] Uptime: 31584 | Analog: 503 t"Ikuh*@$(\(EY2O20-2.219$(\(EY2O201.300$(\(EY2O20-9.606(\(EY2O20-0.026$(\(EY2O20-0.039$(\(EY2O200.01419.31
+Line 4850: [2026-06-28 13:03:24] Uptime: 31872 | Analog: 498 t"Ikuh*@$(\(EY2O20-2.195$(\(EY2O201.298$(\(EY2O20-9.603(\(EY2O20-0.025$(\(EY2O20-0.039$(\(EY2O200.01319.29
+Line 4851: [2026-06-28 13:03:25] Uptime: 32160 | Analog: 498 t"Ikuh*@$(\(EY2O20-2.229$(\(EY2O201.302$(\(EY2O20-9.613(\(EY2O20-0.023$(\(EY2O20-0.039$(\(EY2O200.01319.30
+Line 4852: [2026-06-28 13:03:25] Uptime: 32448 | Analog: 498 t"Ikuh*@$(\(EY2O20-2.229$(\(EY2O201.302$(\(EY2O20-9.613(\(EY2O20-0.023$(\(EY2O20-0.039$(\(EY2O200.01319.30
+Line 4854: [2026-06-28 13:03:25] Uptime: 32736 | Analog: 498 t"Ikuh*@$(\(EY2O20-2.193$(\(EY2O201.310$(\(EY2O20-9.560(\(EY2O20-0.025$(\(EY2O20-0.039$(\(EY2O200.01419.30
+Line 4855: [2026-06-28 13:03:26] Uptime: 33024 | Analog: 500 t"Ikuh*@$(\(EY2O20-2.193$(\(EY2O201.310$(\(EY2O20-9.560(\(EY2O20-0.025$(\(EY2O20-0.039$(\(EY2O200.01419.30
+Line 4856: [2026-06-28 13:03:26] Uptime: 33312 | Analog: 507 t"Ikuh*@$(\(EY2O20-2.222$(\(EY2O201.317$(\(EY2O20-9.586(\(EY2O20-0.028$(\(EY2O20-0.038$(\(EY2O200.01419.28
+Line 4857: [2026-06-28 13:03:26] Uptime: 33600 | Analog: 511 t"Ikuh*@$(\(EY2O20-2.222$(\(EY2O201.317$(\(EY2O20-9.586(\(EY2O20-0.028$(\(EY2O20-0.038$(\(EY2O200.01419.28
+Line 4859: [2026-06-28 13:03:27] Uptime: 33888 | Analog: 508 t"Ikuh*@$(\(EY2O20-2.195$(\(EY2O201.300$(\(EY2O20-9.606(\(EY2O20-0.023$(\(EY2O20-0.040$(\(EY2O200.01219.31
+Line 4860: [2026-06-28 13:03:27] Uptime: 34176 | Analog: 500 t"Ikuh*@$(\(EY2O20-2.241$(\(EY2O201.322$(\(EY2O20-9.584(\(EY2O20-0.025$(\(EY2O20-0.039$(\(EY2O200.01319.29
+Line 4861: [2026-06-28 13:03:27] Uptime: 34464 | Analog: 498 t"Ikuh*@$(\(EY2O20-2.241$(\(EY2O201.322$(\(EY2O20-9.584(\(EY2O20-0.025$(\(EY2O20-0.039$(\(EY2O200.01319.29
+Line 4863: [2026-06-28 13:03:28] Uptime: 34752 | Analog: 498 t"Ikuh*@$(\(EY2O20-2.234$(\(EY2O201.298$(\(EY2O20-9.579(\(EY2O20-0.027$(\(EY2O20-0.039$(\(EY2O200.01319.30
+Line 4864: [2026-06-28 13:03:28] Uptime: 35040 | Analog: 498 t"Ikuh*@$(\(EY2O20-2.234$(\(EY2O201.298$(\(EY2O20-9.579(\(EY2O20-0.027$(\(EY2O20-0.039$(\(EY2O200.01319.30
+Line 4865: [2026-06-28 13:03:28] Uptime: 35328 | Analog: 498 t"Ikuh*@$(\(EY2O20-2.203$(\(EY2O201.314$(\(EY2O20-9.591(\(EY2O20-0.026$(\(EY2O20-0.039$(\(EY2O200.01319.29
+Line 4867: [2026-06-28 13:03:28] Uptime: 35616 | Analog: 502 t"Ikuh*@$(\(EY2O20-2.241$(\(EY2O201.338$(\(EY2O20-9.505(\(EY2O20-0.026$(\(EY2O20-0.038$(\(EY2O200.01419.27
+Line 4868: [2026-06-28 13:03:29] Uptime: 35904 | Analog: 509 t"Ikuh*@$(\(EY2O20-2.241$(\(EY2O201.338$(\(EY2O20-9.505(\(EY2O20-0.026$(\(EY2O20-0.038$(\(EY2O200.01419.27
+Line 4869: [2026-06-28 13:03:29] Uptime: 36192 | Analog: 510 t"Ikuh*@$(\(EY2O20-2.224$(\(EY2O201.302$(\(EY2O20-9.627(\(EY2O20-0.023$(\(EY2O20-0.034$(\(EY2O200.01419.28
+Line 4870: [2026-06-28 13:03:29] Uptime: 36480 | Analog: 505 t"Ikuh*@$(\(EY2O20-2.224$(\(EY2O201.302$(\(EY2O20-9.627(\(EY2O20-0.023$(\(EY2O20-0.034$(\(EY2O200.01419.28
+Line 4872: [2026-06-28 13:03:30] Uptime: 36768 | Analog: 499 t"Ikuh*@$(\(EY2O20-2.251$(\(EY2O201.298$(\(EY2O20-9.608(\(EY2O20-0.023$(\(EY2O20-0.040$(\(EY2O200.01419.28
+Line 4873: [2026-06-28 13:03:30] Uptime: 37056 | Analog: 497 t"Ikuh*@$(\(EY2O20-2.251$(\(EY2O201.298$(\(EY2O20-9.608(\(EY2O20-0.023$(\(EY2O20-0.040$(\(EY2O200.01419.28
+Line 4874: [2026-06-28 13:03:30] Uptime: 37344 | Analog: 498 t"Ikuh*@$(\(EY2O20-2.231$(\(EY2O201.298$(\(EY2O20-9.572(\(EY2O20-0.021$(\(EY2O20-0.039$(\(EY2O200.01319.28
+Line 4876: [2026-06-28 13:03:31] Uptime: 37632 | Analog: 498 t"Ikuh*@$(\(EY2O20-2.248$(\(EY2O201.319$(\(EY2O20-9.608(\(EY2O20-0.026$(\(EY2O20-0.022$(\(EY2O200.01519.29
+Line 4877: [2026-06-28 13:03:31] Uptime: 37920 | Analog: 499 t"Ikuh*@$(\(EY2O20-2.248$(\(EY2O201.319$(\(EY2O20-9.608(\(EY2O20-0.026$(\(EY2O20-0.022$(\(EY2O200.01519.29
+Line 4878: [2026-06-28 13:03:31] Uptime: 38208 | Analog: 505 t"Ikuh*@$(\(EY2O20-2.234$(\(EY2O201.312$(\(EY2O20-9.558(\(EY2O20-0.025$(\(EY2O20-0.039$(\(EY2O200.01319.28
+Line 4879: [2026-06-28 13:03:32] Uptime: 38496 | Analog: 512 t"Ikuh*@$(\(EY2O20-2.234$(\(EY2O201.312$(\(EY2O20-9.558(\(EY2O20-0.025$(\(EY2O20-0.039$(\(EY2O200.01319.28
+Line 4881: [2026-06-28 13:03:32] Uptime: 38784 | Analog: 509 t"Ikuh*@$(\(EY2O20-2.212$(\(EY2O201.307$(\(EY2O20-9.582(\(EY2O20-0.025$(\(EY2O20-0.040$(\(EY2O200.01419.28
+Line 4882: [2026-06-28 13:03:32] Uptime: 39072 | Analog: 500 t"Ikuh*@$(\(EY2O20-2.212$(\(EY2O201.307$(\(EY2O20-9.582(\(EY2O20-0.025$(\(EY2O20-0.040$(\(EY2O200.01419.28
+Line 4883: [2026-06-28 13:03:33] Uptime: 39360 | Analog: 497 t"Ikuh*@$(\(EY2O20-2.212$(\(EY2O201.307$(\(EY2O20-9.555(\(EY2O20-0.024$(\(EY2O20-0.039$(\(EY2O200.01319.27
+Line 4885: [2026-06-28 13:03:33] Uptime: 39648 | Analog: 497 t"Ikuh*@$(\(EY2O20-2.203$(\(EY2O201.300$(\(EY2O20-9.586(\(EY2O20-0.024$(\(EY2O20-0.039$(\(EY2O200.01219.29
+Line 4886: [2026-06-28 13:03:33] Uptime: 39936 | Analog: 497 t"Ikuh*@$(\(EY2O20-2.203$(\(EY2O201.300$(\(EY2O20-9.586(\(EY2O20-0.024$(\(EY2O20-0.039$(\(EY2O200.01219.29
+Line 4887: [2026-06-28 13:03:33] Uptime: 40224 | Analog: 498 t"Ikuh*@$(\(EY2O20-2.224$(\(EY2O201.293$(\(EY2O20-9.570(\(EY2O20-0.025$(\(EY2O20-0.040$(\(EY2O200.01319.28
+Line 4888: [2026-06-28 13:03:34] Uptime: 40512 | Analog: 503 t"Ikuh*@$(\(EY2O20-2.224$(\(EY2O201.293$(\(EY2O20-9.570(\(EY2O20-0.025$(\(EY2O20-0.040$(\(EY2O200.01319.28
+Line 4890: [2026-06-28 13:03:34] Uptime: 40800 | Analog: 511 t"Ikuh*@$(\(EY2O20-2.215$(\(EY2O201.317$(\(EY2O20-9.610(\(EY2O20-0.025$(\(EY2O20-0.040$(\(EY2O200.01319.28
+Line 4891: [2026-06-28 13:03:34] Uptime: 41088 | Analog: 511 t"Ikuh*@$(\(EY2O20-2.195$(\(EY2O201.314$(\(EY2O20-9.570(\(EY2O20-0.025$(\(EY2O20-0.038$(\(EY2O200.01319.27
+Line 4892: [2026-06-28 13:03:35] Uptime: 41376 | Analog: 505 t"Ikuh*@$(\(EY2O20-2.195$(\(EY2O201.314$(\(EY2O20-9.570(\(EY2O20-0.025$(\(EY2O20-0.038$(\(EY2O200.01319.27
+Line 4894: [2026-06-28 13:03:35] Uptime: 41664 | Analog: 510 t"Ikuh*@$(\(EY2O20-2.205$(\(EY2O201.319$(\(EY2O20-9.577(\(EY2O20-0.025$(\(EY2O20-0.039$(\(EY2O200.01319.27
+Line 4895: [2026-06-28 13:03:35] Uptime: 41952 | Analog: 497 t"Ikuh*@$(\(EY2O20-2.205$(\(EY2O201.319$(\(EY2O20-9.577(\(EY2O20-0.025$(\(EY2O20-0.039$(\(EY2O200.01319.27
+Line 4896: [2026-06-28 13:03:36] Uptime: 42240 | Analog: 497 t"Ikuh*@$(\(EY2O20-2.203$(\(EY2O201.312$(\(EY2O20-9.589(\(EY2O20-0.027$(\(EY2O20-0.039$(\(EY2O200.01319.26
+Line 4897: [2026-06-28 13:03:36] Uptime: 42528 | Analog: 497 t"Ikuh*@$(\(EY2O20-2.203$(\(EY2O201.312$(\(EY2O20-9.589(\(EY2O20-0.027$(\(EY2O20-0.039$(\(EY2O200.01319.26
+Line 4899: [2026-06-28 13:03:36] Uptime: 42816 | Analog: 500 t"Ikuh*@$(\(EY2O20-2.205$(\(EY2O201.314$(\(EY2O20-9.570(\(EY2O20-0.025$(\(EY2O20-0.041$(\(EY2O200.01319.27
+Line 4900: [2026-06-28 13:03:37] Uptime: 43104 | Analog: 506 t"Ikuh*@$(\(EY2O20-2.222$(\(EY2O201.288$(\(EY2O20-9.584(\(EY2O20-0.025$(\(EY2O20-0.039$(\(EY2O200.01319.27
+Line 4901: [2026-06-28 13:03:37] Uptime: 43392 | Analog: 511 t"Ikuh*@$(\(EY2O20-2.222$(\(EY2O201.288$(\(EY2O20-9.584(\(EY2O20-0.025$(\(EY2O20-0.039$(\(EY2O200.01319.27
+Line 4903: [2026-06-28 13:03:37] Uptime: 43680 | Analog: 508 t"Ikuh*@$(\(EY2O20-2.207$(\(EY2O201.300$(\(EY2O20-9.567(\(EY2O20-0.026$(\(EY2O20-0.040$(\(EY2O200.01319.26
+Line 4904: [2026-06-28 13:03:38] Uptime: 43968 | Analog: 501 t"Ikuh*@$(\(EY2O20-2.207$(\(EY2O201.300$(\(EY2O20-9.567(\(EY2O20-0.026$(\(EY2O20-0.040$(\(EY2O200.01319.26
+Line 4905: [2026-06-28 13:03:38] Uptime: 44256 | Analog: 497 t"Ikuh*@$(\(EY2O20-2.215$(\(EY2O201.329$(\(EY2O20-9.560(\(EY2O20-0.027$(\(EY2O20-0.038$(\(EY2O200.01319.27
+Line 4907: [2026-06-28 13:03:38] Uptime: 44544 | Analog: 497 t"Ikuh*@$(\(EY2O20-2.207$(\(EY2O201.293$(\(EY2O20-9.570(\(EY2O20-0.025$(\(EY2O20-0.041$(\(EY2O200.01319.28
+Line 4908: [2026-06-28 13:03:39] Uptime: 44832 | Analog: 497 t"Ikuh*@$(\(EY2O20-2.207$(\(EY2O201.293$(\(EY2O20-9.570(\(EY2O20-0.025$(\(EY2O20-0.041$(\(EY2O200.01319.28
+Line 4909: [2026-06-28 13:03:39] Uptime: 45120 | Analog: 498 t"Ikuh*@$(\(EY2O20-2.200$(\(EY2O201.295$(\(EY2O20-9.584(\(EY2O20-0.025$(\(EY2O20-0.045$(\(EY2O200.00619.28
+Line 4910: [2026-06-28 13:03:39] Uptime: 45408 | Analog: 499 t"Ikuh*@$(\(EY2O20-2.200$(\(EY2O201.295$(\(EY2O20-9.584(\(EY2O20-0.025$(\(EY2O20-0.045$(\(EY2O200.00619.28
+Line 4912: [2026-06-28 13:03:39] Uptime: 45696 | Analog: 505 t"Ikuh*@$(\(EY2O20-2.251$(\(EY2O201.329$(\(EY2O20-9.622(\(EY2O20-0.023$(\(EY2O20-0.028$(\(EY2O200.01519.28
+Line 4913: [2026-06-28 13:03:40] Uptime: 45984 | Analog: 511 t"Ikuh*@$(\(EY2O20-2.251$(\(EY2O201.329$(\(EY2O20-9.622(\(EY2O20-0.023$(\(EY2O20-0.028$(\(EY2O200.01519.28
+Line 4914: [2026-06-28 13:03:40] Uptime: 46272 | Analog: 510 t"Ikuh*@$(\(EY2O20-2.210$(\(EY2O201.281$(\(EY2O20-9.565(\(EY2O20-0.023$(\(EY2O20-0.040$(\(EY2O200.01319.27
+Line 4916: [2026-06-28 13:03:40] Uptime: 46560 | Analog: 506 t"Ikuh*@$(\(EY2O20-2.219$(\(EY2O201.245$(\(EY2O20-9.522(\(EY2O20-0.022$(\(EY2O20-0.035$(\(EY2O200.02519.26
+Line 4917: [2026-06-28 13:03:41] Uptime: 46848 | Analog: 500 t"Ikuh*@$(\(EY2O20-2.219$(\(EY2O201.245$(\(EY2O20-9.522(\(EY2O20-0.022$(\(EY2O20-0.035$(\(EY2O200.02519.26
+Line 4918: [2026-06-28 13:03:41] Uptime: 47136 | Analog: 499 t"Ikuh*@$(\(EY2O20-2.210$(\(EY2O201.314$(\(EY2O20-9.562(\(EY2O20-0.026$(\(EY2O20-0.039$(\(EY2O200.01319.26
+Line 4919: [2026-06-28 13:03:41] Uptime: 47424 | Analog: 499 t"Ikuh*@$(\(EY2O20-2.210$(\(EY2O201.314$(\(EY2O20-9.562(\(EY2O20-0.026$(\(EY2O20-0.039$(\(EY2O200.01319.26
+Line 4921: [2026-06-28 13:03:42] Uptime: 47712 | Analog: 499 t"Ikuh*@$(\(EY2O20-2.200$(\(EY2O201.314$(\(EY2O20-9.570(\(EY2O20-0.026$(\(EY2O20-0.039$(\(EY2O200.01219.26
+Line 4922: [2026-06-28 13:03:42] Uptime: 48000 | Analog: 499 t"Ikuh*@$(\(EY2O20-2.200$(\(EY2O201.314$(\(EY2O20-9.570(\(EY2O20-0.026$(\(EY2O20-0.039$(\(EY2O200.01219.26
+Line 4923: [2026-06-28 13:03:42] Uptime: 48288 | Analog: 501 t"Ikuh*@$(\(EY2O20-2.219$(\(EY2O201.302$(\(EY2O20-9.584(\(EY2O20-0.028$(\(EY2O20-0.043$(\(EY2O200.01219.27
+Line 4925: [2026-06-28 13:03:43] Uptime: 48576 | Analog: 507 t"Ikuh*@$(\(EY2O20-2.188$(\(EY2O201.295$(\(EY2O20-9.512(\(EY2O20-0.025$(\(EY2O20-0.046$(\(EY2O200.01319.25
+Line 4926: [2026-06-28 13:03:43] Uptime: 48864 | Analog: 511 t"Ikuh*@$(\(EY2O20-2.188$(\(EY2O201.295$(\(EY2O20-9.512(\(EY2O20-0.025$(\(EY2O20-0.046$(\(EY2O200.01319.25
+Line 4927: [2026-06-28 13:03:43] Uptime: 49152 | Analog: 511 t"Ikuh*@$(\(EY2O20-2.248$(\(EY2O201.326$(\(EY2O20-9.558(\(EY2O20-0.027$(\(EY2O20-0.037$(\(EY2O200.01419.24
+Line 4928: [2026-06-28 13:03:44] Uptime: 49440 | Analog: 507 t"Ikuh*@$(\(EY2O20-2.248$(\(EY2O201.326$(\(EY2O20-9.558(\(EY2O20-0.027$(\(EY2O20-0.037$(\(EY2O200.01419.24
+Line 4930: [2026-06-28 13:03:44] Uptime: 49728 | Analog: 501 t"Ikuh*@$(\(EY2O20-2.212$(\(EY2O201.293$(\(EY2O20-9.567(\(EY2O20-0.025$(\(EY2O20-0.038$(\(EY2O200.01419.24
+Line 4931: [2026-06-28 13:03:44] Uptime: 50016 | Analog: 499 t"Ikuh*@$(\(EY2O20-2.229$(\(EY2O201.288$(\(EY2O20-9.570(\(EY2O20-0.025$(\(EY2O20-0.040$(\(EY2O200.01319.23
+Line 4932: [2026-06-28 13:03:45] Uptime: 50304 | Analog: 499 t"Ikuh*@$(\(EY2O20-2.229$(\(EY2O201.288$(\(EY2O20-9.570(\(EY2O20-0.025$(\(EY2O20-0.040$(\(EY2O200.01319.23
+Line 4934: [2026-06-28 13:03:45] Uptime: 50592 | Analog: 499 t"Ikuh*@$(\(EY2O20-2.224$(\(EY2O201.293$(\(EY2O20-9.558(\(EY2O20-0.026$(\(EY2O20-0.039$(\(EY2O200.01319.25
+Line 4935: [2026-06-28 13:03:45] Uptime: 50880 | Analog: 499 t"Ikuh*@$(\(EY2O20-2.224$(\(EY2O201.293$(\(EY2O20-9.558(\(EY2O20-0.026$(\(EY2O20-0.039$(\(EY2O200.01319.25
+Line 4936: [2026-06-28 13:03:45] Uptime: 51168 | Analog: 499 t"Ikuh*@$(\(EY2O20-2.207$(\(EY2O201.334$(\(EY2O20-9.562(\(EY2O20-0.025$(\(EY2O20-0.038$(\(EY2O200.01419.23
+Line 4937: [2026-06-28 13:03:46] Uptime: 51456 | Analog: 502 t"Ikuh*@$(\(EY2O20-2.207$(\(EY2O201.334$(\(EY2O20-9.562(\(EY2O20-0.025$(\(EY2O20-0.038$(\(EY2O200.01419.23
+Line 4939: [2026-06-28 13:03:46] Uptime: 51744 | Analog: 508 t"Ikuh*@$(\(EY2O20-2.212$(\(EY2O201.305$(\(EY2O20-9.579(\(EY2O20-0.024$(\(EY2O20-0.039$(\(EY2O200.01419.24
+Line 4940: [2026-06-28 13:03:46] Uptime: 52032 | Analog: 512 t"Ikuh*@$(\(EY2O20-2.217$(\(EY2O201.319$(\(EY2O20-9.555(\(EY2O20-0.025$(\(EY2O20-0.038$(\(EY2O200.01419.25
+Line 4941: [2026-06-28 13:03:47] Uptime: 52320 | Analog: 511 t"Ikuh*@$(\(EY2O20-2.217$(\(EY2O201.319$(\(EY2O20-9.555(\(EY2O20-0.025$(\(EY2O20-0.038$(\(EY2O200.01419.25
+Line 4943: [2026-06-28 13:03:47] Uptime: 52608 | Analog: 508 t"Ikuh*@$(\(EY2O20-2.207$(\(EY2O201.305$(\(EY2O20-9.548(\(EY2O20-0.027$(\(EY2O20-0.040$(\(EY2O200.01419.22
+Line 4944: [2026-06-28 13:03:47] Uptime: 52896 | Analog: 502 t"Ikuh*@$(\(EY2O20-2.207$(\(EY2O201.305$(\(EY2O20-9.548(\(EY2O20-0.027$(\(EY2O20-0.040$(\(EY2O200.01419.22
+Line 4945: [2026-06-28 13:03:48] Uptime: 53184 | Analog: 499 t"Ikuh*@$(\(EY2O20-2.186$(\(EY2O201.310$(\(EY2O20-9.579(\(EY2O20-0.026$(\(EY2O20-0.039$(\(EY2O200.01319.23
+Line 4947: [2026-06-28 13:03:48] Uptime: 53472 | Analog: 499 t"Ikuh*@$(\(EY2O20-2.203$(\(EY2O201.298$(\(EY2O20-9.601(\(EY2O20-0.025$(\(EY2O20-0.038$(\(EY2O200.01319.24
+Line 4948: [2026-06-28 13:03:48] Uptime: 53760 | Analog: 499 t"Ikuh*@$(\(EY2O20-2.203$(\(EY2O201.298$(\(EY2O20-9.601(\(EY2O20-0.025$(\(EY2O20-0.038$(\(EY2O200.01319.24
+Line 4949: [2026-06-28 13:03:49] Uptime: 54048 | Analog: 499 t"Ikuh*@$(\(EY2O20-2.251$(\(EY2O201.274$(\(EY2O20-9.562(\(EY2O20-0.025$(\(EY2O20-0.046$(\(EY2O200.01119.23
+Line 4950: [2026-06-28 13:03:49] Uptime: 54336 | Analog: 499 t"Ikuh*@$(\(EY2O20-2.251$(\(EY2O201.274$(\(EY2O20-9.562(\(EY2O20-0.025$(\(EY2O20-0.046$(\(EY2O200.01119.23
+Line 4952: [2026-06-28 13:03:49] Uptime: 54624 | Analog: 502 t"Ikuh*@$(\(EY2O20-2.205$(\(EY2O201.298$(\(EY2O20-9.574(\(EY2O20-0.025$(\(EY2O20-0.038$(\(EY2O200.01319.23
+Line 4953: [2026-06-28 13:03:50] Uptime: 54912 | Analog: 508 t"Ikuh*@$(\(EY2O20-2.205$(\(EY2O201.298$(\(EY2O20-9.574(\(EY2O20-0.025$(\(EY2O20-0.038$(\(EY2O200.01319.23
+Line 4954: [2026-06-28 13:03:50] Uptime: 55200 | Analog: 512 t"Ikuh*@$(\(EY2O20-2.179$(\(EY2O201.312$(\(EY2O20-9.582(\(EY2O20-0.024$(\(EY2O20-0.041$(\(EY2O200.01319.23
+Line 4959: [2026-06-28 13:03:52] Uptime: 55488 | Analog: 511 t"Ikuh*@$(\(EY2O20-2.224$(\(EY2O201.293$(\(EY2O20-9.579(\(EY2O20-0.026$(\(EY2O20-0.039$(\(EY2O200.01319.21
+Line 4960: [2026-06-28 13:03:52] Wggusqsg$z%cveRp2gmc|ed...
+Line 5222: [2026-06-28 13:04:54] O&scva0zg4su
+Line 5436: [2026-06-28 13:05:43] DLIP @ 0x2F9 bit 1
+Line 5440: [2026-06-28 13:05:44] DNIP @ 0x2FA bit 1
+Line 5445: [2026-06-28 13:05:45] DNiP @ 0x2FB bit 5
+Line 5449: [2026-06-28 13:05:47] DNiT @ 0x2FC bit 2
+Line 5454: [2026-06-28 13:05:48] DNiT@ 0x2FD bit 7
+Line 5458: [2026-06-28 13:05:49] DNiTA 0x2FE bit 0
+Line 5463: [2026-06-28 13:05:50] DNiTA00x2FF bit 4
+Line 5467: [2026-06-28 13:05:51] DNiTA01x300 bit 0
+Line 5471: [2026-06-28 13:05:52] DNiTA01z301 bit 1
+Line 5476: [2026-06-28 13:05:53] DNiTA01z bit 302 bit 7
+Line 5480: [2026-06-28 13:05:54] DNiTA01z"bit 303"bit 1
+Line 5485: [2026-06-28 13:05:56] Software!vuqb
+Line 5610: [2026-06-28 13:06:24] NLIP @ 0x2F9 bit 3
+Line 5614: [2026-06-28 13:06:25] NDIP @ 0x2FA bit 3
+Line 5619: [2026-06-28 13:06:26] NDMP @ 0x2FB bit 2
+Line 5623: [2026-06-28 13:06:27] NDM@ @ 0x2FC bit 4
+Line 5628: [2026-06-28 13:06:28] NDM@0@ 0x2FD bit 4
+Line 5632: [2026-06-28 13:06:29] NDM@0B 0x2FE bit 1
+Line 5637: [2026-06-28 13:06:30] NDM@0B$0x2FF bit 2
+Line 5641: [2026-06-28 13:06:31] NDM@0B$x300 bit 7
+Line 5646: [2026-06-28 13:06:32] NDM@0B$X301 bit 5
+Line 5650: [2026-06-28 13:06:33] NDM@0B$X bit 302 bit 4
+Line 5654: [2026-06-28 13:06:34] NDM@0B$X!bit 303!bit 0
+Line 5659: [2026-06-28 13:06:36] NDM@0B$X!cit 304!cit 0
+Line 5663: [2026-06-28 13:06:37] NDM@0B$X!ct 305!ct 7
+Line 5668: [2026-06-28 13:06:38] NDM@0B$X!cv 306!cv 1
+Line 5672: [2026-06-28 13:06:39] NDM@0B$X!cv!307!cv!0
+Line 5677: [2026-06-28 13:06:40] NDM@0B$X!cv!REBOOT -----------------------------------308!cv!REBOOT -----------------------------------2
+Line 5681: [2026-06-28 13:06:41] NDM@0B$X!cv!BEBOOT -----------------------------------309!cv!BEBOOT -----------------------------------4
+Line 5686: [2026-06-28 13:06:42] NDM@0B$X!cv!BBOOT -----------------------------------30A!cv!BBOOT -----------------------------------7
+Line 5690: [2026-06-28 13:06:43] NDM@0B$X!cv!BOOT -----------------------------------30B!cv!BOOT -----------------------------------7
+Line 5694: [2026-06-28 13:06:44] NDM@0B$X!cv!B_OT -----------------------------------30C!cv!B_OT -----------------------------------4
+Line 5699: [2026-06-28 13:06:45] NDM@0B$X!cv!B_KT -----------------------------------30D!cv!B_KT -----------------------------------2
+Line 5703: [2026-06-28 13:06:46] NDM@0B$X!cv!B_K -----------------------------------30E!cv!B_K -----------------------------------6
+Line 5708: [2026-06-28 13:06:48] NDM@0B$X!cv!B_K30F!cv!B_K5
+Line 5712: [2026-06-28 13:06:49] NDM@0B$X!cv!B_K310!cv!B_K2
+Line 5717: [2026-06-28 13:06:50] NDM@0B$X!cv!B_K311!cv!B_K0
+Line 5721: [2026-06-28 13:06:51] NDM@0B$X!cv!B_K312!cv!B_K2
+Line 5726: [2026-06-28 13:06:52] NDM@0B$X!cv!B_K313!cv!B_K3
+Line 5730: [2026-06-28 13:06:53] NDM@0B$X!cv!B_K314!cv!B_K0
+Line 5734: [2026-06-28 13:06:54] NDM@0B$X!cv!B_K315!cv!B_K3
+Line 5739: [2026-06-28 13:06:55] NDM@0B$X!cv!B_K316!cv!B_K3
+Line 5743: [2026-06-28 13:06:56] NDM@0B$X!cv!B_K317!cv!B_K7
+Line 5747: [2026-06-28 13:06:58] Software restart requested../^%7
+Line 5783: [2026-06-28 13:07:04] fLIP @ 0x2F9 bit 5
+Line 5788: [2026-06-28 13:07:05] fIP @ 0x2FA bit 7
+Line 5792: [2026-06-28 13:07:06] f	P @ 0x2FB bit 6
+Line 5796: [2026-06-28 13:07:07] f	X @ 0x2FC bit 3
+Line 5801: [2026-06-28 13:07:08] f	X(@ 0x2FD bit 3
+Line 5805: [2026-06-28 13:07:09] f	X(B 0x2FE bit 1
+Line 5810: [2026-06-28 13:07:10] f	X(B!0x2FF bit 0
+Line 5814: [2026-06-28 13:07:12] f	X(B!px300 bit 6
+Line 5819: [2026-06-28 13:07:13] f	X(B!pz301 bit 1
+Line 5823: [2026-06-28 13:07:14] f	X(B!pz bit 302 bit 4
+Line 5828: [2026-06-28 13:07:15] f	X(B!pz`bit 303`bit 6
+Line 5832: [2026-06-28 13:07:16] f	X(B!pz`"it 304`"it 6
+Line 5836: [2026-06-28 13:07:17] f	X(B!pz`"at 305`"at 3
+Line 5841: [2026-06-28 13:07:18] f	X(B!pz`"a| 306`"a| 3
+Line 5845: [2026-06-28 13:07:19] f	X(B!pz`"a|307`"a|7
+Line 5850: [2026-06-28 13:07:20] f	X(B!pz`"a|REBOOT -----------------------------------308`"a|REBOOT -----------------------------------3
+Line 5854: [2026-06-28 13:07:21] f	X(B!pz`"a|VEBOOT -----------------------------------309`"a|VEBOOT -----------------------------------2
+Line 5859: [2026-06-28 13:07:22] f	X(B!pz`"a|VGBOOT -----------------------------------30A`"a|VGBOOT -----------------------------------1
+Line 5863: [2026-06-28 13:07:23] f	X(B!pz`"a|VGJOOT -----------------------------------30B`"a|VGJOOT -----------------------------------3
+Line 5868: [2026-06-28 13:07:25] f	X(B!pz`"a|VGJoOT -----------------------------------30C`"a|VGJoOT -----------------------------------5
+Line 5872: [2026-06-28 13:07:26] f	X(B!pz`"a|VGJoGT -----------------------------------30D`"a|VGJoGT -----------------------------------3
+Line 5876: [2026-06-28 13:07:27] f	X(B!pz`"a|VGJoG\ -----------------------------------30E`"a|VGJoG\ -----------------------------------3
+Line 5881: [2026-06-28 13:07:28] f	X(B!pz`"a|VGJoG\$-----------------------------------30F`"a|VGJoG\$-----------------------------------2
+Line 5885: [2026-06-28 13:07:29] f	X(B!pz`"a|VGJoG\$=----------------------------------310`"a|VGJoG\$=----------------------------------4
+Line 5890: [2026-06-28 13:07:30] f	X(B!pz`"a|VGJoG\$==---------------------------------311`"a|VGJoG\$==---------------------------------4
+Line 5894: [2026-06-28 13:07:31] f	X(B!pz`"a|VGJoG\$==/--------------------------------312`"a|VGJoG\$==/--------------------------------1
+Line 5899: [2026-06-28 13:07:32] f	X(B!pz`"a|VGJoG\$==/)-------------------------------313`"a|VGJoG\$==/)-------------------------------2
+Line 5903: [2026-06-28 13:07:33] f	X(B!pz`"a|VGJoG\$==/)------------------------------314`"a|VGJoG\$==/)------------------------------7
+Line 5908: [2026-06-28 13:07:34] f	X(B!pz`"a|VGJoG\$==/)
+Line 5909: -----------------------------315`"a|VGJoG\$==/)
+Line 5910: -----------------------------5
+Line 5914: [2026-06-28 13:07:35] f	X(B!pz`"a|VGJoG\$==/)
+Line 5915: =----------------------------316`"a|VGJoG\$==/)
+Line 5916: =----------------------------4
+Line 5920: [2026-06-28 13:07:36] f	X(B!pz`"a|VGJoG\$==/)
+Line 5921: =,---------------------------317`"a|VGJoG\$==/)
+Line 5922: =,---------------------------0
+Line 5927: [2026-06-28 13:07:38] f	X(B!pz`"a|VGJoG\$==/)
+Line 5928: =,,--------------------------318`"a|VGJoG\$==/)
+Line 5929: =,,--------------------------0
+Line 5933: [2026-06-28 13:07:39] f	X(B!pz`"a|VGJoG\$==/)
+Line 5934: =,,-------------------------319`"a|VGJoG\$==/)
+Line 5935: =,,-------------------------7
+Line 5940: [2026-06-28 13:07:40] f	X(B!pz`"a|VGJoG\$==/)
+Line 5941: =,,/------------------------31A`"a|VGJoG\$==/)
+Line 5942: =,,/------------------------1
+Line 5946: [2026-06-28 13:07:41] f	X(B!pz`"a|VGJoG\$==/)
+Line 5947: =,,/,-----------------------31B`"a|VGJoG\$==/)
+Line 5948: =,,/,-----------------------0
+Line 5953: [2026-06-28 13:07:42] f	X(B!pz`"a|VGJoG\$==/)
+Line 5954: =,,/,)----------------------31C`"a|VGJoG\$==/)
+Line 5955: =,,/,)----------------------2
+Line 5959: [2026-06-28 13:07:43] f	X(B!pz`"a|VGJoG\$==/)
+Line 5960: =,,/,)=---------------------31D`"a|VGJoG\$==/)
+Line 5961: =,,/,)=---------------------4
+Line 5966: [2026-06-28 13:07:44] f	X(B!pz`"a|VGJoG\$==/)
+Line 5967: =,,/,)=--------------------31E`"a|VGJoG\$==/)
+Line 5968: =,,/,)=--------------------7
+Line 5972: [2026-06-28 13:07:45] f	X(B!pz`"a|VGJoG\$==/)
+Line 5973: =,,/,)=-------------------31F`"a|VGJoG\$==/)
+Line 5974: =,,/,)=-------------------7
+Line 5978: [2026-06-28 13:07:46] f	X(B!pz`"a|VGJoG\$==/)
+Line 5979: =,,/,)==------------------320`"a|VGJoG\$==/)
+Line 5980: =,,/,)==------------------4
+Line 5985: [2026-06-28 13:07:47] f	X(B!pz`"a|VGJoG\$==/)
+Line 5986: =,,/,)==)-----------------321`"a|VGJoG\$==/)
+Line 5987: =,,/,)==)-----------------2
+Line 5991: [2026-06-28 13:07:48] f	X(B!pz`"a|VGJoG\$==/)
+Line 5992: =,,/,)==)m----------------322`"a|VGJoG\$==/)
+Line 5993: =,,/,)==)m----------------6
+Line 5998: [2026-06-28 13:07:50] f	X(B!pz`"a|VGJoG\$==/)
+Line 5999: =,,/,)==)m
+Line 6000: ---------------323`"a|VGJoG\$==/)
+Line 6001: =,,/,)==)m
+Line 6002: ---------------5
+Line 6006: [2026-06-28 13:07:51] f	X(B!pz`"a|VGJoG\$==/)
+Line 6007: =,,/,)==)m
+Line 6008: )--------------324`"a|VGJoG\$==/)
+Line 6009: =,,/,)==)m
+Line 6010: )--------------2
+Line 6015: [2026-06-28 13:07:52] f	X(B!pz`"a|VGJoG\$==/)
+Line 6016: =,,/,)==)m
+Line 6017: ),-------------325`"a|VGJoG\$==/)
+Line 6018: =,,/,)==)m
+Line 6019: ),-------------0
+Line 6023: [2026-06-28 13:07:53] f	X(B!pz`"a|VGJoG\$==/)
+Line 6024: =,,/,)==)m
+Line 6025: ),)------------326`"a|VGJoG\$==/)
+Line 6026: =,,/,)==)m
+Line 6027: ),)------------2
+Line 6032: [2026-06-28 13:07:54] f	X(B!pz`"a|VGJoG\$==/)
+Line 6033: =,,/,)==)m
+Line 6034: ),)%-----------327`"a|VGJoG\$==/)
+Line 6035: =,,/,)==)m
+Line 6036: ),)%-----------3
+Line 6040: [2026-06-28 13:07:55] f	X(B!pz`"a|VGJoG\$==/)
+Line 6041: =,,/,)==)m
+Line 6042: ),)%,----------328`"a|VGJoG\$==/)
+Line 6043: =,,/,)==)m
+Line 6044: ),)%,----------0
+Line 6048: [2026-06-28 13:07:56] f	X(B!pz`"a|VGJoG\$==/)
+Line 6049: =,,/,)==)m
+Line 6050: ),)%,%---------329`"a|VGJoG\$==/)
+Line 6051: =,,/,)==)m
+Line 6052: ),)%,%---------3
+Line 6057: [2026-06-28 13:07:57] f	X(B!pz`"a|VGJoG\$==/)
+Line 6058: =,,/,)==)m
+Line 6059: ),)%,%%--------32A`"a|VGJoG\$==/)
+Line 6060: =,,/,)==)m
+Line 6061: ),)%,%%--------3
+Line 6065: [2026-06-28 13:07:58] f	X(B!pz`"a|VGJoG\$==/)
+Line 6066: =,,/,)==)m
+Line 6067: ),)%,%%-------32B`"a|VGJoG\$==/)
+Line 6068: =,,/,)==)m
+Line 6069: ),)%,%%-------7
+Line 6088: [2026-06-28 13:08:01] FLIP @ 0x308 bit REBOOT -----------------------------------7
+Line 6092: [2026-06-28 13:08:02] FLIP @ 0x309 bit SEBOOT -----------------------------------0
+Line 6097: [2026-06-28 13:08:03] FLIP @ 0x30A bit SUBOOT -----------------------------------4
+Line 6101: [2026-06-28 13:08:04] FLIP @ 0x30B bit SUbOOT -----------------------------------5
+Line 6106: [2026-06-28 13:08:05] FLIP @ 0x30C bit SUbOT -----------------------------------7
+Line 6110: [2026-06-28 13:08:06] FLIP @ 0x30D bit SUb_T -----------------------------------4
+Line 6115: [2026-06-28 13:08:07] FLIP @ 0x30E bit SUb_t -----------------------------------5
+Line 6119: [2026-06-28 13:08:08] FLIP @ 0x30F bit SUb_t(-----------------------------------3
+Line 6123: [2026-06-28 13:08:09] FLIP @ 0x310 bit SUb_t(----------------------------------7
+Line 6128: [2026-06-28 13:08:10] FLIP @ 0x311 bit SUb_t(---------------------------------7
+Line 6132: [2026-06-28 13:08:11] FLIP @ 0x312 bit SUb_t(/--------------------------------1
+Line 6137: [2026-06-28 13:08:12] FLIP @ 0x313 bit SUb_t(/%-------------------------------3
+Line 6141: [2026-06-28 13:08:14] FLIP @ 0x314 bit SUb_t(/%%------------------------------3
+Line 6146: [2026-06-28 13:08:15] FLIP @ 0x315 bit SUb_t(/%%/-----------------------------1
+Line 6150: [2026-06-28 13:08:16] FLIP @ 0x316 bit SUb_t(/%%/)----------------------------2
+Line 6155: [2026-06-28 13:08:17] FLIP @ 0x317 bit SUb_t(/%%/)---------------------------7
+Line 6159: [2026-06-28 13:08:18] FLIP @ 0x318 bit SUb_t(/%%/)/--------------------------1
+Line 6163: [2026-06-28 13:08:19] FLIP @ 0x319 bit SUb_t(/%%/)/-------------------------7
+Line 6168: [2026-06-28 13:08:20] FLIP @ 0x31A bit SUb_t(/%%/)/
+Line 6169: ------------------------5
+Line 6173: [2026-06-28 13:08:21] FLIP @ 0x31B bit SUb_t(/%%/)/
+Line 6174: ,-----------------------0
+Line 6179: [2026-06-28 13:08:22] FLIP @ 0x31C bit SUb_t(/%%/)/
+Line 6180: ,)----------------------2
+Line 6184: [2026-06-28 13:08:23] FLIP @ 0x31D bit SUb_t(/%%/)/
+Line 6185: ,)---------------------7
+Line 6190: [2026-06-28 13:08:24] FLIP @ 0x31E bit SUb_t(/%%/)/
+Line 6191: ,)
+Line 6192: --------------------5
+Line 6196: [2026-06-28 13:08:26] FLIP @ 0x31F bit SUb_t(/%%/)/
+Line 6197: ,)
+Line 6198: )-------------------2
+Line 6203: [2026-06-28 13:08:27] FLIP @ 0x320 bit SUb_t(/%%/)/
+Line 6204: ,)
+Line 6205: )=------------------4
+Line 6209: [2026-06-28 13:08:28] FLIP @ 0x321 bit SUb_t(/%%/)/
+Line 6210: ,)
+Line 6211: )=)-----------------2
+Line 6215: [2026-06-28 13:08:29] FLIP @ 0x322 bit SUb_t(/%%/)/
+Line 6216: ,)
+Line 6217: )=))----------------2
+Line 6222: [2026-06-28 13:08:30] FLIP @ 0x323 bit SUb_t(/%%/)/
+Line 6223: ,)
+Line 6224: )=))m---------------6
+Line 6228: [2026-06-28 13:08:31] FLIP @ 0x324 bit SUb_t(/%%/)/
+Line 6229: ,)
+Line 6230: )=))m
+Line 6231: --------------5
+Line 6236: [2026-06-28 13:08:32] FLIP @ 0x325 bit SUb_t(/%%/)/
+Line 6237: ,)
+Line 6238: )=))m
+Line 6239: =-------------4
+Line 6243: [2026-06-28 13:08:33] FLIP @ 0x326 bit SUb_t(/%%/)/
+Line 6244: ,)
+Line 6245: )=))m
+Line 6246: =/------------1
+Line 6251: [2026-06-28 13:08:34] FLIP @ 0x327 bit SUb_t(/%%/)/
+Line 6252: ,)
+Line 6253: )=))m
+Line 6254: =/)-----------2
+Line 6258: [2026-06-28 13:08:35] FLIP @ 0x328 bit SUb_t(/%%/)/
+Line 6259: ,)
+Line 6260: )=))m
+Line 6261: =/)m----------6
+Line 6266: [2026-06-28 13:08:36] FLIP @ 0x329 bit SUb_t(/%%/)/
+Line 6267: ,)
+Line 6268: )=))m
+Line 6269: =/)mm---------6
+Line 6273: [2026-06-28 13:08:37] FLIP @ 0x32A bit SUb_t(/%%/)/
+Line 6274: ,)
+Line 6275: )=))m
+Line 6276: =/)mm
+Line 6277: --------5
+Line 6281: [2026-06-28 13:08:39] FLIP @ 0x32B bit SUb_t(/%%/)/
+Line 6282: ,)
+Line 6283: )=))m
+Line 6284: =/)mm
+Line 6285: -------7
+Line 6290: [2026-06-28 13:08:40] FLIP @ 0x32C bit SUb_t(/%%/)/
+Line 6291: ,)
+Line 6292: )=))m
+Line 6293: =/)mm
+Line 6294: /------1
+Line 6298: [2026-06-28 13:08:41] FLIP @ 0x32D bit SUb_t(/%%/)/
+Line 6299: ,)
+Line 6300: )=))m
+Line 6301: =/)mm
+Line 6302: /=-----4
+Line 6307: [2026-06-28 13:08:42] FLIP @ 0x32E bit SUb_t(/%%/)/
+Line 6308: ,)
+Line 6309: )=))m
+Line 6310: =/)mm
+Line 6311: /=m----6
+Line 6315: [2026-06-28 13:08:43] FLIP @ 0x32F bit SUb_t(/%%/)/
+Line 6316: ,)
+Line 6317: )=))m
+Line 6318: =/)mm
+Line 6319: /=mm---6
+Line 6324: [2026-06-28 13:08:44] FLIP @ 0x330 bit SUb_t(/%%/)/
+Line 6325: ,)
+Line 6326: )=))m
+Line 6327: =/)mm
+Line 6328: /=mmm--6
+Line 6332: [2026-06-28 13:08:45] FLIP @ 0x331 bit SUb_t(/%%/)/
+Line 6333: ,)
+Line 6334: )=))m
+Line 6335: =/)mm
+Line 6336: /=mmm)-2
+Line 6341: [2026-06-28 13:08:46] FLIP @ 0x332 bit SUb_t(/%%/)/
+Line 6342: ,)
+Line 6343: )=))m
+Line 6344: =/)mm
+Line 6345: /=mmm)/1
+Line 6349: [2026-06-28 13:08:47] FLIP @ 0x333 bit SUb_t(/%%/)/
+Line 6350: ,)
+Line 6351: )=))m
+Line 6352: =/)mm
+Line 6353: /=mmm)/Reset Cause: WATCHDOG3
+Line 6357: [2026-06-28 13:08:48] FLIP @ 0x334 bit SUb_t(/%%/)/
+Line 6358: ,)
+Line 6359: )=))m
+Line 6360: =/)mm
+Line 6361: /=mmm)/reset Cause: WATCHDOG5
+Line 6366: [2026-06-28 13:08:49] FLIP @ 0x335 bit SUb_t(/%%/)/
+Line 6367: ,)
+Line 6368: )=))m
+Line 6369: =/)mm
+Line 6370: /=mmm)/ruset Cause: WATCHDOG4
+Line 6374: [2026-06-28 13:08:50] FLIP @ 0x336 bit SUb_t(/%%/)/
+Line 6375: ,)
+Line 6376: )=))m
+Line 6377: =/)mm
+Line 6378: /=mmm)/ruSet Cause: WATCHDOG5
+Line 6383: [2026-06-28 13:08:52] FLIP @ 0x337 bit SUb_t(/%%/)/
+Line 6384: ,)
+Line 6385: )=))m
+Line 6386: =/)mm
+Line 6387: /=mmm)/ruSmt Cause: WATCHDOG3
+Line 6391: [2026-06-28 13:08:53] FLIP @ 0x338 bit SUb_t(/%%/)/
+Line 6392: ,)
+Line 6393: )=))m
+Line 6394: =/)mm
+Line 6395: /=mmm)/ruSmT Cause: WATCHDOG5
+Line 6400: [2026-06-28 13:08:54] FLIP @ 0x339 bit SUb_t(/%%/)/
+Line 6401: ,)
+Line 6402: )=))m
+Line 6403: =/)mm
+Line 6404: /=mmm)/ruSmT5
+Line 6408: [2026-06-28 13:08:55] FLIP @ 0x33A bit SUb_t(/%%/)/
+Line 6409: ,)
+Line 6410: )=))m
+Line 6411: =/)mm
+Line 6412: /=mmm)/ruSmT7
+Line 6417: [2026-06-28 13:08:56] FLIP @ 0x33B bit SUb_t(/%%/)/
+Line 6418: ,)
+Line 6419: )=))m
+Line 6420: =/)mm
+Line 6421: /=mmm)/ruSmT0
+Line 6425: [2026-06-28 13:08:57] FLIP @ 0x33C bit SUb_t(/%%/)/
+Line 6426: ,)
+Line 6427: )=))m
+Line 6428: =/)mm
+Line 6429: /=mmm)/ruSmT0
+Line 6433: [2026-06-28 13:08:58] FLIP @ 0x33D bit SUb_t(/%%/)/
+Line 6434: ,)
+Line 6435: )=))m
+Line 6436: =/)mm
+Line 6437: /=mmm)/ruSmT5
+Line 6442: [2026-06-28 13:08:59] FLIP @ 0x33E bit SUb_t(/%%/)/
+Line 6443: ,)
+Line 6444: )=))m
+Line 6445: =/)mm
+Line 6446: /=mmm)/ruSmT4
+Line 6453: [2026-06-28 13:09:02] FLIP @ 0x33F bit SUb_t(/%%/)/
+Line 6454: ,)
+Line 6455: )=))m
+Line 6456: =/)mm
+Line 6457: /=mmm)/ruSmT5
+Line 12221: [2026-06-28 13:31:52] ERROR: HANG
+Line 12222: [2026-06-28 13:31:52] HANG DETECTED AT ADDRESS 0x04D4
+Line 12223: [2026-06-28 13:31:52] ARDUINO RESET VIA DTR
+Line 12225: [2026-06-28 13:31:58] ADVANCING TO ADDRESS 0x04E8
+Line 12226: [2026-06-28 13:31:58] ADDRESS 0x04E8 CAUSED HANG
+Line 12228: [2026-06-28 13:32:00] ADVANCING TO ADDRESS 0x04FC
+Line 12241: [2026-06-28 13:32:05] ERROR: HANG
+Line 12242: [2026-06-28 13:32:05] HANG DETECTED AT ADDRESS 0x04FC
+Line 12243: [2026-06-28 13:32:05] ARDUINO RESET VIA DTR
+Line 12245: [2026-06-28 13:32:11] ADVANCING TO ADDRESS 0x0510
+Line 12246: [2026-06-28 13:32:11] ADDRESS 0x0510 CAUSED HANG
+Line 12248: [2026-06-28 13:32:13] ADVANCING TO ADDRESS 0x0524
+Line 13037: [2026-06-28 13:35:21] ERROR: HANG
+Line 13038: [2026-06-28 13:35:21] HANG DETECTED AT ADDRESS 0x0560
+Line 13039: [2026-06-28 13:35:21] ARDUINO RESET VIA DTR
+Line 13041: [2026-06-28 13:35:28] ADVANCING TO ADDRESS 0x0574
+Line 13042: [2026-06-28 13:35:28] ADDRESS 0x0574 CAUSED HANG
+Line 13044: [2026-06-28 13:35:30] ADVANCING TO ADDRESS 0x0588
+Line 13128: [2026-06-28 13:35:46] FLIP @
+Line 13129: [2026-06-28 13:35:51] ERROR: HANG
+Line 13130: [2026-06-28 13:35:51] HANG DETECTED AT ADDRESS 0x0588
+Line 13131: [2026-06-28 13:35:51] ARDUINO RESET VIA DTR
+Line 13133: [2026-06-28 13:35:58] ADVANCING TO ADDRESS 0x059C
+Line 13134: [2026-06-28 13:35:58] ADDRESS 0x059C CAUSED HANG
+Line 13136: [2026-06-28 13:36:00] ADVANCING TO ADDRESS 0x05B0
+Line 13347: [2026-06-28 13:36:51] ERROR: HANG
+Line 13348: [2026-06-28 13:36:51] HANG DETECTED AT ADDRESS 0x05B0
+Line 13349: [2026-06-28 13:36:51] ARDUINO RESET VIA DTR
+Line 13351: [2026-06-28 13:36:57] ADVANCING TO ADDRESS 0x05C4
+Line 13352: [2026-06-28 13:36:57] ADDRESS 0x05C4 CAUSED HANG
+Line 13354: [2026-06-28 13:36:59] ADVANCING TO ADDRESS 0x05D8
+Line 13387: [2026-06-28 13:37:08] ERROR: HANG
+Line 13388: [2026-06-28 13:37:08] HANG DETECTED AT ADDRESS 0x05D8
+Line 13389: [2026-06-28 13:37:08] ARDUINO RESET VIA DTR
+Line 13391: [2026-06-28 13:37:14] ADVANCING TO ADDRESS 0x05EC
+Line 13392: [2026-06-28 13:37:14] ADDRESS 0x05EC CAUSED HANG
+Line 13394: [2026-06-28 13:37:16] ADVANCING TO ADDRESS 0x0600
+Line 13433: [2026-06-28 13:37:22] FLIP @
+Line 13434: [2026-06-28 13:37:27] ERROR: HANG
+Line 13435: [2026-06-28 13:37:27] HANG DETECTED AT ADDRESS 0x0600
+Line 13436: [2026-06-28 13:37:27] ARDUINO RESET VIA DTR
+Line 13438: [2026-06-28 13:37:33] ADVANCING TO ADDRESS 0x0614
+Line 13439: [2026-06-28 13:37:33] ADDRESS 0x0614 CAUSED HANG
+Line 13441: [2026-06-28 13:37:35] ADVANCING TO ADDRESS 0x0628
+Line 13453: [2026-06-28 13:37:35] FLIP @                                                                
+Line 13494: [2026-06-28 13:37:41] FLIP @                                                                
+Line 13748: [2026-06-28 13:38:40] FL63 bit 5
+Line 13749: [2026-06-28 13:38:40] Up30 | Analog: 492 | Accel: -2.193,1.377,-9.562 | Gyro: -0.029,-0.037,0.006 | Temp: 18.96
+Line 13750: [2026-06-28 13:38:40] Up33 | Analog: 493 | Accel: -2.193,1.377,-9.562 | Gyro: -0.029,-0.037,0.006 | Temp: 18.96
+Line 13751: [2026-06-28 13:38:40] Up36 | Analog: 494 | Accel: -2.193,1.290,-9.491 | Gyro: -0.031,-0.053,0.010 | Temp: 18.95
+Line 13757: [2026-06-28 13:38:47] ERROR: HANG
+Line 13758: [2026-06-28 13:38:47] HANG DETECTED AT ADDRESS 0x063C
+Line 13759: [2026-06-28 13:38:47] ARDUINO RESET VIA DTR
+Line 13761: [2026-06-28 13:38:53] ADVANCING TO ADDRESS 0x0650
+Line 13762: [2026-06-28 13:38:53] ADDRESS 0x0650 CAUSED HANG
+Line 13764: [2026-06-28 13:38:55] ADVANCING TO ADDRESS 0x0664
+Line 16711: [2026-06-28 13:50:19] FL74 b                                                                
+Line 21508: [2026-06-28 14:09:04]   
+Line 21509: [2026-06-28 14:09:09] ERROR: HANG
+Line 21510: [2026-06-28 14:09:09] HANG DETECTED AT ADDRESS 0x08A8
+Line 21511: [2026-06-28 14:09:09] ARDUINO RESET VIA DTR
+Line 21513: [2026-06-28 14:09:15] ADVANCING TO ADDRESS 0x08BC
+Line 21514: [2026-06-28 14:09:15] ADDRESS 0x08BC CAUSED HANG
+Line 21516: [2026-06-28 14:09:17] ADVANCING TO ADDRESS 0x08D0
+Line 24615: [2026-06-28 14:21:25] FLIP @                                                                
+Line 24795: [2026-06-28 14:22:06] FLIP @                                                                
+Line 24975: [2026-06-28 14:22:46] FLIP @                                                                
+Line 25244: [2026-06-28 14:23:49] FLIP @
+Line 25245: [2026-06-28 14:23:54] ERROR: HANG
+Line 25246: [2026-06-28 14:23:54] HANG DETECTED AT ADDRESS 0x09E8
+Line 25247: [2026-06-28 14:23:54] ARDUINO RESET VIA DTR
+Line 25249: [2026-06-28 14:24:00] ADVANCING TO ADDRESS 0x09FC
+Line 25250: [2026-06-28 14:24:00] ADDRESS 0x09FC CAUSED HANG
+Line 25252: [2026-06-28 14:24:02] ADVANCING TO ADDRESS 0x0A10
+Line 33481: [2026-06-28 14:56:20] ERROR: HANG
+Line 33482: [2026-06-28 14:56:20] HANG DETECTED AT ADDRESS 0x0C7C
+Line 33483: [2026-06-28 14:56:20] ARDUINO RESET VIA DTR
+Line 33485: [2026-06-28 14:56:26] ADVANCING TO ADDRESS 0x0C90
+Line 33486: [2026-06-28 14:56:26] ADDRESS 0x0C90 CAUSED HANG
+Line 33488: [2026-06-28 14:56:28] ADVANCING TO ADDRESS 0x0CA4
+Line 34442: [2026-06-28 15:00:14] ERROR: HANG
+Line 34443: [2026-06-28 15:00:14] HANG DETECTED AT ADDRESS 0x0CE0
+Line 34444: [2026-06-28 15:00:14] ARDUINO RESET VIA DTR
+Line 34446: [2026-06-28 15:00:20] ADVANCING TO ADDRESS 0x0CF4
+Line 34447: [2026-06-28 15:00:20] ADDRESS 0x0CF4 CAUSED HANG
+Line 34449: [2026-06-28 15:00:22] ADVANCING TO ADDRESS 0x0D08
+Line 34737: [2026-06-28 15:01:25]  
+Line 40982: [2026-06-28 15:25:57] Up43 | GЀ?v | Analog: 495 | Accel: -2.227,1.281,-9.572 | Gyro: -0.026,-0.039,0.013 | Temp: 19.24
+Line 41158: [2026-06-28 15:26:37] Up55 | G0?/ | Analog: 497 | Accel: -2.234,1.295,-9.577 | Gyro: -0.026,-0.039,0.012 | Temp: 19.24
+Line 41334: [2026-06-28 15:27:18] Up62 | G ?B | Analog: 493 | Accel: -2.203,1.283,-9.589 | Gyro: -0.024,-0.039,0.013 | Temp: 19.23
+Line 45250: [2026-06-28 15:42:42] FLIP @                                                                 
+Line 45610: [2026-06-28 15:44:03] Up16 | Analog: 496 | Accel: -2.239,1.259,-9.629 | Gyro: -0.022,-0.046,0.011 | Temp: 19.37
+Line 45611: [2026-06-28 15:44:03] Up16 | Analog: 497 | Accel: -2.239,1.295,-9.570 | Gyro: -0.026,-0.039,0.013 | Temp: 19.37
+Line 45612: [2026-06-28 15:44:04] Up16 | Analog: 504 | Accel: -2.239,1.295,-9.570 | Gyro: -0.026,-0.039,0.013 | Temp: 19.37
+Line 45613: [2026-06-28 15:44:04] FL10 bit 4
+Line 45614: [2026-06-28 15:44:04] Up16 | Analog: 509 | Accel: -2.224,1.341,-9.584 | Gyro: -0.026,-0.038,0.013 | Temp: 19.36
+Line 45615: [2026-06-28 15:44:04] Up17 | Analog: 506 | Accel: -2.224,1.341,-9.584 | Gyro: -0.026,-0.038,0.013 | Temp: 19.36
+Line 45616: [2026-06-28 15:44:05] Up17 | Analog: 497 | Accel: -2.224,1.374,-9.519 | Gyro: -0.035,-0.037,0.014 | Temp: 19.37
+Line 45617: [2026-06-28 15:44:05] FL10 bit 7
+Line 45619: [2026-06-28 15:44:05] Up18 | Analog: 495 | Accel: -2.255,1.329,-9.637 | Gyro: -0.021,-0.040,0.011 | Temp: 19.37
+Line 45620: [2026-06-28 15:44:06] Up18 | Analog: 495 | Accel: -2.239,1.307,-9.577 | Gyro: -0.025,-0.039,0.012 | Temp: 19.36
+Line 45621: [2026-06-28 15:44:06] Up18 | Analog: 496 | Accel: -2.239,1.307,-9.577 | Gyro: -0.025,-0.039,0.012 | Temp: 19.36
+Line 45622: [2026-06-28 15:44:06] FL10 bit 2
+Line 45623: [2026-06-28 15:44:06] Up18 | Analog: 501 | Accel: -2.231,1.341,-9.572 | Gyro: -0.026,-0.039,0.014 | Temp: 19.37
+Line 45624: [2026-06-28 15:44:07] Up19 | Analog: 509 | Accel: -2.231,1.341,-9.572 | Gyro: -0.026,-0.039,0.014 | Temp: 19.37
+Line 45625: [2026-06-28 15:44:07] Up19 | Analog: 508 | Accel: -2.227,1.329,-9.565 | Gyro: -0.027,-0.038,0.013 | Temp: 19.38
+Line 45626: [2026-06-28 15:44:07] FL10 bit 5
+Line 45627: [2026-06-28 15:44:07] Up19 | Analog: 503 | Accel: -2.248,1.326,-9.553 | Gyro: -0.025,-0.039,0.013 | Temp: 19.39
+Line 45628: [2026-06-28 15:44:08] Up20 | Analog: 496 | Accel: -2.248,1.326,-9.553 | Gyro: -0.025,-0.039,0.013 | Temp: 19.39
+Line 45629: [2026-06-28 15:44:08] Up20 | Analog: 495 | Accel: -2.236,1.310,-9.543 | Gyro: -0.025,-0.038,0.013 | Temp: 19.37
+Line 45630: [2026-06-28 15:44:08] Up20 | Analog: 495 | Accel: -2.236,1.310,-9.543 | Gyro: -0.025,-0.038,0.013 | Temp: 19.37
+Line 45631: [2026-06-28 15:44:08] FL10 bit 2
+Line 45632: [2026-06-28 15:44:08] Up20 | Analog: 495 | Accel: -2.236,1.322,-9.565 | Gyro: -0.025,-0.038,0.013 | Temp: 19.38
+Line 45633: [2026-06-28 15:44:09] Up21 | Analog: 496 | Accel: -2.236,1.322,-9.565 | Gyro: -0.025,-0.038,0.013 | Temp: 19.38
+Line 45634: [2026-06-28 15:44:09] Up21 | Analog: 502 | Accel: -2.224,1.302,-9.574 | Gyro: -0.024,-0.040,0.014 | Temp: 19.39
+Line 45635: [2026-06-28 15:44:09] FL10 bit 2
+Line 45638: [2026-06-28 15:44:10] MP
+Line 45639: st
+Line 45640: [2026-06-28 15:44:10] FL10 bit 5
+Line 45641: [2026-06-28 15:44:10] ---tNMP
+Line 45642: st
+Line 45643: [2026-06-28 15:44:15] ERROR: HANG
+Line 45644: [2026-06-28 15:44:15] HANG DETECTED AT ADDRESS 0x1050
+Line 45645: [2026-06-28 15:44:15] ARDUINO RESET VIA DTR
+Line 45647: [2026-06-28 15:44:21] ADVANCING TO ADDRESS 0x1064
+Line 45648: [2026-06-28 15:44:21] ADDRESS 0x1064 CAUSED HANG
+Line 45650: [2026-06-28 15:44:23] ADVANCING TO ADDRESS 0x1078
+Line 45667: [2026-06-28 15:44:28] ERROR: HANG
+Line 45668: [2026-06-28 15:44:28] HANG DETECTED AT ADDRESS 0x1078
+Line 45669: [2026-06-28 15:44:28] ARDUINO RESET VIA DTR
+Line 45671: [2026-06-28 15:44:35] ADVANCING TO ADDRESS 0x108C
+Line 45672: [2026-06-28 15:44:35] ADDRESS 0x108C CAUSED HANG
+Line 45674: [2026-06-28 15:44:37] ADVANCING TO ADDRESS 0x10A0
+Line 47891: [2026-06-28 15:53:21] ERROR: HANG
+Line 47892: [2026-06-28 15:53:21] HANG DETECTED AT ADDRESS 0x1140
+Line 47893: [2026-06-28 15:53:21] ARDUINO RESET VIA DTR
+Line 47895: [2026-06-28 15:53:27] ADVANCING TO ADDRESS 0x1154
+Line 47896: [2026-06-28 15:53:27] ADDRESS 0x1154 CAUSED HANG
+Line 47898: [2026-06-28 15:53:29] ADVANCING TO ADDRESS 0x1168
+Line 47929: [2026-06-28 15:53:33] FLIP @ 0x

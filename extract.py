@@ -76,7 +76,10 @@ def create_ram_visualization(data, output_file, append=False, tags=None):
     tag_values = {
         "N/A": '0',
         "String": '1',
-        "Reboot": '2'
+        "Reboot": '2',
+        "Unknown": '3',
+        "Alt": "4",
+        "Lock":"5"
     }
 
     if isinstance(data, list):

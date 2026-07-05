@@ -1,0 +1,690 @@
+288
+288
+288
+Flipping address 343, bit 4
+288
+293
+303
+307
+301
+Flipping address 338, bit 5
+304
+288
+288
+287
+288
+Flipping address 313, bit 7
+288
+287
+288
+287
+287
+Flipping address 267, bit 3
+287
+288
+290
+292
+294
+Flipping address 295, bit 1
+287
+300
+298
+294
+293
+Flipping address 281, bit 5
+287
+293
+294
+297
+300
+Flipping address 280, bit 3
+288
+300
+297
+290
+288
+Flipping address 257, bit 0
+287
+288
+288
+288
+287
+Flipping address 303, bit 6
+288
+288
+288
+288
+288
+Flipping address 292, bit 1
+288
+288
+289
+288
+287
+Flipping address 324, bit 1
+289
+288
+288
+288
+288
+Flipping address 340, bit 1
+306
+302
+308
+307
+302
+Flipping address 328, bit 1
+286
+290
+288
+287
+286
+Flipping address 270, bit 5
+293
+288
+291
+295
+299
+Flipping address 338, bit 2
+307
+300
+302
+306
+309
+Flipping address 268, bit 0
+298
+303
+292
+288
+287
+Flipping address 343, bit 7
+289
+287
+289
+293
+293
+Flipping address 261, bit 0
+307
+297
+299
+303
+305
+Flipping address 299, bit 0
+304
+306
+305
+305
+304
+Flipping address 287, bit 3
+306
+Blini301
+Blini302
+Blini303
+Blini305
+BliniFlipping address 336, bit 2
+Blini290
+Blini307
+Blini306
+Blini304
+Blini299
+BliniFlipping address 333, bit 2
+Blini307
+Blini291
+Blini288
+Blini288
+Blini287
+BliniFlipping address 307, bit 6
+Blini288
+Blini288
+Blini289
+Blini294
+Blini305
+BliniFlipping address 259, bit 5
+Blini298
+Blini296
+Blini288
+Blini288
+Blini288
+BliniFlipping address 298, bit 4
+Blini288
+Blini294
+Blini307
+Blini307
+Blini292
+BliniFlipping address 319, bit 3
+Blini301
+Blini287
+Blini288
+Blini288
+Blini300
+BliniFlipping address 340, bit 2
+Blini295
+Blini297
+Blini288
+Blini287
+Blini290
+BliniFlipping address 269, bit 1
+Blini288
+Blini309
+Blini296
+Blini288
+Blini288
+BliniFlipping address 287, bit 0
+Blini287
+	Blini294
+	Blini306
+	Blini306
+	Blini301
+	BliniFlipping address 344, bit 0
+	Blini306
+	Blini288
+	Blini288
+	Blini287
+	Blini288
+	BliniFlipping address 355, bit 5
+	Blini301
+	Blini288
+	Blini288
+	Blini288
+	Blini288
+	BliniFlipping address 261, bit 6
+	Blini288
+	Blini290
+	Blini294
+	Blini300
+	Blini304
+	BliniFlipping address 341, bit 3
+	Blini290
+	Blini313
+	Blini310
+	Blini309
+	Blini306
+	BliniFlipping address 291, bit 5
+	Blini307
+	BliNi299
+	BliNi293
+	BliNi289
+	BliNi288
+	BliNiFlipping address 316, bit 7
+	BliNi300
+	BliNi288
+	BliNi287
+	BliNi287
+	BliNi286
+	BliNiFlipping address 340, bit 0
+	BliNi286
+	BliNi305
+	BliNi308
+	BliNi289
+	BliNi287
+	BliNiFlipping address 344, bit 2
+	BliNi286
+	BliNi303
+	BliNi310
+	BliNi304
+	BliNi289
+	BliNiFlipping address 355, bit 4
+	BliNi301
+	BliNi286
+	BliNi287
+	BliNi288
+	BliNi291
+	BliNiFlipping address 313, bit 5
+	BliNi288
+	BliNi310
+	BliNi302
+	BliNi288
+	BliNi284
+	BliNiFlipping address 327, bit 1
+	BliNi286
+	BliNi288
+	BliNi294
+	BliNi304
+	BliNi307
+	BliNiFlipping address 268, bit 1
+	BliNi304
+	BliNi290
+	BliNi288
+	BliNi288
+	BliNi292
+	BliNiFlipping address 331, bit 7
+	BliNi289
+	BliNi306
+	BliNi294
+	BliNi288
+	BliNi288
+	BliNiFlipping address 301, bit 3
+	BliNi288
+	BliNi304
+	BliNi307
+	BliNi297
+	BliNi289
+	BliNiFlipping address 323, bit 4
+	BliNi292
+	BliNi288
+	BliNi289
+	BliNi295
+	BliNi306
+	BliNiFlipping address 352, bit 1
+	BliNi296
+	BliNi304
+	BliNi299
+	BliNi294
+	BliNi290
+	BliNiFlipping address 337, bit 1
+	BliNi298
+	BliNi288
+	BliNi289
+	BliNi291
+	BliNi304
+	BliNiFlipping address 271, bit 3
+	BliNiREBOOT@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+290
+292
+294
+295
+301
+Flipping address 263, bit 1
+308
+310
+308
+297
+288
+Flipping address 343, bit 4
+288
+287
+288
+293
+Flipping address 256, byte 0, bit 0
+Before: 0b11
+312
+293
+292
+291
+291
+Flipping address 257, byte 1, bit 0
+Before: 0b1111111
+310
+291
+292
+295
+304
+Flipping address 258, byte 2, bit 0
+Before: 0b1000
+292
+307
+301
+294
+291
+Flipping address 259, byte 3, bit 0
+Before: 0b11010011
+308
+292
+REBOOT@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+408
+345
+315
+306
+303
+Flipping address 256, byte 0, bit 0
+306
+295
+293
+291
+291
+Flipping address 257, byte 1, bit 0
+297
+291
+301
+311
+309
+Flipping address 258, byte 2, bit 0
+308
+290
+290
+290
+291
+Flipping address 259, byte 3, bit 0
+290
+306
+311
+304
+293
+Flipping address 260, byte 4, bit 0
+309
+290
+281
+302
+259
+Flipping address 261, byte 5, bit 0
+277
+306
+313
+313
+306
+Flipping address 262, byte 6, bit 0
+312
+293
+293
+310
+304
+Flipping address 263, byte 7, bit 0
+310
+293
+296
+311
+306
+Flipping address 264, byte 8, bit 0
+311
+292
+293
+308
+306
+Flipping address 265, byte 9, bit 0
+310
+291
+292
+296
+309
+Flipping address 266, byte 10, bit 0
+291
+294
+291
+291
+296
+Flipping address 267, byte 11, bit 0
+���==Q5
+291
+292
+296
+299
+300
+Flipping address 256, byte 0, bit 0
+305
+295
+293
+292
+292
+Flipping address 257, byte 1, bit 0
+310
+291
+291
+290
+291
+Flipping address 258, byte 2, bit 0
+302
+291
+291
+291
+294
+Flipping address 259, byte 3, bit 0
+290
+310
+309
+302
+293
+Flipping address 260, byte 4, bit 0
+309
+291
+291
+295
+309
+Flipping address 261, byte 5, bit 0
+296
+292
+290
+291
+294
+Flipping address 262, byte 6, bit 0
+291
+301
+291
+290
+291
+Flipping address 263, byte 7, bit 0
+291
+304
+310
+310
+308
+Flipping address 264, byte 8, bit 0
+297
+297
+293
+291
+290
+Flipping address 265, byte 9, bit 0
+299
+291
+292
+292
+294
+Flipping address 266, byte 10, bit 0
+290
+303
+308
+310
+309
+Flipping address 267, byte 11, bit 0
+���==Q5
+291
+290
+297
+308
+310
+Flipping address 256, byte 0, bit 0
+291
+299
+295
+292
+292
+Flipping address 257, byte 1, bit 0
+291
+291
+291
+291
+292
+Flipping address 258, byte 2, bit 0
+291
+301
+307
+310
+309
+Flipping address 259, byte 3, bit 0
+298
+296
+291
+290
+290
+Flipping address 260, byte 4, bit 0
+295
+292
+291
+293
+297
+Flipping address 261, byte 5, bit 0
+291
+310
+309
+303
+292
+Flipping address 262, byte 6, bit 0
+305
+291
+296
+309
+306
+Flipping address 263, byte 7, bit 0
+309
+291
+291
+293
+306
+Flipping address 264, byte 8, bit 0
+293
+296
+291
+291
+291
+Flipping address 265, byte 9, bit 0
+290
+314
+301
+294
+292
+Flipping address 266, byte 10, bit 0
+308
+288
+288
+288
+290
+Flipping address 267, byte 11, bit 0
+���==Q5
+301
+308
+300
+293
+292
+Flipping address 256, byte 0, bit 0
+296
+290
+290
+290
+291
+Flipping address 257, byte 1, bit 0
+311
+291
+294
+298
+298
+Flipping address 258, byte 2, bit 0
+302
+303
+305
+306
+307
+Flipping address 259, byte 3, bit 0
+294
+308
+306
+301
+294
+Flipping address 260, byte 4, bit 0
+310
+291
+290
+290
+290
+Flipping address 261, byte 5, bit 0
+291
+292
+299
+307
+312
+Flipping address 262, byte 6, bit 0
+291
+310
+305
+299
+297
+Flipping address 263, byte 7, bit 0
+308
+291
+290
+290
+290
+Flipping address 264, byte 8, bit 0
+297
+291
+293
+299
+307
+Flipping address 265, byte 9, bit 0
+291
+307
+302
+297
+294
+Flipping address 266, byte 10, bit 0
+306
+290
+290
+290
+290
+Flipping address 267, byte 11, bit 0
+���==Q5
+294
+310
+306
+293
+291
+Flipping address 256, byte 0, bit 0
+301
+289
+290
+290
+290
+Flipping address 257, byte 1, bit 0
+295
+292
+293
+294
+301
+Flipping address 258, byte 2, bit 0
+291
+308
+307
+308
+307
+Flipping address 259, byte 3, bit 0
+290
+310
+311
+309
+308
+Flipping address 260, byte 4, bit 0
+303
+293
+290
+289
+290
+Flipping address 261, byte 5, bit 0
+298
+291
+290
+290
+289
+Flipping address 262, byte 6, bit 0
+289
+305
+310
+302
+291
+Flipping address 263, byte 7, bit 0
+307
+291
+294
+309
+307
+Flipping address 264, byte 8, bit 0
+310
+290
+290
+290
+293
+Flipping address 265, byte 9, bit 0
+289
+306
+310
+309
+309
+Flipping address 266, byte 10, bit 0
+290
+304
+301
+298
+295
+Flipping address 267, byte 11, bit 0
+���==Q5
+292
+289
