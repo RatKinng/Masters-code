@@ -1,0 +1,245 @@
+FLIP @ 0x292 bit 4 - 1
+FLIP @ 0x293 bit 4
+FLIP @ 0x293 bit 4
+FLIP @ 0x295 bit 4
+FLIP @ 0x296 bit 2
+FLIP @ 0x297 bit 6 
+FLIP @ 0x298 bit 4
+FLIP @ 0x299 bit 4
+FLIP @ 0x29A bit 2
+FLIP @ 0x29B bit 3
+FLIP @ 0x29C bit 6
+FLIP @ 0x29D bit 2
+FLIP @ 0x29E bit 6
+FLIP @ 0x29F bit 3
+FLIP @ 0x2A0 bit 7
+FLIP @ 0x2A1 bit 4
+FLIP @ 0x2A2 bit 4
+FLIP @ 0x2A3 bit 6
+FLIP @ 0x2A4 bit 1
+FLIP @ 0x2A5 bit 0
+FLIP @ 0x2A6 bit 2
+FLIP @ 0x2A7 bit 2
+FLIP @ 0x2A8 bit 5
+FLIP @ 0x2A9 bit 3
+FLIP @ 0x2AA bit 7
+FLIP @ 0x2AB bit 2
+FLIP @ 0x2AC bit 0
+FLIP @ 0x2AD bit 1
+FLIP @ 0x2AE bit 6
+FLIP @ 0x2AF bit 0
+FLIP @ 0x2B0 bit 0
+FLIP @ 0x2B1 bit 3
+FLIP @ 0x2B2 bit 0
+FLIP @ 0x2B3 bit 2
+FLIP @ 0x2B4 bit 7
+FLIP @ 0x2B5 bit 4
+FLIP @ 0x2B6 bit 0
+FLIP @ 0x2B7 bit 5
+FLIP @ 0x2B8 bit 4
+FLIP @ 0x2B9 bit 1
+FLIP @ 0x2BA bit 2
+FLIP @ 0x2BB bit 2
+FLIP @ 0x2BC bit 3
+FLIP @ 0x2BD bit 6
+FLIP @ 0x2BE bit 6
+FLIP @ 0x2BF bit 4
+FLIP @ 0x2C0 bit 6
+FLIP @ 0x2C1 bit 4
+FLIP @ 0x2C2 bit 0
+FLIP @ 0x2C3 bit 5
+FLIP @ 0x2C4 bit 5
+FLIP @ 0x2C5 bit 1
+FLIP @ 0x2C6 bit 7 
+FLIP @ 0x2F8 bit 6
+FLIP @ 0x2F9 bit 4
+FLIP @ 0x2FA bit 3
+FLIP @ 0x2FB bit 1
+FLIP @ 0x2FC bit 1
+FLIP @ 0x2FD bit 6
+FLIP @ 0x2FE bit 5
+FLIP @ 0x2FF bit 3
+FLIP @ 0x300 bit 0
+FLIP @ 0x301 bit 2
+FLIP @ 0x302 bit 4
+FLIP @ 0x303 bit 1
+FLIP @ 0x304 bit 4
+FLIP @ 0x305 bit 6
+FLIP @ 0x306 bit 0
+FLIP @ 0x307 bit 3
+FLIP @ 0x308 bit 2
+FLIP @ 0x309 bit 4
+FLIP @ 0x30A bit 7
+FLIP @ 0x30B bit 6
+FLIP @ 0x30C bit 1
+FLIP @ 0x30D bit 2
+FLIP @ 0x30E bit 1
+FLIP @ 0x30F bit 4
+FLIP @ 0x310 bit 6
+FLIP @ 0x4E8 bit 6 - 2
+FLIP @ 0x4EC bit 1 - 3
+FLIP @ 0x5DA bit 3 - 2
+FLIP @ 0x5B4 bit 0 - 2
+FLIP @ 0x23A bit 5 - UNKOWN
+FLIP @ 0x290 bit 6 - 1 
+FLIP @ 0x291 bit 2
+FLIP @ 0x292 bit 1
+FLIP @ 0x293 bit 1
+FLIP @ 0x294 bit 6
+FLIP @ 0x295 bit 4
+FLIP @ 0x296 bit 7
+FLIP @ 0x297 bit 6
+FLIP @ 0x298 bit 7
+FLIP @ 0x299 bit 4
+FLIP @ 0x29A bit 5
+FLIP @ 0x29B bit 5
+FLIP @ 0x29C bit 2
+FLIP @ 0x29D bit 0
+FLIP @ 0x29E bit 5
+FLIP @ 0x29F bit 2
+FLIP @ 0x2A0 bit 1
+FLIP @ 0x2A1 bit 4
+FLIP @ 0x2A2 bit 4
+FLIP @ 0x2A3 bit 5
+FLIP @ 0x2A4 bit 5
+FLIP @ 0x2A5 bit 3
+FLIP @ 0x2A6 bit 6
+FLIP @ 0x2A7 bit 3
+FLIP @ 0x2A8 bit 0
+FLIP @ 0x2A9 bit 1
+FLIP @ 0x2AA bit 5
+FLIP @ 0x2AB bit 2
+FLIP @ 0x2AC bit 7
+FLIP @ 0x2AD bit 5
+FLIP @ 0x2AE bit 3
+FLIP @ 0x2AF bit 0
+FLIP @ 0x2B0 bit 6
+FLIP @ 0x2B1 bit 0
+FLIP @ 0x2B2 bit 3
+FLIP @ 0x2B3 bit 2
+FLIP @ 0x2B4 bit 3
+FLIP @ 0x2B5 bit 4
+FLIP @ 0x2B6 bit 3
+FLIP @ 0x2B7 bit 4
+FLIP @ 0x2B8 bit 6
+FLIP @ 0x2B9 bit 4
+FLIP @ 0x2BA bit 3
+FLIP @ 0x2BB bit 6
+FLIP @ 0x2BC bit 5
+FLIP @ 0x2BD bit 7
+FLIP @ 0x2BE bit 6
+FLIP @ 0x2BF bit 1
+FLIP @ 0x2C0 bit 1
+FLIP @ 0x2C1 bit 7
+FLIP @ 0x2C2 bit 3
+FLIP @ 0x2C3 bit 6
+FLIP @ 0x2C4 bit 6
+FLIP @ 0x2C5 bit 2
+FLIP @ 0x2C6 bit 3
+FLIP @ 0x2F8 bit 5
+FLIP @ 0x2F9 bit 4
+FLIP @ 0x2FA bit 1
+FLIP @ 0x2FB bit 2
+FLIP @ 0x2FC bit 1
+FLIP @ 0x2FD bit 4
+FLIP @ 0x2FE bit 7
+FLIP @ 0x2FF bit 0
+FLIP @ 0x300 bit 0
+FLIP @ 0x301 bit 5
+FLIP @ 0x302 bit 6
+FLIP @ 0x303 bit 2
+FLIP @ 0x304 bit 0
+FLIP @ 0x305 bit 4
+FLIP @ 0x306 bit 0
+FLIP @ 0x307 bit 6
+FLIP @ 0x308 bit 3
+FLIP @ 0x309 bit 5
+FLIP @ 0x30A bit 0
+FLIP @ 0x30B bit 3
+FLIP @ 0x30C bit 3
+FLIP @ 0x30D bit 6
+FLIP @ 0x30E bit 6
+FLIP @ 0x30F bit 2
+FLIP @ 0x310 bit 7
+FLIP @ 0x311 bit 3
+FLIP @ 0x312 bit 0
+FLIP @ 0x313 bit 0
+FLIP @ 0x314 bit 3
+FLIP @ 0x315 bit 5
+FLIP @ 0x316 bit 1
+FLIP @ 0x317 bit 6
+FLIP @ 0x318 bit 5
+FLIP @ 0x319 bit 0
+FLIP @ 0x31A bit 5
+FLIP @ 0x31B bit 4
+FLIP @ 0x31C bit 5
+FLIP @ 0x31D bit 3
+FLIP @ 0x31E bit 3
+FLIP @ 0x31F bit 0
+FLIP @ 0x320 bit 4
+FLIP @ 0x321 bit 2
+FLIP @ 0x322 bit 2
+FLIP @ 0x323 bit 6
+FLIP @ 0x324 bit 4
+FLIP @ 0x325 bit 5
+FLIP @ 0x326 bit 1
+FLIP @ 0x327 bit 2
+FLIP @ 0x328 bit 5
+FLIP @ 0x329 bit 6
+FLIP @ 0x32A bit 1
+FLIP @ 0x4AF bit 0 - 3
+FLIP @ 0x4EC bit 3 - UNKNOWN
+FLIP @ 0x582 bit 5 - UNKNOWN
+FLIP @ 0x614 - UNKNOWN
+FLIP @ 0x6F6 bit 7 - reset
+FLIP @ 0x741 bit 5 - UNKNOWN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
