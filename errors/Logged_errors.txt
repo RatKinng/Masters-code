@@ -193,24 +193,27 @@ FLIP @ 0x582 bit 5 - UNKNOWN
 FLIP @ 0x614 - UNKNOWN
 FLIP @ 0x6F6 bit 7 - reset
 FLIP @ 0x741 bit 5 - UNKNOWN
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+FLIP @ 0xC75 bit 6 - Reset
+FLIP @ 0xD2F bit 4 - Reset
+FLIP @ 0xF19 bit 4 - Reset
+FLIP @ 0x105F bit 3 - Reset
+FLIP @ 0x1169 bit 7 - UNKNOWN
+FLIP @ 0x23A bit 6 - UNKNOWN
+FLIP @ 0x290 bit 5 - 1 
+through 
+FLIP @ 0x2C6 bit 1 - 1
+FLIP @ 0x2F8 bit 3 - 1
+FLIP @ 0x32A bit 1 - 1
+FLIP @ 0x4AF bit 5 - Reset
+FLIP @ 0x4E8 bit 7 - HANG
+FLIP @ 0x5DA bit 7 - HANG
+FLIP @ 0x430 bit 6 - UNKNOWN
+FLIP @ 0x741 bit 7 - UNKNOWN
+FLIP @ 0x88F bit 7 - RESET
+FLIP @ 0xD1C bit 3 - reset
+FLIP @ 0xF18 bit 0 - reset
+FLIP @ 0x105F bit 3 - reset
+FLIP @ 0x1169 bit 2 - UNKNOWN
 
 
 
