@@ -155,12 +155,6 @@ void setup(){
 
   xSemaphoreTake(xSerialMutex, portMAX_DELAY);
   Serial.println("MPU6050 Found!");
-  Serial.println();
-  Serial.println("Commands:");
-  Serial.println("  restart");
-  Serial.println("  0x1500");
-  Serial.println("  5376");
-  Serial.println();
   xSemaphoreGive(xSerialMutex);
 
   // Create Tasks
@@ -231,8 +225,7 @@ void TaskFlipBit(void *pvParameters){
     if (addr >= SRAM_START && addr <= SRAM_END){
       uint8_t *targetByte = (uint8_t *)addr;
       uint8_t bitIndex = random(8);
-      *targetByte ^= (1 << bitIndex);
-
+      
       xSemaphoreTake( xSerialMutex, portMAX_DELAY);
 
       Serial.print("FLIP @ 0x");
@@ -241,6 +234,8 @@ void TaskFlipBit(void *pvParameters){
       Serial.println(bitIndex);
 
       xSemaphoreGive( xSerialMutex);
+      
+      *targetByte ^= (1 << bitIndex);
     }
 
     taskENTER_CRITICAL();
